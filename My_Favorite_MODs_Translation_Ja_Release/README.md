@@ -18,5 +18,5 @@ MODの日本語化MODと、オリジナルのMODと間違えないように気�
 
 - [Misc. Robots++](http://steamcommunity.com/sharedfiles/filedetails/?id=747645520 "Misc. Robots++")
   - かわいくてとても便利なロボットを導入する MOD
-  - [Misc. Robots++ Ja]
+  - [Misc. Robots++ Ja](http://steamcommunity.com/sharedfiles/filedetails/?id=754791001 "Misc. Robots++ Ja")
     - クールなロボットMOD を日本語化するMOD
