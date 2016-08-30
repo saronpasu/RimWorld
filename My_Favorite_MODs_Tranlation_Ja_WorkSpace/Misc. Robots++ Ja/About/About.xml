@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Misc. Robots++ Ja</name>
+    <author>saronpasu</author>
+    <url>https://github.com/saronpasu/RimWorld/My_Favorite_MODs_Release/Misc. Robots++ Ja/</url>
+    <targetVersion>0.14.1249</targetVersion>
+    <description>This MOD is "Misc. Robots++" MODs Japanese Localization MOD.
+*** You must load Misc. Robots++ first for this work at all! ***
+
+NOTICE: This Localization MOD update is very slower.
+    and, Original MODs label and messages copy for work.
+    Original MOD is updat released, then Japanese translation work to start.
+
+I am thankful to wonderful MOD creator Alaestor.
+
+=== in Japanese( 日本語の説明はここから) ===
+このMODは「Misc. Robots++」というMODの日本語化MODです。
+必ず、先に「Misc. Robots++」MODの動作を確認して下さい。
+
+注意書き: この日本語化MODは更新がとても遅いです。
+    そして、オリジナルのMODに書いてある名前や説明を元に作成しています。
+    オリジナルのMODのアップデートがリリースされてから、日本語化の作業を開始します。
+
+素晴らしいMODを作った Alastor さんへ尊敬と感謝を！！
+
+=== History ===
+2016.08.30  Version:0.1.3a_jp   create localization MOD.
+    Original MOD version v0.13a
+    </description>
+</ModMetaData>

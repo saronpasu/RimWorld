@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <CleanerBotProduction.label>[ガラクタ]誰か引き取って下さい</CleanerBotProduction.label>
+    <CleanerBotProduction.description>!!注意!!これはもう使われていない設計図です。</CleanerBotProduction.description>
+    <HaulerBotProduction.label>[ガラクタ]誰か引き取って下さい</HaulerBotProduction.label>
+    <HaulerBotProduction.description>!!注意!!これはもう使われていない設計図です。</HaulerBotProduction.description>
+    <KitchenBotProduction.label>[ガラクタ]誰か引き取って下さい</KitchenBotProduction.label>
+    <KitchenBotProduction.description>!!注意!!これはもう使われていない設計図です。</KitchenBotProduction.description>
+    <CrafterBotProduction.label>[ガラクタ]誰か引き取って下さい</CrafterBotProduction.label>
+    <CrafterBotProduction.description>!!注意!!これはもう使われていない設計図です。</CrafterBotProduction.description>
+    <BuilderBotProduction.label>[ガラクタ]誰か引き取って下さい</BuilderBotProduction.label>
+    <BuilderBotProduction.description>!!注意!!これはもう使われていない設計図です。</BuilderBotProduction.description>
+    <ERBotProduction.label>[ガラクタ]誰か引き取って下さい</ERBotProduction.label>
+    <ERBotProduction.description>!!注意!!これはもう使われていない設計図です。</ERBotProduction.description>
+</LanguageData>

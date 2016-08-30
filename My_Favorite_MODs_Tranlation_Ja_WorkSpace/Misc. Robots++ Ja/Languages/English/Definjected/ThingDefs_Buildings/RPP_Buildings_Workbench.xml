@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ThingDefs>
+    	<ThingDef ParentName="BenchBase">
+            <Table_RPP_RoboticsBench.label>robotics workbench</Table_RPP_RoboticsBench.label>
+            <Table_RPP_RoboticsBench.description>A workbench tooled for the production of robotic units.</Table_RPP_RoboticsBench.description>
+        </ThingDefs>
+    </ThingDefs>
+</LanguageData>
