@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AIRobot_Custom_BuilderBot.label>土木工事ロボ</AIRobot_Custom_BuilderBot.label>
+    <AIRobot_Custom_BuilderBot.description>アマチュアクラス(グレード1)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</AIRobot_Custom_BuilderBot.description>
+    <RPP_Bot_Builder_Interm.label>土木工事ロボ</RPP_Bot_Builder_Interm.label>
+    <RPP_Bot_Builder_Interm.description>プロクラス(グレード2)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_Interm.description>
+    <RPP_Bot_Builder_Adv.label>土木工事ロボ</RPP_Bot_Builder_Adv.label>
+    <RPP_Bot_Builder_Adv.description>マスタークラス(グレード3)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_Adv.description>
+    <AIRobot_Custom_CrafterBot.label>作業ロボ</AIRobot_Custom_CrafterBot.label>
+    <AIRobot_Custom_CrafterBot.description>アマチュアクラス(グレード1)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</AIRobot_Custom_CrafterBot.description>
+    <RPP_Bot_Crafter_Interm.label>作業ロボ</RPP_Bot_Crafter_Interm.label>
+    <RPP_Bot_Crafter_Interm.description>プロクラス(グレード2)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_Interm.description>
+    <RPP_Bot_Crafter_Adv.label>作業ロボ</RPP_Bot_Crafter_Adv.label>
+    <RPP_Bot_Crafter_Adv.description>マスタークラス(グレード3)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_Adv.description>
+    <AIRobot_Custom_ERBot.label>医療ロボ</AIRobot_Custom_ERBot.label>
+    <AIRobot_Custom_ERBot.description>アマチュアクラス(グレード1)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</AIRobot_Custom_ERBot.description>
+    <RPP_Bot_ER_Interm.label>医療ロボ</RPP_Bot_ER_Interm.label>
+    <RPP_Bot_ER_Interm.description>プロクラス(グレード2)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_Interm.description>
+    <RPP_Bot_ER_Adv.label>医療ロボ</RPP_Bot_ER_Adv.label>
+    <RPP_Bot_ER_Adv.description>マスタークラス(グレード3)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_Adv.description>
+    <AIRobot_Custom_KitchenBot.label>調理ロボ</AIRobot_Custom_KitchenBot.label>
+    <AIRobot_Custom_KitchenBot.description>アマチュアクラス(グレード1)のユニットを使用した調理ロボです。調理、農業ができます。</AIRobot_Custom_KitchenBot.description>
+    <RPP_Bot_Kitchen_Interm.label>調理ロボ</RPP_Bot_Kitchen_Interm.label>
+    <RPP_Bot_Kitchen_Interm.description>プロクラス(グレード2)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_Interm.description>
+    <RPP_Bot_Kitchen_Adv.label>調理ロボ</RPP_Bot_Kitchen_Adv.label>
+    <RPP_Bot_Kitchen_Adv.description>マスタークラス(グレード3)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_Adv.description>
+    <!-- OmniBot
+    <RPP_Bot_OmniBot.label>万能ロボ</RPP_Bot_OmniBot.label>
+    <RPP_Bot_OmniBot.description>神業クラス(グレード4)のユニットを使用した万能ロボです。どんな作業でもできます。</RPP_Bot_OmniBot.description>
+    -->
+</LanguageData>

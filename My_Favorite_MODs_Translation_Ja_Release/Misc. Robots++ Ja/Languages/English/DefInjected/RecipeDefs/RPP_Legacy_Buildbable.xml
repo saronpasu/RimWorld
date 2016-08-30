@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <CleanerBotProduction.label>[LEGACY] Please Remove Me</CleanerBotProduction.label>
+    <CleanerBotProduction.description>!!OLD RECIPE!! Legacy. Functionality Deprecated!</CleanerBotProduction.description>
+    <HaulerBotProduction.label>[LEGACY] Please Remove Me</HaulerBotProduction.label>
+    <HaulerBotProduction.description>!!OLD RECIPE!! Legacy. Functionality Deprecated!</HaulerBotProduction.description>
+    <KitchenBotProduction.label>[LEGACY] Please Remove Me</KitchenBotProduction.label>
+    <KitchenBotProduction.description>!!OLD RECIPE!! Legacy. Functionality Deprecated!</KitchenBotProduction.description>
+    <CrafterBotProduction.label>[LEGACY] Please Remove Me</CrafterBotProduction.label>
+    <CrafterBotProduction.description>!!OLD RECIPE!! Legacy. Functionality Deprecated!</CrafterBotProduction.description>
+    <BuilderBotProduction.label>[LEGACY] Please Remove Me</BuilderBotProduction.label>
+    <BuilderBotProduction.description>!!OLD RECIPE!! Legacy. Functionality Deprecated!</BuilderBotProduction.description>
+    <ERBotProduction.label>[LEGACY] Please Remove Me</ERBotProduction.label>
+    <ERBotProduction.description>!!OLD RECIPE!! Legacy. Functionality Deprecated!</ERBotProduction.description>
+</LanguageData>
