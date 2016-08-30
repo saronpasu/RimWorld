@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <ThingDefs>
-    	<ThingDef ParentName="BenchBase">
-            <Table_RPP_RoboticsBench.label>ロボット工学作業台</Table_RPP_RoboticsBench.label>
-            <Table_RPP_RoboticsBench.description>ロボットに必要な論理回路や部品などを製造します。</Table_RPP_RoboticsBench.description>
-        </ThingDefs>
-    </ThingDefs>
-</LanguageData>
