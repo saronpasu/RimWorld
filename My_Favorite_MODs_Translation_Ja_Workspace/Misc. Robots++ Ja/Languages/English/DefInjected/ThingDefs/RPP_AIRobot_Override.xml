@@ -9,7 +9,5 @@
     <AIRobot_Cleaner.label>Cleaner Bot</AIRobot_Cleaner.label>
     <AIRobot_Cleaner.description>A Tier 1 unit capable of cleaning. This low-speed bot can also flick switches.</AIRobot_Cleaner.description>
     <AIRobot_Hauler.label>Hauler Bot (Tier 1)</AIRobot_Hauler.label>
-    <AIRobot_Hauler.race>AIRobot_Hauler</AIRobot_Hauler.race>
     <AIRobot_Cleaner.label>Cleaner Bot (Tier 1)</AIRobot_Cleaner.label>
-    <AIRobot_Cleaner.race>AIRobot_Cleaner</AIRobot_Cleaner.race>
 </LanguageData>
