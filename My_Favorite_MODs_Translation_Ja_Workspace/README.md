@@ -23,4 +23,4 @@
 
 ---
 ## MOD の和訳ノウハウ についてのメモとか
-- MOD の和訳ノウハウは [こっち](/HowTo_MOD_Localization_MOD/) です。
+- MOD の和訳ノウハウは [こっち](./HowTo_MOD_Localization_MOD/) です。
