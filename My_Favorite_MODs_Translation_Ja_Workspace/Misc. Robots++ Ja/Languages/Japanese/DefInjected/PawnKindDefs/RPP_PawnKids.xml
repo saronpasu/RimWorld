@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <AIRobot_Custom_BuilderBot.label>ベーシック・土木工事ロボ</AIRobot_Custom_BuilderBot.label>
+    <RPP_Bot_Builder_Basic.label>ベーシック・土木工事ロボ</RPP_Bot_Builder_Basic.label>
     <RPP_Bot_Builder_Interm.label>アドバンスド・土木工事ロボ</RPP_Bot_Builder_Interm.label>
     <RPP_Bot_Builder_Adv.label>ハイグレード・土木工事ロボ</RPP_Bot_Builder_Adv.label>
-    <AIRobot_Custom_CrafterBot.label>ベーシック・作業ロボ</AIRobot_Custom_CrafterBot.label>
+    <RPP_Bot_Crafter_Basic.label>ベーシック・作業ロボ</RPP_Bot_Crafter_Basic.label>
     <RPP_Bot_Crafter_Interm.label>アドバンスド・作業ロボ</RPP_Bot_Crafter_Interm.label>
     <RPP_Bot_Crafter_Adv.label>ハイグレード・作業ロボ</RPP_Bot_Crafter_Adv.label>
-    <AIRobot_Custom_ERBot.label>ベーシック・医療ロボ</AIRobot_Custom_ERBot.label>
+    <RPP_Bot_ER_Basic.label>ベーシック・医療ロボ</RPP_Bot_ER_Basic.label>
     <RPP_Bot_ER_Interm.label>アドバンスド・医療ロボ</RPP_Bot_ER_Interm.label>
     <RPP_Bot_ER_Adv.label>ハイグレード・医療ロボ</RPP_Bot_ER_Adv.label>
-    <AIRobot_Custom_KitchenBot.label>ベーシック・調理ロボ</AIRobot_Custom_KitchenBot.label>
+    <RPP_Bot_Kitchen_Basic.label>ベーシック・調理ロボ</RPP_Bot_Kitchen_Basic.label>
     <RPP_Bot_Kitchen_Interm.label>アドバンスド・調理ロボ</RPP_Bot_Kitchen_Interm.label>
     <RPP_Bot_Kitchen_Adv.label>ハイグレード・調理ロボ</RPP_Bot_Kitchen_Adv.label>
+    <AIRobot_Hauler.label>輸送ロボ</AIRobot_Hauler.label>
+    <AIRobot_Cleaner.label>お掃除ロボ</AIRobot_Cleaner.label>
     <!-- OmniBot -->
     <!--
         <RPP_Bot_OmniBot.label>超高性能汎用ロボ</RPP_Bot_OmniBot.label>

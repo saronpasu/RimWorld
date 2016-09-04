@@ -8,6 +8,4 @@
     <AIRobot_Hauler.description>A Tier 1 unit capable of hauling. This high-speed bot will so cremate corpses and apparel.</AIRobot_Hauler.description>
     <AIRobot_Cleaner.label>Cleaner Bot</AIRobot_Cleaner.label>
     <AIRobot_Cleaner.description>A Tier 1 unit capable of cleaning. This low-speed bot can also flick switches.</AIRobot_Cleaner.description>
-    <AIRobot_Hauler.label>Hauler Bot (Tier 1)</AIRobot_Hauler.label>
-    <AIRobot_Cleaner.label>Cleaner Bot (Tier 1)</AIRobot_Cleaner.label>
 </LanguageData>

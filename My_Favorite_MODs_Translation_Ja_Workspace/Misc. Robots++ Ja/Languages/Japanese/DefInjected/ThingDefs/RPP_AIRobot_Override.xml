@@ -8,7 +8,4 @@
     <AIRobot_Hauler.description>グレード1のユニットを使用したこのロボは、とても高速です。しかし、壊れやすくすぐに燃料切れになります。</AIRobot_Hauler.description>
     <AIRobot_Cleaner.label>お掃除ロボ</AIRobot_Cleaner.label>
     <AIRobot_Cleaner.description>グレード1のユニットを使用したこのロボは、とても高速です。しかし、壊れやすくすぐに燃料切れになります。</AIRobot_Cleaner.description>
-
-    <AIRobot_Hauler.label>輸送ロボ</AIRobot_Hauler.label>
-    <AIRobot_Cleaner.label>お掃除ロボ</AIRobot_Cleaner.label>
 </LanguageData>
