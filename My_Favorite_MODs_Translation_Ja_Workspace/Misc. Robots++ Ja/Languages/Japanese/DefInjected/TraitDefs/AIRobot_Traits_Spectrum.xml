@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <rep>
+        <path>AIRobot_BaseTrait.degreeDatas[0].label</path>
+        <trans>ロボット</trans>
+    </rep>
+    <rep>
+        <path>AIRobot_BaseTrait.degreeDatas[0].description</path>
+        <trans>NAMEはロボットです。 HEは少し機敏です。なおかつ、精神的な影響を受けることはないでしょう。</trans>
+    </rep>
+</LanguageData>
