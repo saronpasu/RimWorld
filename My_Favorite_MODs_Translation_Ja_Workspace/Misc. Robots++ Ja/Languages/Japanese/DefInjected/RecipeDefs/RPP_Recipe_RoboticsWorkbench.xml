@@ -2,15 +2,20 @@
 <LanguageData>
     <RPP_Production_Component.label>ロボット用コンポーネントを作成する</RPP_Production_Component.label>
     <RPP_Production_Component.description>ロボットの部品となるパーツです。</RPP_Production_Component.description>
+    <RPP_Production_Component.jobString>ロボットの部品を組み立てています。</RPP_Production_Component.jobString>
     <RPP_Production_Matrix_Basic.label>ロボット用基礎パーツを作成する</RPP_Production_Matrix_Basic.label>
-    <RPP_Production_Matrix_Basic.description>アマチュアクラス(グレード1)のロボット回路です。</RPP_Production_Matrix_Basic.description>
-    <RPP_Production_Matrix_Interm.label>ロボット用自律回路を作成する</RPP_Production_Matrix_Interm.label>
-    <RPP_Production_Matrix_Interm.description>プロクラス(グレード2)のロボット論理回路です。</RPP_Production_Matrix_Interm.description>
-    <RPP_Production_Matrix_Adv.label>ロボット用人工知能回路</RPP_Production_Matrix_Adv.label>
-    <RPP_Production_Matrix_Adv.description>マスタークラス(グレード3)のロボット用人工知能です。</RPP_Production_Matrix_Adv.description>
+    <RPP_Production_Matrix_Basic.description>アマチュアクラス(グレード1)のロボットの基礎パーツです。</RPP_Production_Matrix_Basic.description>
+    <RPP_Production_Matrix_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_Basic.jobString>
+    <RPP_Production_Matrix_Interm.label>ロボット用の拡張パーツを作成する</RPP_Production_Matrix_Interm.label>
+    <RPP_Production_Matrix_Interm.description>プロクラス(グレード2)のロボットの拡張パーツです。</RPP_Production_Matrix_Interm.description>
+    <RPP_Production_Matrix_Interm.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_Interm.jobString>
+    <RPP_Production_Matrix_Adv.label>ロボット用の高性能パーツを作成する</RPP_Production_Matrix_Adv.label>
+    <RPP_Production_Matrix_Adv.description>マスタークラス(グレード3)のロボット用の高性能パーツです。</RPP_Production_Matrix_Adv.description>
+    <RPP_Production_Matrix_Adv.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_Adv.jobString>
     <!-- OmniCore
     <RPP_Production_OmniCore.label>超高性能AIを作成する</RPP_Production_OmniCore.label>
     <RPP_Production_OmniCore.description>神業クラス(グレード4)の超高性能AIです。</RPP_Production_OmniCore.description>
+    <RPP_Production_OmniCore.jobString>ロボットの部品を組み立てています。</RPP_Production_OmniCore.jobString>
     -->
     <RPP_Production_Cleaner.label>お掃除ロボを作成する</RPP_Production_Cleaner.label>
     <RPP_Production_Cleaner.description>汚れを見つけると掃除するロボットです。</RPP_Production_Cleaner.description>

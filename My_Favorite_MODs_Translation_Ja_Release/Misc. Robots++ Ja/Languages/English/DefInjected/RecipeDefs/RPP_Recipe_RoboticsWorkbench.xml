@@ -2,15 +2,20 @@
 <LanguageData>
     <RPP_Production_Component.label>make robotic component</RPP_Production_Component.label>
     <RPP_Production_Component.description>Produce Robotic Components which are used as logic circuits within a Robotic Matrix.</RPP_Production_Component.description>
+    <RPP_Production_Component.jobString>Engineering Robotics.</RPP_Production_Component.jobString>
     <RPP_Production_Matrix_Basic.label>make robotic matrix (basic)</RPP_Production_Matrix_Basic.label>
     <RPP_Production_Matrix_Basic.description>Produce a robotic logical matrix for crafting a robot with amateur-class skills (Tier 1).</RPP_Production_Matrix_Basic.description>
+    <RPP_Production_Matrix_Basic.jobString>Engineering Robotics.</RPP_Production_Matrix_Basic.jobString>
     <RPP_Production_Matrix_Interm.label>make robotic matrix (intermediate)</RPP_Production_Matrix_Interm.label>
     <RPP_Production_Matrix_Interm.description>Produce a robotic logical matrix for crafting a robot with professional-class skills (Tier 2)</RPP_Production_Matrix_Interm.description>
+    <RPP_Production_Matrix_Interm.jobString>Engineering Robotics.</RPP_Production_Matrix_Interm.jobString>
     <RPP_Production_Matrix_Adv.label>make robotic matrix (Advanced)</RPP_Production_Matrix_Adv.label>
     <RPP_Production_Matrix_Adv.description>Produce a robotic logical matrix for crafting a robot with master-class skills (Tier 3).</RPP_Production_Matrix_Adv.description>
+    <RPP_Production_Matrix_Adv.jobString>Engineering Robotics.</RPP_Production_Matrix_Adv.jobString>
     <!-- OmniCore
     <RPP_Production_OmniCore.label>make OmniCore (NP=P)</RPP_Production_OmniCore.label>
     <RPP_Production_OmniCore.description>Produce an Anti-Logic Matrix for crafting a robot with Godlike skills (Tier 4).</RPP_Production_OmniCore.description>
+    <RPP_Production_OmniCore.jobString>Engineering Robotics.</RPP_Production_OmniCore.jobString>
     -->
     <RPP_Production_Cleaner.label>make cleaner bot</RPP_Production_Cleaner.label>
     <RPP_Production_Cleaner.description>Produce a unit capable of cleaning.</RPP_Production_Cleaner.description>
