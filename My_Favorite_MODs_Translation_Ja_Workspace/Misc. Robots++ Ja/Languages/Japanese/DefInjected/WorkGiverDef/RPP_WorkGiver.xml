@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <DoBills_RPP_Robotics.label>ロボット作業台の作成を行います。</DoBills_RPP_Robotics.label>
+    <DoBills_RPP_Robotics.verb>で生産する</DoBills_RPP_Robotics.verb>
+    <DoBills_RPP_Robotics.gerund>で生産する</DoBills_RPP_Robotics.gerund>
 </LanguageData>
