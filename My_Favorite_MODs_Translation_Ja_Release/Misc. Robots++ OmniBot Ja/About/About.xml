@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Misc. Robots++ OmniBot Ja</name>
+    <name>Misc. Robots++ Ja</name>
     <author>saronpasu</author>
-    <url>https://github.com/saronpasu/RimWorld/tree/master/My_Favorite_MODs_Translation_Ja_Release/Misc. Robots++ OmniBot Ja/</url>
+    <url>https://github.com/saronpasu/RimWorld/tree/master/My_Favorite_MODs_Translation_Ja_Release/Misc. Robots++ Ja/</url>
     <targetVersion>0.17.1557</targetVersion>
     <description>This MOD is "Misc. Robots++" MODs Japanese Localization MOD.
 *** You must load Misc. Robots++ first for this work at all! ***
 
-"Misc. Robots++ OmniBot" wonderful MOD that is here! ( http://steamcommunity.com/sharedfiles/filedetails/?id=939024256 )
+"Misc. Robots" wonderful MOD that is here! ( http://steamcommunity.com/sharedfiles/filedetails/?id=747645520 )
 
 NOTICE: This Localization MOD update is very slower.
     and, Original MODs label and messages copy for work.
@@ -16,8 +16,8 @@ NOTICE: This Localization MOD update is very slower.
 I am thankful to wonderful MOD creator Alaestor.
 
 === in Japanese( 日本語の説明はここから) ===
-このMODは「Misc. Robots++ OmniBot」というMODの日本語化MODです。
-必ず、先に「Misc. Robots++ OmniBot」MODの動作を確認して下さい。
+このMODは「Misc. Robots++」というMODの日本語化MODです。
+必ず、先に「Misc. Robots++」MODの動作を確認して下さい。
 
 注意書き: この日本語化MODは更新がとても遅いです。
     そして、オリジナルのMODに書いてある名前や説明を元に作成しています。
@@ -26,7 +26,15 @@ I am thankful to wonderful MOD creator Alaestor.
 素晴らしいMODを作った Alastor さんへ尊敬と感謝を！！
 
 === History ===
-2017.06.07  Version:1.0.1_jp    update translation.
-    Original MOD version v1.0.1
+2017.06.07  Version:2.0.3_jp    update translation.
+    Original MOD version v2.0.3
+2017.02.02  Version:0.1.5_jp_c  bugfix and update translation.
+2017.02.01  Version:0.1.5_jp_b  bugfix and update translation.
+2017.01.30  Version:0.1.5_jp_a  update translation.
+2017.01.24  Version:0.1.5_jp    update to Original MOD version v0.1.5
+2016.08.30  Version:0.1.3a_jp   create localization MOD.
+    Original MOD version v0.13a
+    sorry, bugfix.
+2016/09/04  Version:1.0.0_jp    update to Original MOD version v1.0.0
     </description>
 </ModMetaData>

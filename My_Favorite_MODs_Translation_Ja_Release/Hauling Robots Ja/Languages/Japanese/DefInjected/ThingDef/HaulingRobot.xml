@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<HaulingRobot_RechargeStation.label>輸送ロボ 専用ベースステーション</HaulingRobot_RechargeStation.label>
+	<HaulingRobot_RechargeStation.description>特殊なロボットのための専用ベースステーションです。</HaulingRobot_RechargeStation.description>
+
+	<HaulingRobot.description>これは輸送ロボットです。このロボットは新品のピアノを持ち上げ、20階まで運べるほどの高性能ロボットです。</HaulingRobot.description>
+
+	<HaulingRobot_disabled.label>輸送ロボ (機能停止)</HaulingRobot_disabled.label>
+	<HaulingRobot_disabled.description>このロボットは既に悲しい終わりを迎えています。もはやあなたの役に立つことはないでしょう。解体して資源としてリサイクルするか、本格的なレストアを施す必要があります。</HaulingRobot_disabled.description>
+
+</LanguageData>

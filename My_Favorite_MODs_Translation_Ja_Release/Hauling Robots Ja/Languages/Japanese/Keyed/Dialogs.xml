@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Pawn naming -->
+  <RobotGainsName>ロボットは {0} と命名されました。</RobotGainsName>
+
+</LanguageData>

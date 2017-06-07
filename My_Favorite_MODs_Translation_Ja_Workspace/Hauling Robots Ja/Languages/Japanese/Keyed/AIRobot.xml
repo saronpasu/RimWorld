@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- AIRobotGenerator -->
+	<AIRobot_Basename_first>ロボット</AIRobot_Basename_first>
+	<AIRobot_Basename_last>...</AIRobot_Basename_last>
+	<AIRobot_Basename_nick></AIRobot_Basename_nick>
+
+	<!-- AIRobotRechargeStation -->
+	<AIRobot_NoOwner>オーナーまたはベースステーションがアサインされていません。</AIRobot_NoOwner>
+	<AIRobot_RobotIs>ロボット:</AIRobot_RobotIs>
+	<AIRobot_Label_SpawnRobot>起動する</AIRobot_Label_SpawnRobot>
+	<AIRobot_SpawnRobot>ロボを起動する</AIRobot_SpawnRobot>
+	<AIRobot_Label_SendOwnerToRecharge>停止する</AIRobot_Label_SendOwnerToRecharge>
+	<AIRobot_SendOwnerToRecharge>アクティブなロボをステーションへ戻し、停止させます。</AIRobot_SendOwnerToRecharge>
+	<AIRobot_Start>ロボを起動する</AIRobot_Start>
+	<AIRobot_NoPower>燃料切れです！</AIRobot_NoPower>
+	<AIRobot_Label_RecallAllRobots>すべて帰還</AIRobot_Label_RecallAllRobots>
+	<AIRobot_RecallAllRobots>すべてのロボットをステーションへ帰還させ、機能を停止させます。</AIRobot_RecallAllRobots>
+	<AIRobot_Label_ActivateAllRobots>すべて起動</AIRobot_Label_ActivateAllRobots>
+	<AIRobot_ActivateAllRobots>すべてのロボットを起動させます。</AIRobot_ActivateAllRobots>
+	<AIRobot_RobotIsDestroyed>ロボットは破壊された！</AIRobot_RobotIsDestroyed>
+
+</LanguageData>
