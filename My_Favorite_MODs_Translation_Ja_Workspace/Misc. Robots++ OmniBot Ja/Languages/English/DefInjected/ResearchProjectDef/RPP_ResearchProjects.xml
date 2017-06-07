@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Research_Matrix_V.label>Robotics:\nNP=P Anti-Logic</RPP_Research_Matrix_V.label>
+	<RPP_Research_Matrix_V.description>Tier 5: Break the boundaries set by existing levels of technology, understandings of logic, and the very concepts of causation. Our scientific horizons are becoming a lot more timey-wimey.</RPP_Research_Matrix_V.description>
+
+	<RPP_Research_Omni_V.label>Anti-Logic\nOmniBot</RPP_Research_Omni_V.label>
+	<RPP_Research_Omni_V.description>Tier 5:\nProduction of a Godlike omni-talented robot. These super-sonic-speed robots are capable of almost any task.</RPP_Research_Omni_V.description>
+
+</LanguageData>

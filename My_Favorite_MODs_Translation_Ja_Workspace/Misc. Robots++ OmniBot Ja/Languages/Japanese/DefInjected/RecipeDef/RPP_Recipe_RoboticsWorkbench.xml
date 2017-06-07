@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Production_Matrix_V.label>万能コア(NP=P)を作成する</RPP_Production_Matrix_V.label>
+	<RPP_Production_Matrix_V.description>神がかり的なスキル(テクノロジー 4)を持つロボットに必要となるアンチロジック回路を作成する。</RPP_Production_Matrix_V.description>
+	<RPP_Production_Matrix_V.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_V.jobString>
+
+	<RPP_Production_Omni_V.label>万能ロボ(グレード 5)を作成する</RPP_Production_Omni_V.label>
+	<RPP_Production_Omni_V.description>人にできるあらゆる作業を人以上のスキルで行うことのできる万能のロボットです。</RPP_Production_Omni_V.description>
+	<RPP_Production_Omni_V.jobString>ロボットの部品を組み立てています。</RPP_Production_Omni_V.jobString>
+
+</LanguageData>

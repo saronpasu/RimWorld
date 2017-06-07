@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Production_Matrix_V.label>make robotic OmniCore (NP=P)</RPP_Production_Matrix_V.label>
+	<RPP_Production_Matrix_V.description>Produce an Anti-Logic Matrix for crafting a robot with Godlike skills (Tier 4).</RPP_Production_Matrix_V.description>
+
+	<RPP_Production_Omni_V.label>make Omni-bot (Tier 5)</RPP_Production_Omni_V.label>
+	<RPP_Production_Omni_V.description>Produce an OmniBot.</RPP_Production_Omni_V.description>
+
+</LanguageData>

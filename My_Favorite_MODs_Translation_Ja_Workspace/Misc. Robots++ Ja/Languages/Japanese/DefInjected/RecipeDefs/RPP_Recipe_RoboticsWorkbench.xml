@@ -36,16 +36,16 @@
     <RPP_Production_Cleaner_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Cleaner_IV.jobString>
 
     <RPP_Production_Hauler_I.label>輸送ロボ(グレード1)を作成する</RPP_Production_Hauler_I.label>
-    <RPP_Production_Hauler_I.description>汚れを見つけると掃除するシンプルなロボットです。</RPP_Production_Hauler_I.description>
+    <RPP_Production_Hauler_I.description>運ぶ予定の物を見つけると運搬するシンプルなロボットです。</RPP_Production_Hauler_I.description>
     <RPP_Production_Hauler_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_I.jobString>
     <RPP_Production_Hauler_II.label>輸送ロボ(グレード2)を作成する</RPP_Production_Hauler_II.label>
-    <RPP_Production_Hauler_II.description>汚れを見つけると掃除する標準的なロボットです。</RPP_Production_Hauler_II.description>
+    <RPP_Production_Hauler_II.description>運ぶ予定の物を見つけると運搬する標準的なロボットです。</RPP_Production_Hauler_II.description>
     <RPP_Production_Hauler_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_II.jobString>
     <RPP_Production_Hauler_III.label>輸送ロボ(グレード3)を作成する</RPP_Production_Hauler_III.label>
-    <RPP_Production_Hauler_III.description>汚れを見つけると掃除する高性能なロボットです。</RPP_Production_Hauler_III.description>
+    <RPP_Production_Hauler_III.description>運ぶ予定の物を見つけると運搬する高性能なロボットです。</RPP_Production_Hauler_III.description>
     <RPP_Production_Hauler_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_III.jobString>
     <RPP_Production_Hauler_IV.label>輸送ロボ(グレード4)を作成する</RPP_Production_Hauler_IV.label>
-    <RPP_Production_Hauler_IV.description>汚れを見つけると掃除する最高級のロボットです。</RPP_Production_Hauler_IV.description>
+    <RPP_Production_Hauler_IV.description>運ぶ予定の物を見つけると運搬する最高級のロボットです。</RPP_Production_Hauler_IV.description>
     <RPP_Production_Hauler_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_IV.jobString>
 
     <RPP_Production_Builder_I.label>シンプル・土木工事ロボ(グレード1)を作成する</RPP_Production_Builder_I.label>

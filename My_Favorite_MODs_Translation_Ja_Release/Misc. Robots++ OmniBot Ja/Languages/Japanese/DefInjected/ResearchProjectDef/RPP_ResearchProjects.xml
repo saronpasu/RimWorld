@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Research_Matrix_V.label>ロボット工学:\nNP=P アンチロジック</RPP_Research_Matrix_V.label>
+	<RPP_Research_Matrix_V.description>テクノロジー 5: 既存のテクノロジーにおける限界を超える新たな論理を研究します。論理を理解し、因果関係を解明することにより、新たな科学的地平を切り開くことが目的です。そのためには多くの時間を費やすことになるでしょう。</RPP_Research_Matrix_V.description>
+
+	<RPP_Research_Omni_V.label>アンチロジック\n万能ロボ</RPP_Research_Omni_V.label>
+	<RPP_Research_Omni_V.description>テクノロジー 5:\n神のような万能ロボを開発します。それはまさに、人を超えるものとしてあらゆる作業を人以上の速さで行うことができます。</RPP_Research_Omni_V.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RPP_RechargeStation_Omni_V.label>万能ロボ(V) 専用ベースステーション</RPP_RechargeStation_Omni_V.label>
+	<RPP_RechargeStation_Omni_V.description>このステーションは反ロジック機能を備えた万能ロボットに必要な機能を備えています。 (NP=P)\nこのベースステーションは、オーバーユニティによる内部電源を有しています。</RPP_RechargeStation_Omni_V.description>
+
+</LanguageData>
