@@ -1,31 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <RPP_Bot_Builder_Basic.label>土木工事ロボ</RPP_Bot_Builder_Basic.label>
-    <RPP_Bot_Builder_Basic.description>アマチュアクラス(グレード1)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_Basic.description>
-    <RPP_Bot_Builder_Interm.label>土木工事ロボ</RPP_Bot_Builder_Interm.label>
-    <RPP_Bot_Builder_Interm.description>プロクラス(グレード2)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_Interm.description>
-    <RPP_Bot_Builder_Adv.label>土木工事ロボ</RPP_Bot_Builder_Adv.label>
-    <RPP_Bot_Builder_Adv.description>マスタークラス(グレード3)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_Adv.description>
-    <RPP_Bot_Crafter_Basic.label>作業ロボ</RPP_Bot_Crafter_Basic.label>
-    <RPP_Bot_Crafter_Basic.description>アマチュアクラス(グレード1)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_Basic.description>
-    <RPP_Bot_Crafter_Interm.label>作業ロボ</RPP_Bot_Crafter_Interm.label>
-    <RPP_Bot_Crafter_Interm.description>プロクラス(グレード2)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_Interm.description>
-    <RPP_Bot_Crafter_Adv.label>作業ロボ</RPP_Bot_Crafter_Adv.label>
-    <RPP_Bot_Crafter_Adv.description>マスタークラス(グレード3)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_Adv.description>
-    <RPP_Bot_ER_Basic.label>医療ロボ</RPP_Bot_ER_Basic.label>
-    <RPP_Bot_ER_Basic.description>アマチュアクラス(グレード1)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_Basic.description>
-    <RPP_Bot_ER_Interm.label>医療ロボ</RPP_Bot_ER_Interm.label>
-    <RPP_Bot_ER_Interm.description>プロクラス(グレード2)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_Interm.description>
-    <RPP_Bot_ER_Adv.label>医療ロボ</RPP_Bot_ER_Adv.label>
-    <RPP_Bot_ER_Adv.description>マスタークラス(グレード3)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_Adv.description>
-    <RPP_Bot_Kitchen_Basic.label>調理ロボ</RPP_Bot_Kitchen_Basic.label>
-    <RPP_Bot_Kitchen_Basic.description>アマチュアクラス(グレード1)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_Basic.description>
-    <RPP_Bot_Kitchen_Interm.label>調理ロボ</RPP_Bot_Kitchen_Interm.label>
-    <RPP_Bot_Kitchen_Interm.description>プロクラス(グレード2)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_Interm.description>
-    <RPP_Bot_Kitchen_Adv.label>調理ロボ</RPP_Bot_Kitchen_Adv.label>
-    <RPP_Bot_Kitchen_Adv.description>マスタークラス(グレード3)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_Adv.description>
-    <!-- OmniBot
-    <RPP_Bot_OmniBot.label>万能ロボ</RPP_Bot_OmniBot.label>
-    <RPP_Bot_OmniBot.description>神業クラス(グレード4)のユニットを使用した万能ロボです。どんな作業でもできます。</RPP_Bot_OmniBot.description>
-    -->
+    <AIRobot_Hauler.label>輸送ロボ</AIRobot_Hauler.label>
+	<AIRobot_Hauler.description>運ぶ予定の物を見つけると運搬するシンプルなロボットです。</AIRobot_Hauler.description>
+	<RPP_Bot_Hauler_II.label>輸送ロボ</RPP_Bot_Hauler_II.label>
+	<RPP_Bot_Hauler_II.description>運ぶ予定の物を見つけると運搬する標準的なロボットです。</RPP_Bot_Hauler_II.description>
+	<RPP_Bot_Hauler_III.label>輸送ロボ</RPP_Bot_Hauler_III.label>
+	<RPP_Bot_Hauler_III.description>運ぶ予定の物を見つけると運搬する高機能なロボットです。</RPP_Bot_Hauler_III.description>
+	<RPP_Bot_Hauler_IV.label>輸送ロボ</RPP_Bot_Hauler_IV.label>
+	<RPP_Bot_Hauler_IV.description>運ぶ予定の物を見つけると運搬する最高級ロボットです。</RPP_Bot_Hauler_IV.description>
+
+	<AIRobot_Cleaner.label>お掃除ロボ</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner.description>汚れを見つけると掃除するシンプルなロボットです。</AIRobot_Cleaner.description>
+	<AIRobot_Cleaner_II.label>お掃除ロボ</AIRobot_Cleaner_II.label>
+	<AIRobot_Cleaner_II.description>汚れを見つけると掃除する標準的なロボットです。</AIRobot_Cleaner_II.description>
+	<AIRobot_Cleaner_III.label>お掃除ロボ</AIRobot_Cleaner_III.label>
+	<AIRobot_Cleaner_III.description>汚れを見つけると掃除する高機能なロボットです。</AIRobot_Cleaner_III.description>
+	<AIRobot_Cleaner_IV.label>お掃除ロボ</AIRobot_Cleaner_IV.label>
+	<AIRobot_Cleaner_IV.description>汚れを見つけると掃除する最高級ロボットです。</AIRobot_Cleaner_IV.description>
+
+    <RPP_Bot_Builder_I.label>土木工事ロボ</RPP_Bot_Builder_I.label>
+    <RPP_Bot_Builder_I.description>アマチュアクラス(スキル4)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_I.description>
+    <RPP_Bot_Builder_II.label>土木工事ロボ</RPP_Bot_Builder_II.label>
+    <RPP_Bot_Builder_II.description>プロクラス(スキル8)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_II.description>
+    <RPP_Bot_Builder_III.label>土木工事ロボ</RPP_Bot_Builder_III.label>
+    <RPP_Bot_Builder_III.description>マスタークラス(スキル13)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_III.description>
+    <RPP_Bot_Builder_IV.label>土木工事ロボ</RPP_Bot_Builder_IV.label>
+    <RPP_Bot_Builder_IV.description>システムマスタークラス(スキル16)のユニットを使用した土木工事ロボです。建築、解体、修理、採掘ができます。</RPP_Bot_Builder_IV.description>
+
+    <RPP_Bot_Crafter_I.label>作業ロボ</RPP_Bot_Crafter_I.label>
+    <RPP_Bot_Crafter_I.description>アマチュアクラス(スキル4)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_I.description>
+    <RPP_Bot_Crafter_II.label>作業ロボ</RPP_Bot_Crafter_II.label>
+    <RPP_Bot_Crafter_II.description>プロクラス(スキル8)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_II.description>
+    <RPP_Bot_Crafter_III.label>作業ロボ</RPP_Bot_Crafter_III.label>
+    <RPP_Bot_Crafter_III.description>マスタークラス(スキル13)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_III.description>
+    <RPP_Bot_Crafter_IV.label>作業ロボ</RPP_Bot_Crafter_IV.label>
+    <RPP_Bot_Crafter_IV.description>システムマスタークラス(スキル16)のユニットを使用した作業ロボです。工芸、鍛冶、裁縫ができます。</RPP_Bot_Crafter_IV.description>
+
+    <RPP_Bot_ER_I.label>医療ロボ</RPP_Bot_ER_I.label>
+    <RPP_Bot_ER_I.description>アマチュアクラス(スキル4)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_I.description>
+    <RPP_Bot_ER_II.label>医療ロボ</RPP_Bot_ER_II.label>
+    <RPP_Bot_ER_II.description>プロクラス(スキル8)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_II.description>
+    <RPP_Bot_ER_III.label>医療ロボ</RPP_Bot_ER_III.label>
+    <RPP_Bot_ER_III.description>マスタークラス(スキル13)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_III.description>
+    <RPP_Bot_ER_IV.label>医療ロボ</RPP_Bot_ER_IV.label>
+    <RPP_Bot_ER_IV.description>システムマスタークラス(スキル16)のユニットを使用した医療ロボです。病人や怪我人の治療や、消火活動ができます。</RPP_Bot_ER_IV.description>
+
+    <RPP_Bot_Kitchen_I.label>調理ロボ</RPP_Bot_Kitchen_I.label>
+    <RPP_Bot_Kitchen_I.description>アマチュアクラス(スキル4)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_I.description>
+    <RPP_Bot_Kitchen_II.label>調理ロボ</RPP_Bot_Kitchen_II.label>
+    <RPP_Bot_Kitchen_II.description>プロクラス(スキル8)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_II.description>
+    <RPP_Bot_Kitchen_III.label>調理ロボ</RPP_Bot_Kitchen_III.label>
+    <RPP_Bot_Kitchen_III.description>マスタークラス(スキル13)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_III.description>
+    <RPP_Bot_Kitchen_IV.label>調理ロボ</RPP_Bot_Kitchen_IV.label>
+    <RPP_Bot_Kitchen_IV.description>システムマスタークラス(スキル16)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_IV.description>
+
 </LanguageData>

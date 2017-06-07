@@ -4,68 +4,101 @@
     <RPP_Recipe_Basic.jobString>ロボットの部品を組み立てています。</RPP_Recipe_Basic.jobString>
     <RPP_Recipe_Interm.jobString>ロボットの部品を組み立てています。</RPP_Recipe_Interm.jobString>
     <RPP_Recipe_Adv.jobString>ロボットの部品を組み立てています。</RPP_Recipe_Adv.jobString>
+
     <RPP_Production_Component.label>ロボット用コンポーネントを作成する</RPP_Production_Component.label>
     <RPP_Production_Component.description>ロボットの部品となるパーツです。</RPP_Production_Component.description>
     <RPP_Production_Component.jobString>ロボットの部品を組み立てています。</RPP_Production_Component.jobString>
-    <RPP_Production_Matrix_Basic.label>ロボット用基礎パーツを作成する</RPP_Production_Matrix_Basic.label>
-    <RPP_Production_Matrix_Basic.description>アマチュアクラス(グレード1)のロボットの基礎パーツです。</RPP_Production_Matrix_Basic.description>
-    <RPP_Production_Matrix_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_Basic.jobString>
-    <RPP_Production_Matrix_Interm.label>ロボット用の拡張パーツを作成する</RPP_Production_Matrix_Interm.label>
-    <RPP_Production_Matrix_Interm.description>プロクラス(グレード2)のロボットの拡張パーツです。</RPP_Production_Matrix_Interm.description>
-    <RPP_Production_Matrix_Interm.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_Interm.jobString>
-    <RPP_Production_Matrix_Adv.label>ロボット用の高性能パーツを作成する</RPP_Production_Matrix_Adv.label>
-    <RPP_Production_Matrix_Adv.description>マスタークラス(グレード3)のロボット用の高性能パーツです。</RPP_Production_Matrix_Adv.description>
-    <RPP_Production_Matrix_Adv.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_Adv.jobString>
-    <!-- OmniCore
-    <RPP_Production_OmniCore.label>超高性能AIを作成する</RPP_Production_OmniCore.label>
-    <RPP_Production_OmniCore.description>神業クラス(グレード4)の超高性能AIです。</RPP_Production_OmniCore.description>
-    <RPP_Production_OmniCore.jobString>ロボットの部品を組み立てています。</RPP_Production_OmniCore.jobString>
-    -->
-    <RPP_Production_Cleaner.label>お掃除ロボを作成する</RPP_Production_Cleaner.label>
-    <RPP_Production_Cleaner.description>汚れを見つけると掃除するロボットです。</RPP_Production_Cleaner.description>
-    <RPP_Production_Cleaner.jobString>ロボットの部品を組み立てています。</RPP_Production_Cleaner.jobString>
-    <RPP_Production_Hauler.label>輸送ロボを作成する</RPP_Production_Hauler.label>
-    <RPP_Production_Hauler.description>運ぶ予定の物を見つけると運搬するロボットです。</RPP_Production_Hauler.description>
-    <RPP_Production_Hauler.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler.jobString>
-    <RPP_Production_Builder_Basic.label>ベーシック・土木作業ロボ(グレード1)を作成する</RPP_Production_Builder_Basic.label>
-    <RPP_Production_Builder_Basic.description>建築、解体、修理、採掘が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_Builder_Basic.description>
-    <RPP_Production_Builder_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_Basic.jobString>
-    <RPP_Production_Builder_interm.label>アドバンスド・土木作業ロボ(グレード2)を作成する</RPP_Production_Builder_interm.label>
-    <RPP_Production_Builder_interm.description>建築、解体、修理、採掘が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_Builder_interm.description>
-    <RPP_Production_Builder_interm.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_interm.jobString>
-    <RPP_Production_Builder_Adv.label>ハイグレード・土木作業ロボ(グレード3)を作成する</RPP_Production_Builder_Adv.label>
-    <RPP_Production_Builder_Adv.description>建築、解体、採掘が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Builder_Adv.description>
-    <RPP_Production_Builder_Adv.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_Adv.jobString>
-    <RPP_Production_Crafter_Basic.label>ベーシック・作業ロボ(グレード1)を作成する</RPP_Production_Crafter_Basic.label>
-    <RPP_Production_Crafter_Basic.description>工芸、鍛冶、裁縫が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_Crafter_Basic.description>
-    <RPP_Production_Crafter_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_Basic.jobString>
-    <RPP_Production_Crafter_interm.label>アドバンスド・作業ロボ(グレード2)を作成する</RPP_Production_Crafter_interm.label>
-    <RPP_Production_Crafter_interm.description>工芸、鍛冶、裁縫が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_Crafter_interm.description>
-    <RPP_Production_Crafter_interm.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_interm.jobString>
-    <RPP_Production_Crafter_Adv.label>ハイグレード・作業ロボ(グレード3)を作成する</RPP_Production_Crafter_Adv.label>
-    <RPP_Production_Crafter_Adv.description>工芸、鍛冶、裁縫が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Crafter_Adv.description>
-    <RPP_Production_Crafter_Adv.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_Adv.jobString>
-    <RPP_Production_ER_Basic.label>ベーシック・医療ロボ(グレード1)を作成する</RPP_Production_ER_Basic.label>
-    <RPP_Production_ER_Basic.description>病人や怪我人の治療と、消火活動が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_ER_Basic.description>
-    <RPP_Production_ER_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_Basic.jobString>
-    <RPP_Production_ER_interm.label>アドバンスド・医療ロボ(グレード2)を作成する</RPP_Production_ER_interm.label>
-    <RPP_Production_ER_interm.description>病人や怪我人の治療と、消火活動が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_ER_interm.description>
-    <RPP_Production_ER_interm.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_interm.jobString>
-    <RPP_Production_ER_Adv.label>ハイグレード・医療ロボ(グレード3)を作成する</RPP_Production_ER_Adv.label>
-    <RPP_Production_ER_Adv.description>病人や怪我人の治療と、消火活動が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_ER_Adv.description>
-    <RPP_Production_ER_Adv.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_Adv.jobString>
+
+    <RPP_Production_Matrix_I.label>ロボット用の部品(単純部品)を作成する</RPP_Production_Matrix_I.label>
+    <RPP_Production_Matrix_I.description>アマチュアクラス(グレード1)のロボットの基礎パーツです。</RPP_Production_Matrix_I.description>
+    <RPP_Production_Matrix_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_I.jobString>
+    <RPP_Production_Matrix_II.label>ロボット用の部品(基本部品)を作成する</RPP_Production_Matrix_II.label>
+    <RPP_Production_Matrix_II.description>プロクラス(グレード2)のロボットの拡張パーツです。</RPP_Production_Matrix_II.description>
+    <RPP_Production_Matrix_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_II.jobString>
+    <RPP_Production_Matrix_III.label>ロボット用の部品(拡張部品)を作成する</RPP_Production_Matrix_III.label>
+    <RPP_Production_Matrix_III.description>マスタークラス(グレード3)のロボット用の高性能パーツです。</RPP_Production_Matrix_III.description>
+    <RPP_Production_Matrix_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_III.jobString>
+    <RPP_Production_Matrix_IV.label>ロボット用の部品(高性能部品)を作成する</RPP_Production_Matrix_IV.label>
+    <RPP_Production_Matrix_IV.description>システムマスタークラス(グレード4)のロボット用の高性能パーツです。</RPP_Production_Matrix_IV.description>
+    <RPP_Production_Matrix_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_IV.jobString>
+
+    <RPP_Production_Cleaner_I.label>お掃除ロボ(グレード1)を作成する</RPP_Production_Cleaner_I.label>
+    <RPP_Production_Cleaner_I.description>汚れを見つけると掃除するシンプルなロボットです。</RPP_Production_Cleaner_I.description>
+    <RPP_Production_Cleaner_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Cleaner_I.jobString>
+    <RPP_Production_Cleaner_II.label>お掃除ロボ(グレード2)を作成する</RPP_Production_Cleaner_II.label>
+    <RPP_Production_Cleaner_II.description>汚れを見つけると掃除する標準的なロボットです。</RPP_Production_Cleaner_II.description>
+    <RPP_Production_Cleaner_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Cleaner_II.jobString>
+    <RPP_Production_Cleaner_III.label>お掃除ロボ(グレード3)を作成する</RPP_Production_Cleaner_III.label>
+    <RPP_Production_Cleaner_III.description>汚れを見つけると掃除する高性能なロボットです。</RPP_Production_Cleaner_III.description>
+    <RPP_Production_Cleaner_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Cleaner_III.jobString>
+    <RPP_Production_Cleaner_IV.label>お掃除ロボ(グレード4)を作成する</RPP_Production_Cleaner_IV.label>
+    <RPP_Production_Cleaner_IV.description>汚れを見つけると掃除する最高級のロボットです。</RPP_Production_Cleaner_IV.description>
+    <RPP_Production_Cleaner_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Cleaner_IV.jobString>
+
+    <RPP_Production_Hauler_I.label>輸送ロボ(グレード1)を作成する</RPP_Production_Hauler_I.label>
+    <RPP_Production_Hauler_I.description>汚れを見つけると掃除するシンプルなロボットです。</RPP_Production_Hauler_I.description>
+    <RPP_Production_Hauler_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_I.jobString>
+    <RPP_Production_Hauler_II.label>輸送ロボ(グレード2)を作成する</RPP_Production_Hauler_II.label>
+    <RPP_Production_Hauler_II.description>汚れを見つけると掃除する標準的なロボットです。</RPP_Production_Hauler_II.description>
+    <RPP_Production_Hauler_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_II.jobString>
+    <RPP_Production_Hauler_III.label>輸送ロボ(グレード3)を作成する</RPP_Production_Hauler_III.label>
+    <RPP_Production_Hauler_III.description>汚れを見つけると掃除する高性能なロボットです。</RPP_Production_Hauler_III.description>
+    <RPP_Production_Hauler_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_III.jobString>
+    <RPP_Production_Hauler_IV.label>輸送ロボ(グレード4)を作成する</RPP_Production_Hauler_IV.label>
+    <RPP_Production_Hauler_IV.description>汚れを見つけると掃除する最高級のロボットです。</RPP_Production_Hauler_IV.description>
+    <RPP_Production_Hauler_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Hauler_IV.jobString>
+
+    <RPP_Production_Builder_I.label>シンプル・土木工事ロボ(グレード1)を作成する</RPP_Production_Builder_I.label>
+    <RPP_Production_Builder_I.description>建築、解体、修理、採掘が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_Builder_I.description>
+    <RPP_Production_Builder_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_I.jobString>
+    <RPP_Production_Builder_II.label>ベーシック・土木工事ロボ(グレード2)を作成する</RPP_Production_Builder_II.label>
+    <RPP_Production_Builder_II.description>建築、解体、修理、採掘が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_Builder_II.description>
+    <RPP_Production_Builder_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_II.jobString>
+    <RPP_Production_Builder_III.label>ミドルランク・土木工事ロボ(グレード3)を作成する</RPP_Production_Builder_III.label>
+    <RPP_Production_Builder_III.description>建築、解体、修理、採掘が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Builder_III.description>
+    <RPP_Production_Builder_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_III.jobString>
+    <RPP_Production_Builder_IV.label>アドバンスド・土木工事ロボ(グレード4)を作成する</RPP_Production_Builder_IV.label>
+    <RPP_Production_Builder_IV.description>建築、解体、修理、採掘が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Builder_IV.description>
+    <RPP_Production_Builder_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Builder_IV.jobString>
+
+    <RPP_Production_Crafter_I.label>シンプル・作業ロボ(グレード1)を作成する</RPP_Production_Crafter_I.label>
+    <RPP_Production_Crafter_I.description>工芸、鍛冶、裁縫が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_Crafter_I.description>
+    <RPP_Production_Crafter_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_I.jobString>
+    <RPP_Production_Crafter_II.label>ベーシック・作業ロボ(グレード2)を作成する</RPP_Production_Crafter_II.label>
+    <RPP_Production_Crafter_II.description>工芸、鍛冶、裁縫が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_Crafter_II.description>
+    <RPP_Production_Crafter_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_II.jobString>
+    <RPP_Production_Crafter_III.label>ミドルランク・作業ロボ(グレード3)を作成する</RPP_Production_Crafter_III.label>
+    <RPP_Production_Crafter_III.description>工芸、鍛冶、裁縫が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Crafter_III.description>
+    <RPP_Production_Crafter_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_III.jobString>
+    <RPP_Production_Crafter_IV.label>アドバンスド・作業ロボ(グレード4)を作成する</RPP_Production_Crafter_IV.label>
+    <RPP_Production_Crafter_IV.description>工芸、鍛冶、裁縫が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Crafter_IV.description>
+    <RPP_Production_Crafter_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Crafter_IV.jobString>
+
+    <RPP_Production_ER_I.label>シンプル・医療ロボ(グレード1)を作成する</RPP_Production_ER_I.label>
+    <RPP_Production_ER_I.description>病人や怪我人の治療と、消火活動が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_ER_I.description>
+    <RPP_Production_ER_I.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_I.jobString>
+    <RPP_Production_ER_II.label>ベーシック・医療ロボ(グレード2)を作成する</RPP_Production_ER_II.label>
+    <RPP_Production_ER_II.description>病人や怪我人の治療と、消火活動が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_ER_II.description>
+    <RPP_Production_ER_II.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_II.jobString>
+    <RPP_Production_ER_III.label>ミドルランク・医療ロボ(グレード3)を作成する</RPP_Production_ER_III.label>
+    <RPP_Production_ER_III.description>病人や怪我人の治療と、消火活動が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_ER_III.description>
+    <RPP_Production_ER_III.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_III.jobString>
+    <RPP_Production_ER_IV.label>アドバンスド・医療ロボ(グレード4)を作成する</RPP_Production_ER_IV.label>
+    <RPP_Production_ER_IV.description>病人や怪我人の治療と、消火活動が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_ER_IV.description>
+    <RPP_Production_ER_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_ER_IV.jobString>
+
     <RPP_Production_Kitchen_Basic.label>ベーシック・調理ロボ(グレード1)を作成する</RPP_Production_Kitchen_Basic.label>
-    <RPP_Production_Kitchen_Basic.description>調理と農業が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_Kitchen_Basic.description>
-    <RPP_Production_Kitchen_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_Basic.jobString>
-    <RPP_Production_Kitchen_intKitchenm.label>アドバンスド・調理ロボ(グレード2)を作成する</RPP_Production_Kitchen_intKitchenm.label>
-    <RPP_Production_Kitchen_intKitchenm.description>調理と農業が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_Kitchen_intKitchenm.description>
-    <RPP_Production_Kitchen_intKitchenm.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_intKitchenm.jobString>
-    <RPP_Production_Kitchen_Adv.label>ハイグレード・調理ロボ(グレード3)を作成する</RPP_Production_Kitchen_Adv.label>
-    <RPP_Production_Kitchen_Adv.description>調理と農業が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Kitchen_Adv.description>
-    <RPP_Production_Kitchen_Adv.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_Adv.jobString>
-    <!-- OmniBot
-    <RPP_Production_Kitchen_Basic.label>超高性能万能ロボ(グレード4)を作成する</RPP_Production_Kitchen_Basic.label>
-    <RPP_Production_Kitchen_Basic.description>なんでもこなせる万能ロボットです。</RPP_Production_Kitchen_Basic.description>
-    <RPP_Production_Kitchen_Basic.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_Basic.jobString>
-    -->
+    <RPP_Production_Kitchen_I.label>シンプル・調理ロボ(グレード1)を作成する</RPP_Production_Kitchen_I.label>
+    <RPP_Production_Kitchen_I.description>調理と農業が可能なアマチュアクラスのスキルを持ったロボットです。</RPP_Production_Kitchen_I.description>
+    <RPP_Production_Kitchen_I.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_I.jobString>
+    <RPP_Production_Kitchen_II.label>ベーシック・調理ロボ(グレード2)を作成する</RPP_Production_Kitchen_II.label>
+    <RPP_Production_Kitchen_II.description>調理と農業が可能なプロクラスのスキルを持ったロボットです。</RPP_Production_Kitchen_II.description>
+    <RPP_Production_Kitchen_II.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_II.jobString>
+    <RPP_Production_Kitchen_III.label>ミドルランク・調理ロボ(グレード3)を作成する</RPP_Production_Kitchen_III.label>
+    <RPP_Production_Kitchen_III.description>調理と農業が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Kitchen_III.description>
+    <RPP_Production_Kitchen_III.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_III.jobString>
+    <RPP_Production_Kitchen_IV.label>アドバンスド・調理ロボ(グレード4)を作成する</RPP_Production_Kitchen_IV.label>
+    <RPP_Production_Kitchen_IV.description>調理と農業が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Kitchen_IV.description>
+    <RPP_Production_Kitchen_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_IV.jobString>
+
 </LanguageData>

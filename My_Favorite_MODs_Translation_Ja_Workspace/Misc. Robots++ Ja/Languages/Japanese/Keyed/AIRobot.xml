@@ -15,5 +15,10 @@
 	<AIRobot_SendOwnerToRecharge>アクティブなロボをステーションへ戻し、停止させます。</AIRobot_SendOwnerToRecharge>
 	<AIRobot_Start>ロボを起動する</AIRobot_Start>
 	<AIRobot_NoPower>燃料切れです！</AIRobot_NoPower>
+	<AIRobot_Label_RecallAllRobots>すべて帰還</AIRobot_Label_RecallAllRobots>
+	<AIRobot_RecallAllRobots>すべてのロボットをステーションへ帰還させ、機能を停止させます。</AIRobot_RecallAllRobots>
+	<AIRobot_Label_ActivateAllRobots>すべて起動</AIRobot_Label_ActivateAllRobots>
+	<AIRobot_ActivateAllRobots>すべてのロボットを起動させます。</AIRobot_ActivateAllRobots>
+	<AIRobot_RobotIsDestroyed>ロボットは破壊された！</AIRobot_RobotIsDestroyed>
 
 </LanguageData>

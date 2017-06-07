@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
     <RPP_Component.label>ロボット用コンポーネント</RPP_Component.label>
     <RPP_Component.description>ロボット用のコンポーネントは、ロボット本体の部品、そして論理回路として使います。</RPP_Component.description>
-    <RPP_Matrix_Basic.label>ロボット用の基本パーツ</RPP_Matrix_Basic.label>
-    <RPP_Matrix_Basic.description>この基本パーツを使ったロボットは、アマチュアクラスの作業を行うことが可能になります。</RPP_Matrix_Basic.description>
-    <RPP_Matrix_Interm.label>ロボット用の拡張パーツ</RPP_Matrix_Interm.label>
-    <RPP_Matrix_Interm.description>この拡張パーツを使ったロボットは、プロクラスの作業を行うことが可能になります。</RPP_Matrix_Interm.description>
-    <RPP_Matrix_Adv.label>ロボット用の高性能パーツ</RPP_Matrix_Adv.label>
-    <RPP_Matrix_Adv.description>この高性能パーツを使ったロボットは、マスタークラスの作業を行うことが可能になります。</RPP_Matrix_Adv.description>
-    <!-- RPP_OmniCore
-    <RPP_OmniCore.label>ロボット用の万能コアパーツ</RPP_OmniCore.label>
-    <RPP_OmniCore.description>この万能コアパーツを使ったロボットは、神業クラスの作業を行うことが可能になります。</RPP_OmniCore.description>
-    -->
+
+    <RPP_Matrix_I.label>ロボット用の部品(単純部品)</RPP_Matrix_I.label>
+    <RPP_Matrix_I.description>この部品を使ったロボットは、アマチュアクラスの作業を行うことが可能になります。</RPP_Matrix_I.description>
+
+    <RPP_Matrix_II.label>ロボット用の部品(基本部品)</RPP_Matrix_II.label>
+    <RPP_Matrix_II.description>この部品を使ったロボットは、プロクラスの作業を行うことが可能になります。</RPP_Matrix_II.description>
+
+    <RPP_Matrix_III.label>ロボット用の部品(拡張部品)</RPP_Matrix_III.label>
+    <RPP_Matrix_III.description>この部品を使ったロボットは、マスタークラスの作業を行うことが可能になります。</RPP_Matrix_III.description>
+
+    <RPP_Matrix_IV.label>ロボット用の部品(高性能部品)</RPP_Matrix_IV.label>
+    <RPP_Matrix_IV.description>この部品を使ったロボットは、システムマスタークラスの作業を行うことが可能になります。</RPP_Matrix_IV.description>
+
 </LanguageData>

@@ -1,32 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <RPP_RechargeStation_Builder_Basic.label>土木工事ロボ(グレード1)専用・ベースステーション</RPP_RechargeStation_Builder_Basic.label>
-    <RPP_RechargeStation_Builder_Basic.description>このステーションはロボットのための基本的な設備です。</RPP_RechargeStation_Builder_Basic.description>
-    <RPP_RechargeStation_Builder_Interm.label>土木工事ロボ(グレード2)専用・ベースステーション</RPP_RechargeStation_Builder_Interm.label>
-    <RPP_RechargeStation_Builder_Interm.description>このステーションはロボットのためのより高度な設備です。</RPP_RechargeStation_Builder_Interm.description>
-    <RPP_RechargeStation_Builder_Adv.label>土木工事ロボ(グレード3)専用・ベースステーション</RPP_RechargeStation_Builder_Adv.label>
-    <RPP_RechargeStation_Builder_Adv.description>このステーションはロボットのための高性能な設備です。</RPP_RechargeStation_Builder_Adv.description>
-    <RPP_RechargeStation_Crafter_Basic.label>作業ロボ(グレード1)専用・ベースステーション</RPP_RechargeStation_Crafter_Basic.label>
-    <RPP_RechargeStation_Crafter_Basic.description>このステーションはロボットのための基本的な設備です。</RPP_RechargeStation_Crafter_Basic.description>
-    <RPP_RechargeStation_Crafter_Interm.label>作業ロボ(グレード2)専用・ベースステーション</RPP_RechargeStation_Crafter_Interm.label>
-    <RPP_RechargeStation_Crafter_Interm.description>このステーションはロボットのためのより高度な設備です。</RPP_RechargeStation_Crafter_Interm.description>
-    <RPP_RechargeStation_Crafter_Adv.label>作業ロボ(グレード3)専用・ベースステーション</RPP_RechargeStation_Crafter_Adv.label>
-    <RPP_RechargeStation_Crafter_Adv.description>このステーションはロボットのための高性能な設備です。</RPP_RechargeStation_Crafter_Adv.description>
-    <RPP_RechargeStation_ER_Basic.label>医療ロボ(グレード1)専用・ベースステーション</RPP_RechargeStation_ER_Basic.label>
-    <RPP_RechargeStation_ER_Basic.description>このステーションはロボットのための基本的な設備です。</RPP_RechargeStation_ER_Basic.description>
-    <RPP_RechargeStation_ER_Interm.label>医療ロボ(グレード2)専用・ベースステーション</RPP_RechargeStation_ER_Interm.label>
-    <RPP_RechargeStation_ER_Interm.description>このステーションはロボットのためのより高度な設備です。</RPP_RechargeStation_ER_Interm.description>
-    <RPP_RechargeStation_ER_Adv.label>医療ロボ(グレード3)専用・ベースステーション</RPP_RechargeStation_ER_Adv.label>
-    <RPP_RechargeStation_ER_Adv.description>このステーションはロボットのための高性能な設備です。</RPP_RechargeStation_ER_Adv.description>
-    <RPP_RechargeStation_Kitchen_Basic.label>調理ロボ(グレード1)専用・ベースステーション</RPP_RechargeStation_Kitchen_Basic.label>
-    <RPP_RechargeStation_Kitchen_Basic.description>このステーションはロボットのための基本的な設備です。</RPP_RechargeStation_Kitchen_Basic.description>
-    <RPP_RechargeStation_Kitchen_Interm.label>調理ロボ(グレード2)専用・ベースステーション</RPP_RechargeStation_Kitchen_Interm.label>
-    <RPP_RechargeStation_Kitchen_Interm.description>このステーションはロボットのためのより高度な設備です。</RPP_RechargeStation_Kitchen_Interm.description>
-    <RPP_RechargeStation_Kitchen_Adv.label>調理ロボ(グレード3)専用・ベースステーション</RPP_RechargeStation_Kitchen_Adv.label>
-    <RPP_RechargeStation_Kitchen_Adv.description>このステーションはロボットのための高性能な設備です。</RPP_RechargeStation_Kitchen_Adv.description>
-    <!-- OmniBot -->
-    <!--
-    <RPP_RechargeStation_OmniBot.label>万能ロボ(グレード4)専用・ベースステーション</RPP_RechargeStation_OmniBot.label>
-    <RPP_RechargeStation_OmniBot.description>このステーションはロボットのための設備です。このステーションそのものが高度なロボットでもあります。</RPP_RechargeStation_OmniBot.description>
-    -->
+
+    <AIRobot_RechargeStation_Hauler.label>輸送ロボ(グレード1) 専用ベースステーション</AIRobot_RechargeStation_Hauler.label>
+	<AIRobot_RechargeStation_Hauler.description>このステーションはシンプルなロボットに必要な機能を備えています。</AIRobot_RechargeStation_Hauler.description>
+	<RPP_RechargeStation_Hauler_II.label>輸送ロボ(グレード2) 専用ベースステーション</RPP_RechargeStation_Hauler_II.label>
+	<RPP_RechargeStation_Hauler_II.description>このステーションは標準的なロボットに必要な機能を備えています。</RPP_RechargeStation_Hauler_II.description>
+	<RPP_RechargeStation_Hauler_III.label>輸送ロボ(グレード3) 専用ベースステーション</RPP_RechargeStation_Hauler_III.label>
+	<RPP_RechargeStation_Hauler_III.description>このステーションは高機能なロボットに必要な機能を備えています。</RPP_RechargeStation_Hauler_III.description>
+	<RPP_RechargeStation_Hauler_IV.label>輸送ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_Hauler_IV.label>
+	<RPP_RechargeStation_Hauler_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_Hauler_IV.description>
+
+	<AIRobot_RechargeStation_Cleaner.label>お掃除ロボ(グレード1) 専用ベースステーション</AIRobot_RechargeStation_Cleaner.label>
+	<AIRobot_RechargeStation_Cleaner.description>このステーションはシンプルなロボットに必要な機能を備えています。</AIRobot_RechargeStation_Cleaner.description>
+	<RPP_RechargeStation_Cleaner_II.label>お掃除ロボ(グレード2) 専用ベースステーション</RPP_RechargeStation_Cleaner_II.label>
+	<RPP_RechargeStation_Cleaner_II.description>このステーションは標準的なロボットに必要な機能を備えています。</RPP_RechargeStation_Cleaner_II.description>
+	<RPP_RechargeStation_Cleaner_III.label>お掃除ロボ(グレード3) 専用ベースステーション</RPP_RechargeStation_Cleaner_III.label>
+	<RPP_RechargeStation_Cleaner_III.description>このステーションは高機能なロボットに必要な機能を備えています。</RPP_RechargeStation_Cleaner_III.description>
+	<RPP_RechargeStation_Cleaner_IV.label>お掃除ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_Cleaner_IV.label>
+	<RPP_RechargeStation_Cleaner_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_Cleaner_IV.description>
+
+    <RPP_RechargeStation_Builder_I.label>土木工事ロボ(グレード1) 専用ベースステーション</RPP_RechargeStation_Builder_I.label>
+	<RPP_RechargeStation_Builder_I.description>このステーションはシンプルなロボットに必要な機能を備えています。</RPP_RechargeStation_Builder_I.description>
+	<RPP_RechargeStation_Builder_II.label>土木工事ロボ(グレード2) 専用ベースステーション</RPP_RechargeStation_Builder_II.label>
+	<RPP_RechargeStation_Builder_II.description>このステーションは標準的なロボットに必要な機能を備えています。</RPP_RechargeStation_Builder_II.description>
+	<RPP_RechargeStation_Builder_III.label>土木工事ロボ(グレード3) 専用ベースステーション</RPP_RechargeStation_Builder_III.label>
+	<RPP_RechargeStation_Builder_III.description>このステーションは高機能なロボットに必要な機能を備えています。</RPP_RechargeStation_Builder_III.description>
+	<RPP_RechargeStation_Builder_IV.label>土木工事ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_Builder_IV.label>
+	<RPP_RechargeStation_Builder_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_Builder_IV.description>
+
+    <RPP_RechargeStation_Crafter_I.label>作業ロボ(グレード1) 専用ベースステーション</RPP_RechargeStation_Crafter_I.label>
+	<RPP_RechargeStation_Crafter_I.description>このステーションはシンプルなロボットに必要な機能を備えています。</RPP_RechargeStation_Crafter_I.description>
+	<RPP_RechargeStation_Crafter_II.label>作業ロボ(グレード2) 専用ベースステーション</RPP_RechargeStation_Crafter_II.label>
+	<RPP_RechargeStation_Crafter_II.description>このステーションは標準的なロボットに必要な機能を備えています。</RPP_RechargeStation_Crafter_II.description>
+	<RPP_RechargeStation_Crafter_III.label>作業ロボ(グレード3) 専用ベースステーション</RPP_RechargeStation_Crafter_III.label>
+	<RPP_RechargeStation_Crafter_III.description>このステーションは高機能なロボットに必要な機能を備えています。</RPP_RechargeStation_Crafter_III.description>
+	<RPP_RechargeStation_Crafter_IV.label>作業ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_Crafter_IV.label>
+	<RPP_RechargeStation_Crafter_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_Crafter_IV.description>
+
+    <RPP_RechargeStation_ER_I.label>医療ロボ(グレード1) 専用ベースステーション</RPP_RechargeStation_ER_I.label>
+	<RPP_RechargeStation_ER_I.description>このステーションはシンプルなロボットに必要な機能を備えています。</RPP_RechargeStation_ER_I.description>
+	<RPP_RechargeStation_ER_II.label>医療ロボ(グレード2) 専用ベースステーション</RPP_RechargeStation_ER_II.label>
+	<RPP_RechargeStation_ER_II.description>このステーションは標準的なロボットに必要な機能を備えています。</RPP_RechargeStation_ER_II.description>
+	<RPP_RechargeStation_ER_III.label>医療ロボ(グレード3) 専用ベースステーション</RPP_RechargeStation_ER_III.label>
+	<RPP_RechargeStation_ER_III.description>このステーションは高機能なロボットに必要な機能を備えています。</RPP_RechargeStation_ER_III.description>
+	<RPP_RechargeStation_ER_IV.label>医療ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_ER_IV.label>
+	<RPP_RechargeStation_ER_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_ER_IV.description>
+
+    <RPP_RechargeStation_Kitchen_I.label>調理ロボ(グレード1) 専用ベースステーション</RPP_RechargeStation_Kitchen_I.label>
+	<RPP_RechargeStation_Kitchen_I.description>このステーションはシンプルなロボットに必要な機能を備えています。</RPP_RechargeStation_Kitchen_I.description>
+	<RPP_RechargeStation_Kitchen_II.label>調理ロボ(グレード2) 専用ベースステーション</RPP_RechargeStation_Kitchen_II.label>
+	<RPP_RechargeStation_Kitchen_II.description>このステーションは標準的なロボットに必要な機能を備えています。</RPP_RechargeStation_Kitchen_II.description>
+	<RPP_RechargeStation_Kitchen_III.label>調理ロボ(グレード3) 専用ベースステーション</RPP_RechargeStation_Kitchen_III.label>
+	<RPP_RechargeStation_Kitchen_III.description>このステーションは高機能なロボットに必要な機能を備えています。</RPP_RechargeStation_Kitchen_III.description>
+	<RPP_RechargeStation_Kitchen_IV.label>調理ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_Kitchen_IV.label>
+	<RPP_RechargeStation_Kitchen_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_Kitchen_IV.description>
+
 </LanguageData>

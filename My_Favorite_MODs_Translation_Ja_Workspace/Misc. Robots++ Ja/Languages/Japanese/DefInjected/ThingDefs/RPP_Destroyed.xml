@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<AIRobot_Hauler_disabled.label>輸送ロボ (機能停止)</AIRobot_Hauler_disabled.label>
+		<AIRobot_Hauler_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_Hauler_disabled.description>
+		<RPP_Hauler_II_disabled.label>輸送ロボ (機能停止)</RPP_Hauler_II_disabled.label>
+		<RPP_Hauler_II_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Hauler_II_disabled.description>
+		<RPP_Hauler_III_disabled.label>輸送ロボ (機能停止)</RPP_Hauler_III_disabled.label>
+		<RPP_Hauler_III_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Hauler_III_disabled.description>
+		<RPP_Hauler_IV_disabled.label>輸送ロボ (機能停止)</RPP_Hauler_IV_disabled.label>
+		<RPP_Hauler_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Hauler_IV_disabled.description>
+
+		<AIRobot_Cleaner_disabled.label>お掃除ロボ (機能停止)</AIRobot_Cleaner_disabled.label>
+		<AIRobot_Cleaner_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_Cleaner_disabled.description>
+		<RPP_Cleaner_II_disabled.label>お掃除ロボ (機能停止)</RPP_Cleaner_II_disabled.label>
+		<RPP_Cleaner_II_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Cleaner_II_disabled.description>
+		<RPP_Cleaner_III_disabled.label>お掃除ロボ (機能停止)</RPP_Cleaner_III_disabled.label>
+		<RPP_Cleaner_III_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Cleaner_III_disabled.description>
+		<RPP_Cleaner_IV_disabled.label>お掃除ロボ (機能停止)</RPP_Cleaner_IV_disabled.label>
+		<RPP_Cleaner_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Cleaner_IV_disabled.description>
+
+		<RPP_Bot_Builder_I_disabled.label>土木工事ロボ (機能停止)</RPP_Bot_Builder_I_disabled.label>
+		<RPP_Bot_Builder_I_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Builder_I_disabled.description>
+		<RPP_Bot_Builder_II_disabled.label>土木工事ロボ (機能停止)</RPP_Bot_Builder_II_disabled.label>
+		<RPP_Bot_Builder_II_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Builder_II_disabled.description>
+		<RPP_Bot_Builder_III_disabled.label>土木工事ロボ (機能停止)</RPP_Bot_Builder_III_disabled.label>
+		<RPP_Bot_Builder_III_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Builder_III_disabled.description>
+		<RPP_Bot_Builder_IV_disabled.label>土木工事ロボ (機能停止)</RPP_Bot_Builder_IV_disabled.label>
+		<RPP_Bot_Builder_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Builder_IV_disabled.description>
+
+		<RPP_Bot_Crafter_I_disabled.label>作業ロボ (機能停止)</RPP_Bot_Crafter_I_disabled.label>
+		<RPP_Bot_Crafter_I_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Crafter_I_disabled.description>
+		<RPP_Bot_Crafter_II_disabled.label>作業ロボ (機能停止)</RPP_Bot_Crafter_II_disabled.label>
+		<RPP_Bot_Crafter_II_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Crafter_II_disabled.description>
+		<RPP_Bot_Crafter_III_disabled.label>作業ロボ (機能停止)</RPP_Bot_Crafter_III_disabled.label>
+		<RPP_Bot_Crafter_III_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Crafter_III_disabled.description>
+		<RPP_Bot_Crafter_IV_disabled.label>作業ロボ (機能停止)</RPP_Bot_Crafter_IV_disabled.label>
+		<RPP_Bot_Crafter_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Crafter_IV_disabled.description>
+
+		<RPP_Bot_ER_I_disabled.label>医療ロボ (機能停止)</RPP_Bot_ER_I_disabled.label>
+		<RPP_Bot_ER_I_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_ER_I_disabled.description>
+		<RPP_Bot_ER_II_disabled.label>医療ロボ (機能停止)</RPP_Bot_ER_II_disabled.label>
+		<RPP_Bot_ER_II_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_ER_II_disabled.description>
+		<RPP_Bot_ER_III_disabled.label>医療ロボ (機能停止)</RPP_Bot_ER_III_disabled.label>
+		<RPP_Bot_ER_III_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_ER_III_disabled.description>
+		<RPP_Bot_ER_IV_disabled.label>医療ロボ (機能停止)</RPP_Bot_ER_IV_disabled.label>
+		<RPP_Bot_ER_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_ER_IV_disabled.description>
+
+		<RPP_Bot_Kitchen_I_disabled.label>調理ロボ (機能停止)</RPP_Bot_Kitchen_I_disabled.label>
+		<RPP_Bot_Kitchen_I_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Kitchen_I_disabled.description>
+		<RPP_Bot_Kitchen_II_disabled.label>調理ロボ (機能停止)</RPP_Bot_Kitchen_II_disabled.label>
+		<RPP_Bot_Kitchen_II_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Kitchen_II_disabled.description>
+		<RPP_Bot_Kitchen_III_disabled.label>調理ロボ (機能停止)</RPP_Bot_Kitchen_III_disabled.label>
+		<RPP_Bot_Kitchen_III_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Kitchen_III_disabled.description>
+		<RPP_Bot_Kitchen_IV_disabled.label>調理ロボ (機能停止)</RPP_Bot_Kitchen_IV_disabled.label>
+		<RPP_Bot_Kitchen_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Kitchen_IV_disabled.description>
+
+</LanguageData>

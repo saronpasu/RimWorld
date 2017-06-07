@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Research_Matrix_I.label>Robotics:\nSimple Logic</RPP_Research_Matrix_I.label>
+	<RPP_Research_Matrix_I.description>Tier 1: Investigation into the production of the Simple Robotic Matrix units used in producing Amateur-class robots. Unlocks Basic robotic research (Tier 2) and the Simple Robotic Matrix.</RPP_Research_Matrix_I.description>
+	<RPP_Research_Matrix_II.label>Robotics:\nBasic Logic</RPP_Research_Matrix_II.label>
+	<RPP_Research_Matrix_II.description>Tier 2: Investigation into the production of the Basic Robotic Matrix units used in producing Professional-class robots. Unlocks Intermediate robotic research (Tier 3) and the Basic Robotic Matrix unit. All robots in this tier are faster and less flammable than the previous.</RPP_Research_Matrix_II.description>
+	<RPP_Research_Matrix_III.label>Robotics:\nIntermediate Logic</RPP_Research_Matrix_III.label>
+	<RPP_Research_Matrix_III.description>Tier 3: Investigation into the production of the Intermediate Robotic Matrix units used in producing Master-class robots. Unlocks advanced robotic research (Tier 4) and the Intermediate Robotic Matrix unit. All robots in this tier are faster and less flammable than the previous.</RPP_Research_Matrix_III.description>
+	<RPP_Research_Matrix_IV.label>Robotics:\nAdvanced Logic</RPP_Research_Matrix_IV.label>
+	<RPP_Research_Matrix_IV.description>Tier 4: Investigation into the production of the Advanced Robotic Matrix units used in producing System-Master-class robots. Unlocks the Advanced Robotic Matrix unit. All robots in this tier are faster and less flammable than the previous.</RPP_Research_Matrix_IV.description>
+
+	<RPP_Research_Fundamentals.label>Robotics:\nFundamentals</RPP_Research_Fundamentals.label>
+	<RPP_Research_Fundamentals.description>Tier 0:\nInvestigation into the easiest principles of robotics and automation.</RPP_Research_Fundamentals.description>
+
+	<RPP_Research_Cleaner_I.label>Simple\nCleaner</RPP_Research_Cleaner_I.label>
+	<RPP_Research_Cleaner_I.description>Tier 1:\nProduction of a Simple cleaning robot.</RPP_Research_Cleaner_I.description>
+	<RPP_Research_Cleaner_II.label>Basic\nCleaner</RPP_Research_Cleaner_II.label>
+	<RPP_Research_Cleaner_II.description>Tier 2:\nProduction of an Basic cleaning robot.</RPP_Research_Cleaner_II.description>
+	<RPP_Research_Cleaner_III.label>Intermediate\nCleaner</RPP_Research_Cleaner_III.label>
+	<RPP_Research_Cleaner_III.description>Tier 3:\nProduction of an Intermediate cleaning robot.</RPP_Research_Cleaner_III.description>
+	<RPP_Research_Cleaner_IV.label>Advanced\nCleaner</RPP_Research_Cleaner_IV.label>
+	<RPP_Research_Cleaner_IV.description>Tier 4:\nProduction of an Advanced cleaning robot.</RPP_Research_Cleaner_IV.description>
+
+	<RPP_Research_Hauler_I.label>Simple\nHauler</RPP_Research_Hauler_I.label>
+	<RPP_Research_Hauler_I.description>Tier 1:\nProduction of a Simple Hauling robot.</RPP_Research_Hauler_I.description>
+	<RPP_Research_Hauler_II.label>Basic\nHauler</RPP_Research_Hauler_II.label>
+	<RPP_Research_Hauler_II.description>Tier 2:\nProduction of an Basic Hauling robot.</RPP_Research_Hauler_II.description>
+	<RPP_Research_Hauler_III.label>Intermediate\nHauler</RPP_Research_Hauler_III.label>
+	<RPP_Research_Hauler_III.description>Tier 3:\nProduction of an Intermediate Hauling robot.</RPP_Research_Hauler_III.description>
+	<RPP_Research_Hauler_IV.label>Advanced\nHauler</RPP_Research_Hauler_IV.label>
+	<RPP_Research_Hauler_IV.description>Tier 4:\nProduction of an Advanced Hauling robot.</RPP_Research_Hauler_IV.description>
+
+	<RPP_Research_Builder_I.label>Simple\nBuilder</RPP_Research_Builder_I.label>
+	<RPP_Research_Builder_I.description>Tier 1:\nProduction of a Simple Construction robot.</RPP_Research_Builder_I.description>
+	<RPP_Research_Builder_II.label>Basic\nBuilder</RPP_Research_Builder_II.label>
+	<RPP_Research_Builder_II.description>Tier 2:\nProduction of an Basic Construction robot.</RPP_Research_Builder_II.description>
+	<RPP_Research_Builder_III.label>Intermediate\nBuilder</RPP_Research_Builder_III.label>
+	<RPP_Research_Builder_III.description>Tier 3:\nProduction of an Intermediate Construction robot.</RPP_Research_Builder_III.description>
+	<RPP_Research_Builder_IV.label>Advanced\nBuilder</RPP_Research_Builder_IV.label>
+	<RPP_Research_Builder_IV.description>Tier 4:\nProduction of an Advanced Construction robot.</RPP_Research_Builder_IV.description>
+
+	<RPP_Research_Crafter_I.label>Simple\nCrafter</RPP_Research_Crafter_I.label>
+	<RPP_Research_Crafter_I.description>Tier 1:\nProduction of a Simple Crafting robot.</RPP_Research_Crafter_I.description>
+	<RPP_Research_Crafter_II.label>Basic\nCrafter</RPP_Research_Crafter_II.label>
+	<RPP_Research_Crafter_II.description>Tier 2:\nProduction of an Basic Crafting robot.</RPP_Research_Crafter_II.description>
+	<RPP_Research_Crafter_III.label>Intermediate\nCrafter</RPP_Research_Crafter_III.label>
+	<RPP_Research_Crafter_III.description>Tier 3:\nProduction of an Intermediate Crafting robot.</RPP_Research_Crafter_III.description>
+	<RPP_Research_Crafter_IV.label>Advanced\nCrafter</RPP_Research_Crafter_IV.label>
+	<RPP_Research_Crafter_IV.description>Tier 4:\nProduction of an Advanced Crafting robot.</RPP_Research_Crafter_IV.description>
+
+	<RPP_Research_ER_I.label>Simple\nER</RPP_Research_ER_I.label>
+	<RPP_Research_ER_I.description>Tier 1:\nProduction of a Simple Emergency Response robot.</RPP_Research_ER_I.description>
+	<RPP_Research_ER_II.label>Basic\nER</RPP_Research_ER_II.label>
+	<RPP_Research_ER_II.description>Tier 2:\nProduction of an Basic Emergency Response robot.</RPP_Research_ER_II.description>
+	<RPP_Research_ER_III.label>Intermediate\nER</RPP_Research_ER_III.label>
+	<RPP_Research_ER_III.description>Tier 3:\nProduction of an Intermediate Emergency Response robot.</RPP_Research_ER_III.description>
+	<RPP_Research_ER_IV.label>Advanced\nER</RPP_Research_ER_IV.label>
+	<RPP_Research_ER_IV.description>Tier 4:\nProduction of an Advanced Emergency Response robot.</RPP_Research_ER_IV.description>
+
+	<RPP_Research_Kitchen_I.label>Simple\nKitchen</RPP_Research_Kitchen_I.label>
+	<RPP_Research_Kitchen_I.description>Tier 1:\nProduction of a Simple Chef and Gardening robot.</RPP_Research_Kitchen_I.description>
+	<RPP_Research_Kitchen_II.label>Basic\nKitchen</RPP_Research_Kitchen_II.label>
+	<RPP_Research_Kitchen_II.description>Tier 2:\nProduction of an Basic Chef and Gardening robot.</RPP_Research_Kitchen_II.description>
+	<RPP_Research_Kitchen_III.label>Intermediate\nKitchen</RPP_Research_Kitchen_III.label>
+	<RPP_Research_Kitchen_III.description>Tier 3:\nProduction of an Intermediate Chef and Gardening robot.</RPP_Research_Kitchen_III.description>
+	<RPP_Research_Kitchen_IV.label>Advanced\nKitchen</RPP_Research_Kitchen_IV.label>
+	<RPP_Research_Kitchen_IV.description>Tier 4:\nProduction of an Advanced Chef and Gardening robot.</RPP_Research_Kitchen_IV.description>
+
+</LanguageData>

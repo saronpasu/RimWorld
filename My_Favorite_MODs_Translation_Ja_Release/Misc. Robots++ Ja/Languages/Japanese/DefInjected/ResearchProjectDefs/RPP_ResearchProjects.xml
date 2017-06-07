@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    <RPP_Research_Matrix_I.label>ロボット工学:\nシンプルなロボットAI論理学</RPP_Research_Matrix_I.label>
+	<RPP_Research_Matrix_I.description>テクノロジー 1: アマチュアクラスのロボットに必要となるロボット用の部品(単純部品)を製造するための研究です。「基本的なロボットAI論理学(テクノロジー2)」の研究と、「ロボット用の部品(単純部品)」の製造がアンロックされます。</RPP_Research_Matrix_I.description>
+	<RPP_Research_Matrix_II.label>ロボット工学:\n基本的なロボットAI論理学</RPP_Research_Matrix_II.label>
+	<RPP_Research_Matrix_II.description>テクノロジー 2: プロクラスのロボットに必要となるロボット用の部品(基本部品)を製造するための研究です。「応用的なロボットAI論理学(テクノロジー3)」の研究と、「ロボット用の部品(基本部品)」の製造がアンロックされます。 このクラスのロボットは、それ以前のものよりも高性能で壊れにくいでしょう。</RPP_Research_Matrix_II.description>
+	<RPP_Research_Matrix_III.label>ロボット工学:\n応用的なロボットAI論理学</RPP_Research_Matrix_III.label>
+	<RPP_Research_Matrix_III.description>テクノロジー 3: マスタークラスのロボットに必要となるロボット用の部品(拡張部品)を製造するための研究です。「より発展的なロボットAI論理学(テクノロジー4)」の研究と、「ロボット用の部品(拡張部品)」の製造がアンロックされます。 このクラスのロボットは、それ以前のものよりも高性能で壊れにくいでしょう。</RPP_Research_Matrix_III.description>
+	<RPP_Research_Matrix_IV.label>ロボット工学:\nより発展的なロボットAI論理学</RPP_Research_Matrix_IV.label>
+	<RPP_Research_Matrix_IV.description>テクノロジー 4: システムマスタークラスのロボットに必要となるロボット用の部品(高性能部品)を製造するための研究です。「ロボット用の部品(拡張部品)」の製造がアンロックされます。 このクラスのロボットは、それ以前のものよりも高性能で壊れにくいでしょう。</RPP_Research_Matrix_IV.description>
+
     <RPP_Research_Fundamentals.label>ロボット工学の基礎研究</RPP_Research_Fundamentals.label>
     <RPP_Research_Fundamentals.description>ロボットや自動化技術についての基礎研究をします。</RPP_Research_Fundamentals.description>
-    <RPP_Research_Matrix_Basic.label>ロボット作成技術</RPP_Research_Matrix_Basic.label>
-    <RPP_Research_Matrix_Basic.description>アマチュアクラス(グレード1)のロボットを製造する技術や、基本的なロボット製造技術を研究開発します。これにより、初級のロボット製造がアンロックされます。</RPP_Research_Matrix_Basic.description>
-    <RPP_Research_Cleaner_Basic.label>ベーシック・お掃除ロボ開発計画</RPP_Research_Cleaner_Basic.label>
-    <RPP_Research_Cleaner_Basic.description>シンプルなお掃除ロボを製造することができるようになります。</RPP_Research_Cleaner_Basic.description>
-    <RPP_Research_Hauler_Basic.label>ベーシック・輸送ロボ開発計画</RPP_Research_Hauler_Basic.label>
-    <RPP_Research_Hauler_Basic.description>シンプルな輸送ロボを製造することができるようになります。</RPP_Research_Hauler_Basic.description>
-    <RPP_Research_Builder_Basic.label>ベーシック・土木工事ロボ開発計画</RPP_Research_Builder_Basic.label>
-    <RPP_Research_Builder_Basic.description>アマチュアクラス(グレード1)の土木工事ロボが製造することができるようになります。このロボットは低速ですが、建設、解体、修理、採掘が可能です。</RPP_Research_Builder_Basic.description>
-    <RPP_Research_Crafter_Basic.label>ベーシック・作業ロボ開発計画</RPP_Research_Crafter_Basic.label>
-    <RPP_Research_Crafter_Basic.description>アマチュアクラス(グレード1)の作業ロボが製造できるようになります。このロボットは低速ですが、工芸、鍛冶、裁縫が可能です。</RPP_Research_Crafter_Basic.description>
-    <RPP_Research_ER_Basic.label>ベーシック・医療ロボ開発計画</RPP_Research_ER_Basic.label>
-    <RPP_Research_ER_Basic.description>アマチュアクラス(グレード1)の医療ロボが製造できるようになります。このロボットは低速ですが、病人や怪我人の治療や、消火活動が可能です。</RPP_Research_ER_Basic.description>
-    <RPP_Research_Kitchen_Basic.label>ベーシック・調理ロボ開発計画</RPP_Research_Kitchen_Basic.label>
-    <RPP_Research_Kitchen_Basic.description>アマチュアクラス(グレード1)の調理ロボが製造できるようになります。このロボットは低速ですが、調理と農業が可能です。</RPP_Research_Kitchen_Basic.description>
-    <RPP_Research_Matrix_Interm.label>改良型ロボットの研究計画</RPP_Research_Matrix_Interm.label>
-    <RPP_Research_Matrix_Interm.description>これまでに研究してきたロボットよりも、効率的かつ、低燃費な改良型ロボットの開発に必要なプロクラス(グレード2)の技術を研究します。これにより、改良型のロボット製造がアンロックされます。</RPP_Research_Matrix_Interm.description>
-    <RPP_Research_Builder_Interm.label>アドバンスド・土木工事ロボ開発計画</RPP_Research_Builder_Interm.label>
-    <RPP_Research_Builder_Interm.description>プロクラス(グレード2)の土木作業ロボが製造できるようになります。このロボットは効率的に、建設、解体、修理、採掘を行うことが可能です。</RPP_Research_Builder_Interm.description>
-    <RPP_Research_Crafter_Interm.label>アドバンスド・作業ロボ開発計画</RPP_Research_Crafter_Interm.label>
-    <RPP_Research_Crafter_Interm.description>プロクラス(グレード2)の作業ロボが製造できるようになります。このロボットは効率的に、工芸、鍛冶、裁縫を行うことが可能です。</RPP_Research_Crafter_Interm.description>
-    <RPP_Research_ER_Interm.label>アドバンスド・医療ロボ開発計画</RPP_Research_ER_Interm.label>
-    <RPP_Research_ER_Interm.description>プロクラス(グレード2)の医療ロボが製造できるようになります。このロボットは効率的に、病人や怪我人の治療や、消火活動を行うことが可能です。</RPP_Research_ER_Interm.description>
-    <RPP_Research_Kitchen_Interm.label>アドバンスド・調理ロボ開発計画</RPP_Research_Kitchen_Interm.label>
-    <RPP_Research_Kitchen_Interm.description>プロクラス(グレード2)の調理ロボが製造できるようになります。このロボットは効率的に、調理と農業を行うことが可能です。</RPP_Research_Kitchen_Interm.description>
-    <RPP_Research_Matrix_Adv.label>高性能ロボットの研究計画</RPP_Research_Matrix_Adv.label>
-    <RPP_Research_Matrix_Adv.description>より効率的で高性能な人工知能と、マスタークラス(グレード3)のロボット工学を研究します。このグレードのロボットは最適かつ効率的なコロニー運営を可能にすることでしょう。これにより、高性能ロボット製造がアンロックされます。</RPP_Research_Matrix_Adv.description>
-    <RPP_Research_Builder_Adv.label>ハイグレード・土木作業ロボ開発計画</RPP_Research_Builder_Adv.label>
-    <RPP_Research_Builder_Adv.description>マスタークラス(グレード3)の土木作業ロボが製造できるようになります。このロボットはより高速かつ低燃費で、建設、解体、修理を行うことが可能です。</RPP_Research_Builder_Adv.description>
-    <RPP_Research_Crafter_Adv.label>ハイグレード・作業ロボ開発計画</RPP_Research_Crafter_Adv.label>
-    <RPP_Research_Crafter_Adv.description>マスタークラス(グレード3)の作業ロボが製造できるようになります。このロボットはより高速かつ低燃費で、工芸、鍛冶、裁縫を行うことが可能です。</RPP_Research_Crafter_Adv.description>
-    <RPP_Research_ER_Adv.label>ハイグレード・医療ロボ開発計画</RPP_Research_ER_Adv.label>
-    <RPP_Research_ER_Adv.description>マスタークラス(グレード3)の医療ロボが製造できるようになります。このロボットはより高速かつ低燃費で、病人や怪我人の治療や、消火活動を行うことが可能です。</RPP_Research_ER_Adv.description>
-    <RPP_Research_Kitchen_Adv.label>ハイグレード・調理ロボ開発計画</RPP_Research_Kitchen_Adv.label>
-    <RPP_Research_Kitchen_Adv.description>マスタークラス(グレード3)の調理ロボが製造できるようになります。このロボットはより高速かつ低燃費で、調理や農業を行うことが可能です。</RPP_Research_Kitchen_Adv.description>
-    <!-- Anti-Logick
-    <RPP_Research_AntiLogic.label>人類型知能ロボット開発計画</RPP_Research_AntiLogic.label>
-    <RPP_Research_AntiLogic.description>人類と同等かそれ以上の知性回路を内蔵したロボット技術を研究します。これはもはや、神の領域(グレード4)の技術です。これにより、万能型のロボット製造がアンロックされます。</RPP_Research_AntiLogic.description>
-    <RPP_Research_OmniBot.label>超高性能万能ロボ(グレード4)開発計画</RPP_Research_OmniBot.label>
-    <RPP_Research_OmniBot.description>このロボットは入植者と同等に、すべての作業を行うことが可能です。</RPP_Research_OmniBot.description>
-    -->
+
+    <RPP_Research_Cleaner_I.label>シンプルクラス\nお掃除ロボ開発計画</RPP_Research_Cleaner_I.label>
+	<RPP_Research_Cleaner_I.description>テクノロジー 1:\nシンプルクラスのお掃除ロボが製造できるようになります。</RPP_Research_Cleaner_I.description>
+	<RPP_Research_Cleaner_II.label>ベーシッククラス\nお掃除ロボ開発計画</RPP_Research_Cleaner_II.label>
+	<RPP_Research_Cleaner_II.description>テクノロジー 2:\nベーシッククラスのお掃除ロボが製造できるようになります。</RPP_Research_Cleaner_II.description>
+	<RPP_Research_Cleaner_III.label>ミドルクラス\nお掃除ロボ開発計画</RPP_Research_Cleaner_III.label>
+	<RPP_Research_Cleaner_III.description>テクノロジー 3:\nミドルクラスのお掃除ロボが製造できるようになります。</RPP_Research_Cleaner_III.description>
+	<RPP_Research_Cleaner_IV.label>アドバンスドクラス\nお掃除ロボ開発計画</RPP_Research_Cleaner_IV.label>
+	<RPP_Research_Cleaner_IV.description>テクノロジー 4:\nアドバンスドクラスのお掃除ロボが製造できるようになります。</RPP_Research_Cleaner_IV.description>
+
+    <RPP_Research_Hauler_I.label>シンプルクラス\n輸送ロボ開発計画</RPP_Research_Hauler_I.label>
+	<RPP_Research_Hauler_I.description>テクノロジー 1:\nシンプルクラスの輸送ロボが製造できるようになります。</RPP_Research_Hauler_I.description>
+	<RPP_Research_Hauler_II.label>ベーシッククラス\n輸送ロボ開発計画</RPP_Research_Hauler_II.label>
+	<RPP_Research_Hauler_II.description>テクノロジー 2:\nベーシッククラスの輸送ロボが製造できるようになります。</RPP_Research_Hauler_II.description>
+	<RPP_Research_Hauler_III.label>ミドルクラス\n輸送ロボ開発計画</RPP_Research_Hauler_III.label>
+	<RPP_Research_Hauler_III.description>テクノロジー 3:\nミドルクラスの輸送ロボが製造できるようになります。</RPP_Research_Hauler_III.description>
+	<RPP_Research_Hauler_IV.label>アドバンスドクラス\n輸送ロボ開発計画</RPP_Research_Hauler_IV.label>
+	<RPP_Research_Hauler_IV.description>テクノロジー 4:\nアドバンスドクラスの輸送ロボが製造できるようになります。</RPP_Research_Hauler_IV.description>
+
+    <RPP_Research_Builder_I.label>シンプルクラス\n土木工事ロボ開発計画</RPP_Research_Builder_I.label>
+	<RPP_Research_Builder_I.description>テクノロジー 1:\nシンプルクラスの土木工事ロボが製造できるようになります。</RPP_Research_Builder_I.description>
+	<RPP_Research_Builder_II.label>ベーシッククラス\n土木工事ロボ開発計画</RPP_Research_Builder_II.label>
+	<RPP_Research_Builder_II.description>テクノロジー 2:\nベーシッククラスの土木工事ロボが製造できるようになります。</RPP_Research_Builder_II.description>
+	<RPP_Research_Builder_III.label>ミドルクラス\n土木工事ロボ開発計画</RPP_Research_Builder_III.label>
+	<RPP_Research_Builder_III.description>テクノロジー 3:\nミドルクラスの土木工事ロボが製造できるようになります。</RPP_Research_Builder_III.description>
+	<RPP_Research_Builder_IV.label>アドバンスドクラス\n土木工事ロボ開発計画</RPP_Research_Builder_IV.label>
+	<RPP_Research_Builder_IV.description>テクノロジー 4:\nアドバンスドクラスの土木工事ロボが製造できるようになります。</RPP_Research_Builder_IV.description>
+
+    <RPP_Research_Crafter_I.label>シンプルクラス\n作業ロボ開発計画</RPP_Research_Crafter_I.label>
+	<RPP_Research_Crafter_I.description>テクノロジー 1:\nシンプルクラスの作業ロボが製造できるようになります。</RPP_Research_Crafter_I.description>
+	<RPP_Research_Crafter_II.label>ベーシッククラス\n作業ロボ開発計画</RPP_Research_Crafter_II.label>
+	<RPP_Research_Crafter_II.description>テクノロジー 2:\nベーシッククラスの作業ロボが製造できるようになります。</RPP_Research_Crafter_II.description>
+	<RPP_Research_Crafter_III.label>ミドルクラス\n作業ロボ開発計画</RPP_Research_Crafter_III.label>
+	<RPP_Research_Crafter_III.description>テクノロジー 3:\nミドルクラスの作業ロボが製造できるようになります。</RPP_Research_Crafter_III.description>
+	<RPP_Research_Crafter_IV.label>アドバンスドクラス\n作業ロボ開発計画</RPP_Research_Crafter_IV.label>
+	<RPP_Research_Crafter_IV.description>テクノロジー 4:\nアドバンスドクラスの作業ロボが製造できるようになります。</RPP_Research_Crafter_IV.description>
+
+    <RPP_Research_ER_I.label>シンプルクラス\n医療ロボ開発計画</RPP_Research_ER_I.label>
+	<RPP_Research_ER_I.description>テクノロジー 1:\nシンプルクラスの医療ロボが製造できるようになります。</RPP_Research_ER_I.description>
+	<RPP_Research_ER_II.label>ベーシッククラス\n医療ロボ開発計画</RPP_Research_ER_II.label>
+	<RPP_Research_ER_II.description>テクノロジー 2:\nベーシッククラスの医療ロボが製造できるようになります。</RPP_Research_ER_II.description>
+	<RPP_Research_ER_III.label>ミドルクラス\n医療ロボ開発計画</RPP_Research_ER_III.label>
+	<RPP_Research_ER_III.description>テクノロジー 3:\nミドルクラスの医療ロボが製造できるようになります。</RPP_Research_ER_III.description>
+	<RPP_Research_ER_IV.label>アドバンスドクラス\n医療ロボ開発計画</RPP_Research_ER_IV.label>
+	<RPP_Research_ER_IV.description>テクノロジー 4:\nアドバンスドクラスの医療ロボが製造できるようになります。</RPP_Research_ER_IV.description>
+
+    <RPP_Research_Kitchen_I.label>シンプルクラス\n調理ロボ開発計画</RPP_Research_Kitchen_I.label>
+	<RPP_Research_Kitchen_I.description>テクノロジー 1:\nシンプルクラスの調理ロボが製造できるようになります。</RPP_Research_Kitchen_I.description>
+	<RPP_Research_Kitchen_II.label>ベーシッククラス\n調理ロボ開発計画</RPP_Research_Kitchen_II.label>
+	<RPP_Research_Kitchen_II.description>テクノロジー 2:\nベーシッククラスの調理ロボが製造できるようになります。</RPP_Research_Kitchen_II.description>
+	<RPP_Research_Kitchen_III.label>ミドルクラス\n調理ロボ開発計画</RPP_Research_Kitchen_III.label>
+	<RPP_Research_Kitchen_III.description>テクノロジー 3:\nミドルクラスの調理ロボが製造できるようになります。</RPP_Research_Kitchen_III.description>
+	<RPP_Research_Kitchen_IV.label>アドバンスドクラス\n調理ロボ開発計画</RPP_Research_Kitchen_IV.label>
+	<RPP_Research_Kitchen_IV.description>テクノロジー 4:\nアドバンスドクラスの調理ロボが製造できるようになります。</RPP_Research_Kitchen_IV.description>
+
 </LanguageData>
