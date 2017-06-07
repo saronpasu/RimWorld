@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_Cleaner.label>お掃除ロボ</AIRobot_Cleaner.label>
+    <AIRobot_Cleaner.description>お掃除ロボットです。</AIRobot_Cleaner.description>
+
+    <AIRobot_Hauler.label>輸送ロボ</AIRobot_Hauler.label>
+    <AIRobot_Hauler.description>輸送ロボットです。</AIRobot_Hauler.description>
+
+    <AIRobot_GardenerBot.label>庭師ロボ</AIRobot_GardenerBot.label>
+    <AIRobot_GardenerBot.description>このロボットは庭師として働きます。 (樹木を伐採することもできます)</AIRobot_GardenerBot.description>
+
+    <AIRobot_CraftingBot.label>工芸家ロボ</AIRobot_CraftingBot.label>
+    <AIRobot_CraftingBot.description>このロボットはさまざまな工芸作業ができます。 (鍛冶/縫製/工芸などが行えます)</AIRobot_CraftingBot.description>
+
+    <AIRobot_MiningBot.label>採掘ロボ</AIRobot_MiningBot.label>
+    <AIRobot_MiningBot.description>このロボットは採掘が専門です。</AIRobot_MiningBot.description>
+
+    <AIRobot_ConstructionBot.label>建設ロボ</AIRobot_ConstructionBot.label>
+    <AIRobot_ConstructionBot.description>このロボットは建設と修理が行えます。</AIRobot_ConstructionBot.description>
+
+</LanguageData>

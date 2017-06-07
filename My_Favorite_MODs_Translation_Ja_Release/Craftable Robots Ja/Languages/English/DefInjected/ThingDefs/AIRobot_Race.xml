@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_GardenerBot.label>Gardener Bot</AIRobot_GardenerBot.label>
+    <AIRobot_GardenerBot.description>A robot for gardening work (like cutting trees).</AIRobot_GardenerBot.description>
+
+    <AIRobot_CraftingBot.label>Crafting Bot</AIRobot_CraftingBot.label>
+    <AIRobot_CraftingBot.description>A robot for crafting (smithing/tailoring/crafting).</AIRobot_CraftingBot.description>
+
+    <AIRobot_MiningBot.label>Mining Bot</AIRobot_MiningBot.label>
+    <AIRobot_MiningBot.description>A robot for mining.</AIRobot_MiningBot.description>
+
+    <AIRobot_ConstructionBot.label>Construction Bot</AIRobot_ConstructionBot.label>
+    <AIRobot_ConstructionBot.description>A robot for constructing and repairing.</AIRobot_ConstructionBot.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_GardenerBot.label>GardenerBot</AIRobot_GardenerBot.label>
+    <AIRobot_CraftingBot.label>CraftingBot</AIRobot_CraftingBot.label>
+    <AIRobot_MiningBot.label>MiningBot</AIRobot_MiningBot.label>
+    <AIRobot_ConstructionBot.label>ConstructionBot</AIRobot_ConstructionBot.label>
+
+</LanguageData>

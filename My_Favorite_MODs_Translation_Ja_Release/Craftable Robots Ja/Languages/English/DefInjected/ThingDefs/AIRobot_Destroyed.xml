@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_GardenerBot_disabled.label>GardenerBot (disabled)</AIRobot_GardenerBot_disabled.label>
+    <AIRobot_GardenerBot_disabled.description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</AIRobot_GardenerBot_disabled.description>
+
+    <AIRobot_CraftingBot_disabled.label>CraftingBot (disabled)</AIRobot_CraftingBot_disabled.label>
+    <AIRobot_CraftingBot_disabled.description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</AIRobot_CraftingBot_disabled.description>
+
+    <AIRobot_MiningBot_disabled.label>MiningBot (disabled)</AIRobot_MiningBot_disabled.label>
+    <AIRobot_MiningBot_disabled.description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</AIRobot_MiningBot_disabled.description>
+
+    <AIRobot_ConstructionBot_disabled.label>ConstructionBot (disabled)</AIRobot_ConstructionBot_disabled.label>
+    <AIRobot_ConstructionBot_disabled.description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</AIRobot_ConstructionBot_disabled.description>
+
+</LanguageData>

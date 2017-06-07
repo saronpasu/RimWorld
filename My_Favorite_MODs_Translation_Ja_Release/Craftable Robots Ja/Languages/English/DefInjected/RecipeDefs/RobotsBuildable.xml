@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <CleanerBotProduction.label>Make Cleaner Bot</CleanerBotProduction.label>
+    <CleanerBotProduction.description>Build a Cleaner Bot.</CleanerBotProduction.description>
+    <CleanerBotProduction.jobString>Botting</CleanerBotProduction.jobString>
+
+    <HaulerBotProduction.label>Make Hauler Bot</HaulerBotProduction.label>
+    <HaulerBotProduction.description>Build a Hauler Bot.</HaulerBotProduction.description>
+    <HaulerBotProduction.jobString>Botting</HaulerBotProduction.jobString>
+
+    <GardenerBotProduction.label>Make Gardener Bot</GardenerBotProduction.label>
+    <GardenerBotProduction.description>Build a Gardener Bot.</GardenerBotProduction.description>
+    <GardenerBotProduction.jobString>Botting</GardenerBotProduction.jobString>
+
+    <CraftingBotProduction.label>Make Crafting Bot</CraftingBotProduction.label>
+    <CraftingBotProduction.description>Build a Crafting Bot.</CraftingBotProduction.description>
+    <CraftingBotProduction.jobString>Botting</CraftingBotProduction.jobString>
+
+    <MiningBotProduction.label>Make Mining Bot</MiningBotProduction.label>
+    <MiningBotProduction.description>Build a Mining Bot.</MiningBotProduction.description>
+    <MiningBotProduction.jobString>Botting</MiningBotProduction.jobString>
+
+    <ConstructionBotProduction.label>Make Construction Bot</ConstructionBotProduction.label>
+    <ConstructionBotProduction.description>Build a Construction Bot.</ConstructionBotProduction.description>
+    <ConstructionBotProduction.jobString>Botting</ConstructionBotProduction.jobString>
+
+</LanguageData>

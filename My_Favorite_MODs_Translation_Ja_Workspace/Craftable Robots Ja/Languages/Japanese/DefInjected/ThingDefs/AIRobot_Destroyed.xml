@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_CleanerBot_disabled.label>お掃除ロボ (機能停止)</AIRobot_CleanerBot_disabled.label>
+    <AIRobot_CleanerBot_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_CleanerBot_disabled.description>
+
+    <AIRobot_HaulerBot_disabled.label>輸送ロボ (機能停止)</AIRobot_HaulerBot_disabled.label>
+    <AIRobot_HaulerBot_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_HaulerBot_disabled.description>
+
+    <AIRobot_GardenerBot_disabled.label>庭師ロボ (機能停止)</AIRobot_GardenerBot_disabled.label>
+    <AIRobot_GardenerBot_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_GardenerBot_disabled.description>
+
+    <AIRobot_CraftingBot_disabled.label>工芸家ロボ (機能停止)</AIRobot_CraftingBot_disabled.label>
+    <AIRobot_CraftingBot_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_CraftingBot_disabled.description>
+
+    <AIRobot_MiningBot_disabled.label>採掘ロボ (機能停止)</AIRobot_MiningBot_disabled.label>
+    <AIRobot_MiningBot_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_MiningBot_disabled.description>
+
+    <AIRobot_ConstructionBot_disabled.label>建設ロボ (機能停止)</AIRobot_ConstructionBot_disabled.label>
+    <AIRobot_ConstructionBot_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</AIRobot_ConstructionBot_disabled.description>
+
+</LanguageData>

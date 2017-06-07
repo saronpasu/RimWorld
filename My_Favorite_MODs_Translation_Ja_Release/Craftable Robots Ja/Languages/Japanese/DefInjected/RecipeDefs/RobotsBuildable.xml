@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <CleanerBotProduction.label>お掃除ロボを作成する</CleanerBotProduction.label>
+    <CleanerBotProduction.description>お掃除ロボを製造します。</CleanerBotProduction.description>
+    <CleanerBotProduction.jobString>製造中</CleanerBotProduction.jobString>
+
+    <HaulerBotProduction.label>輸送ロボを作成する</HaulerBotProduction.label>
+    <HaulerBotProduction.description>輸送ロボを製造します。</HaulerBotProduction.description>
+    <HaulerBotProduction.jobString>製造中</HaulerBotProduction.jobString>
+
+    <GardenerBotProduction.label>庭師ロボを作成する</GardenerBotProduction.label>
+    <GardenerBotProduction.description>庭師ロボを製造します。</GardenerBotProduction.description>
+    <GardenerBotProduction.jobString>製造中</GardenerBotProduction.jobString>
+
+    <CraftingBotProduction.label>工芸家ロボを作成する</CraftingBotProduction.label>
+    <CraftingBotProduction.description>工芸家ロボを製造します。</CraftingBotProduction.description>
+    <CraftingBotProduction.jobString>製造中</CraftingBotProduction.jobString>
+
+    <MiningBotProduction.label>採掘ロボを作成する</MiningBotProduction.label>
+    <MiningBotProduction.description>採掘ロボを製造します。</MiningBotProduction.description>
+    <MiningBotProduction.jobString>製造中</MiningBotProduction.jobString>
+
+    <ConstructionBotProduction.label>建設ロボを作成する</ConstructionBotProduction.label>
+    <ConstructionBotProduction.description>建設ロボを製造します。</ConstructionBotProduction.description>
+    <ConstructionBotProduction.jobString>製造中</ConstructionBotProduction.jobString>
+
+</LanguageData>

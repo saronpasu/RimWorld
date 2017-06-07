@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_RechargeStation_GardenerBot.label>GardenerBot Base Station</AIRobot_RechargeStation_GardenerBot.label>
+    <AIRobot_RechargeStation_GardenerBot.description>This station comes equipped with a specialized robot.</AIRobot_RechargeStation_GardenerBot.description>
+
+    <AIRobot_RechargeStation_CraftingBot.label>CraftingBot Base Station</AIRobot_RechargeStation_CraftingBot.label>
+    <AIRobot_RechargeStation_CraftingBot.description>This station comes equipped with a specialized robot.</AIRobot_RechargeStation_CraftingBot.description>
+
+    <AIRobot_RechargeStation_MiningBot.label>MiningBot Base Station</AIRobot_RechargeStation_MiningBot.label>
+    <AIRobot_RechargeStation_MiningBot.description>This station comes equipped with a specialized robot.</AIRobot_RechargeStation_MiningBot.description>
+
+    <AIRobot_RechargeStation_ConstructionBot.label>ConstructionBot Base Station</AIRobot_RechargeStation_ConstructionBot.label>
+    <AIRobot_RechargeStation_ConstructionBot.description>This station comes equipped with a specialized robot.</AIRobot_RechargeStation_ConstructionBot.description>
+
+</LanguageData>

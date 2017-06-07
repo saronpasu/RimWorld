@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AIRobot_RechargeStation_Cleaner.label>お掃除ロボ 専用ベースステーション</AIRobot_RechargeStation_Cleaner.label>
+    <AIRobot_RechargeStation_Cleaner.description>このステーションはロボットに必要な機能を備えています。</AIRobot_RechargeStation_Cleaner.description>
+
+    <AIRobot_RechargeStation_Hauler.label>輸送ロボ 専用ベースステーション</AIRobot_RechargeStation_Hauler.label>
+    <AIRobot_RechargeStation_Hauler.description>このステーションはロボットに必要な機能を備えています。</AIRobot_RechargeStation_Hauler.description>
+
+    <AIRobot_RechargeStation_GardenerBot.label>庭師ロボ 専用ベースステーション</AIRobot_RechargeStation_GardenerBot.label>
+    <AIRobot_RechargeStation_GardenerBot.description>このステーションはロボットに必要な機能を備えています。</AIRobot_RechargeStation_GardenerBot.description>
+
+    <AIRobot_RechargeStation_CraftingBot.label>工芸家ロボ 専用ベースステーション</AIRobot_RechargeStation_CraftingBot.label>
+    <AIRobot_RechargeStation_CraftingBot.description>このステーションはロボットに必要な機能を備えています。</AIRobot_RechargeStation_CraftingBot.description>
+
+    <AIRobot_RechargeStation_MiningBot.label>採掘ロボ 専用ベースステーション</AIRobot_RechargeStation_MiningBot.label>
+    <AIRobot_RechargeStation_MiningBot.description>このステーションはロボットに必要な機能を備えています。</AIRobot_RechargeStation_MiningBot.description>
+
+    <AIRobot_RechargeStation_ConstructionBot.label>建設ロボ 専用ベースステーション</AIRobot_RechargeStation_ConstructionBot.label>
+    <AIRobot_RechargeStation_ConstructionBot.description>このステーションはロボットに必要な機能を備えています。</AIRobot_RechargeStation_ConstructionBot.description>
+
+</LanguageData>
