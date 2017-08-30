@@ -55,4 +55,7 @@
 	<RPP_RechargeStation_Kitchen_IV.label>調理ロボ(グレード4) 専用ベースステーション</RPP_RechargeStation_Kitchen_IV.label>
 	<RPP_RechargeStation_Kitchen_IV.description>このステーションは最高級のロボットに必要な機能を備えています。</RPP_RechargeStation_Kitchen_IV.description>
 
+    <RPP_RechargeStation_Omni_V.label>万能ロボ(V) 専用ベースステーション</RPP_RechargeStation_Omni_V.label>
+	<RPP_RechargeStation_Omni_V.description>このステーションは反ロジック機能を備えた万能ロボットに必要な機能を備えています。 (NP=P)\nこのベースステーションは、オーバーユニティによる内部電源を有しています。</RPP_RechargeStation_Omni_V.description>
+
 </LanguageData>

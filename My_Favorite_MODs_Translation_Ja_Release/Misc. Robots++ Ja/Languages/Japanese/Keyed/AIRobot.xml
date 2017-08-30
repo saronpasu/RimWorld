@@ -21,4 +21,8 @@
 	<AIRobot_ActivateAllRobots>すべてのロボットを起動させます。</AIRobot_ActivateAllRobots>
 	<AIRobot_RobotIsDestroyed>ロボットは破壊された！</AIRobot_RobotIsDestroyed>
 
+	<!-- AIRobot_destroyed -->
+	<AIRobot_RepairRobot>ロボットを修理する</AIRobot_RepairRobot>
+	<AIRobot_DismantleRobot>ロボットとステーションを解体する</AIRobot_DismantleRobot>
+
 </LanguageData>

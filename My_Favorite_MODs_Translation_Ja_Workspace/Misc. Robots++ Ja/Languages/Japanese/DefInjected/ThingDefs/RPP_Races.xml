@@ -54,4 +54,7 @@
     <RPP_Bot_Kitchen_IV.label>調理ロボ</RPP_Bot_Kitchen_IV.label>
     <RPP_Bot_Kitchen_IV.description>システムマスタークラス(スキル16)のユニットを使用した調理ロボです。調理、農業ができます。</RPP_Bot_Kitchen_IV.description>
 
+    <RPP_Bot_Omni_V.label>万能ロボ</RPP_Bot_Omni_V.label>
+	<RPP_Bot_Omni_V.description>テクノロジー 5 の神がかり的なユニットを搭載した人間にできることならすべてできるロボット。 (NP=P)</RPP_Bot_Omni_V.description>
+
 </LanguageData>

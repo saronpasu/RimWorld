@@ -8,6 +8,8 @@
 	<RPP_Research_Matrix_III.description>テクノロジー 3: マスタークラスのロボットに必要となるロボット用の部品(拡張部品)を製造するための研究です。「より発展的なロボットAI論理学(テクノロジー4)」の研究と、「ロボット用の部品(拡張部品)」の製造がアンロックされます。 このクラスのロボットは、それ以前のものよりも高性能で壊れにくいでしょう。</RPP_Research_Matrix_III.description>
 	<RPP_Research_Matrix_IV.label>ロボット工学:\nより発展的なロボットAI論理学</RPP_Research_Matrix_IV.label>
 	<RPP_Research_Matrix_IV.description>テクノロジー 4: システムマスタークラスのロボットに必要となるロボット用の部品(高性能部品)を製造するための研究です。「ロボット用の部品(拡張部品)」の製造がアンロックされます。 このクラスのロボットは、それ以前のものよりも高性能で壊れにくいでしょう。</RPP_Research_Matrix_IV.description>
+    <RPP_Research_Matrix_V.label>ロボット工学:\nNP=P アンチロジック</RPP_Research_Matrix_V.label>
+	<RPP_Research_Matrix_V.description>テクノロジー 5: 既存のテクノロジーにおける限界を超える新たな論理を研究します。論理を理解し、因果関係を解明することにより、新たな科学的地平を切り開くことが目的です。そのためには多くの時間を費やすことになるでしょう。</RPP_Research_Matrix_V.description>
 
     <RPP_Research_Fundamentals.label>ロボット工学の基礎研究</RPP_Research_Fundamentals.label>
     <RPP_Research_Fundamentals.description>ロボットや自動化技術についての基礎研究をします。</RPP_Research_Fundamentals.description>
@@ -65,5 +67,8 @@
 	<RPP_Research_Kitchen_III.description>テクノロジー 3:\nミドルクラスの調理ロボが製造できるようになります。</RPP_Research_Kitchen_III.description>
 	<RPP_Research_Kitchen_IV.label>アドバンスドクラス\n調理ロボ開発計画</RPP_Research_Kitchen_IV.label>
 	<RPP_Research_Kitchen_IV.description>テクノロジー 4:\nアドバンスドクラスの調理ロボが製造できるようになります。</RPP_Research_Kitchen_IV.description>
+
+	<RPP_Research_Omni_V.label>アンチロジック\n万能ロボ</RPP_Research_Omni_V.label>
+	<RPP_Research_Omni_V.description>テクノロジー 5:\n神のような万能ロボを開発します。それはまさに、人を超えるものとしてあらゆる作業を人以上の速さで行うことができます。</RPP_Research_Omni_V.description>
 
 </LanguageData>

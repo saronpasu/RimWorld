@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MedicRobot_RechargeStation.label>医療ロボ 専用ベースステーション</MedicRobot_RechargeStation.label>
+	<MedicRobot_RechargeStation.description>特殊なロボットのための専用ベースステーションです。</MedicRobot_RechargeStation.description>
+
+	<MedicRobot.description>これは医療ロボットです。</MedicRobot.description>
+
+	<MedicRobot_disabled.label>医療ロボ (機能停止)</MedicRobot_disabled.label>
+	<MedicRobot_disabled.description>このロボットは既に悲しい終わりを迎えています。もはやあなたの役に立つことはないでしょう。解体して資源としてリサイクルするか、本格的なレストアを施す必要があります。</MedicRobot_disabled.description>
+
+</LanguageData>

@@ -16,4 +16,7 @@
     <RPP_Matrix_IV.label>ロボット用の部品(高性能部品)</RPP_Matrix_IV.label>
     <RPP_Matrix_IV.description>この部品を使ったロボットは、システムマスタークラスの作業を行うことが可能になります。</RPP_Matrix_IV.description>
 
+    <RPP_Matrix_V.label>万能コア</RPP_Matrix_V.label>
+	<RPP_Matrix_V.description>ロボットを超えるロボットを実現するためのコアユニット。それは神がかり的なパフォーマンスを実現するだろう。 (NP=P)</RPP_Matrix_V.description>
+
 </LanguageData>

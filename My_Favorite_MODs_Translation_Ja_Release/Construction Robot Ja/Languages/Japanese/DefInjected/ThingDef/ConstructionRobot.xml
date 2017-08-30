@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ConstructionRobot_RechargeStation.label>建築ロボ 専用ベースステーション</ConstructionRobot_RechargeStation.label>
+	<ConstructionRobot_RechargeStation.description>特殊なロボットのための専用ベースステーションです。</ConstructionRobot_RechargeStation.description>
+
+	<ConstructionRobot.description>これは建築ロボットです。</ConstructionRobot.description>
+
+	<ConstructionRobot_disabled.label>建築ロボ (機能停止)</ConstructionRobot_disabled.label>
+	<ConstructionRobot_disabled.description>このロボットは既に悲しい終わりを迎えています。もはやあなたの役に立つことはないでしょう。解体して資源としてリサイクルするか、本格的なレストアを施す必要があります。</ConstructionRobot_disabled.description>
+
+</LanguageData>

@@ -21,6 +21,9 @@
     <RPP_Production_Matrix_IV.label>ロボット用の部品(高性能部品)を作成する</RPP_Production_Matrix_IV.label>
     <RPP_Production_Matrix_IV.description>システムマスタークラス(グレード4)のロボット用の高性能パーツです。</RPP_Production_Matrix_IV.description>
     <RPP_Production_Matrix_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_IV.jobString>
+    <RPP_Production_Matrix_V.label>万能コア(NP=P)を作成する</RPP_Production_Matrix_V.label>
+	<RPP_Production_Matrix_V.description>神がかり的なスキル(テクノロジー 4)を持つロボットに必要となるアンチロジック回路を作成する。</RPP_Production_Matrix_V.description>
+	<RPP_Production_Matrix_V.jobString>ロボットの部品を組み立てています。</RPP_Production_Matrix_V.jobString>
 
     <RPP_Production_Cleaner_I.label>お掃除ロボ(グレード1)を作成する</RPP_Production_Cleaner_I.label>
     <RPP_Production_Cleaner_I.description>汚れを見つけると掃除するシンプルなロボットです。</RPP_Production_Cleaner_I.description>
@@ -100,5 +103,9 @@
     <RPP_Production_Kitchen_IV.label>アドバンスド・調理ロボ(グレード4)を作成する</RPP_Production_Kitchen_IV.label>
     <RPP_Production_Kitchen_IV.description>調理と農業が可能なマスタークラスのスキルを持ったロボットです。</RPP_Production_Kitchen_IV.description>
     <RPP_Production_Kitchen_IV.jobString>ロボットの部品を組み立てています。</RPP_Production_Kitchen_IV.jobString>
+
+    <RPP_Production_Omni_V.label>万能ロボ(グレード 5)を作成する</RPP_Production_Omni_V.label>
+	<RPP_Production_Omni_V.description>人にできるあらゆる作業を人以上のスキルで行うことのできる万能のロボットです。</RPP_Production_Omni_V.description>
+	<RPP_Production_Omni_V.jobString>ロボットの部品を組み立てています。</RPP_Production_Omni_V.jobString>
 
 </LanguageData>

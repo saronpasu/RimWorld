@@ -55,4 +55,7 @@
 		<RPP_Bot_Kitchen_IV_disabled.label>調理ロボ (機能停止)</RPP_Bot_Kitchen_IV_disabled.label>
 		<RPP_Bot_Kitchen_IV_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Kitchen_IV_disabled.description>
 
+		<RPP_Bot_Omni_V_disabled.label>万能ロボ (機能停止)</RPP_Bot_Omni_V_disabled.label>
+		<RPP_Bot_Omni_V_disabled.description>悲しい終わりを向かえた家庭用ロボット。もはや動くことはできません、修理して再利用するか解体するしかないでしょう。</RPP_Bot_Omni_V_disabled.description>
+
 </LanguageData>
