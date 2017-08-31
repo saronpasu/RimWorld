@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <BearClaws.label>ベアクロー</BearClaws.label>
+    <BearClaws.description>これはバイオニック・パワー・クロ−を上回る身体強化です。ベアクローはヒトとクマのDNAの混合物で人工培養され、被験者の手を汎用性のある収納可能な爪を備えたもので置き換えます。</BearClaws.description>
+
+    <Ovipositor.label>産卵器官</Ovipositor.label>
+    <Ovipositor.description>あなたがヒトに産卵器官を埋め込んだ時、あなたはあなたの科学実験はあまりにも遠い地平へとたどり着いてしまったことを知ることになるでしょう。これにより、入植者は１日に２回ほど産卵することができます。しかし、産卵は地獄のな痛みを伴います。ウゲー。</Ovipositor.description>
+
+    <MuffaloMuscles.label>マッファロー強化筋肉</MuffaloMuscles.label>
+    <MuffaloMuscles.description>マッファローの筋肉組織を組み込むことで、被験者の筋肉系、強さ、弾力および運搬能力が大幅に増幅されます。</MuffaloMuscles.description>
+
+    <BoomalopeNodules.label>ボマロープ結節</BoomalopeNodules.label>
+    <BoomalopeNodules.description>この皮膚結節は人体の胴部に組み込まれると、被験者が死亡した場合、爆発を引き起こします。</BoomalopeNodules.description>
+
+    <WolfMuscularFibers.label>オオカミ筋繊維</WolfMuscularFibers.label>
+    <WolfMuscularFibers.description>被験者の脚は、体内にヒト/オオカミ筋繊維が組み込まれることで強化されます。これにより筋力と加速力を得ることができます。</WolfMuscularFibers.description>
+
+    <InsectoidAntennae.label>昆虫の触覚</InsectoidAntennae.label>
+    <InsectoidAntennae.description>このヒト/昆虫のハイブリッド感覚器官は、被験者の頭部に埋め込まれ、被験者が感じている全感覚を完全に塗り替えることが可能です。この感覚的な負荷によりこれまでの経験を上書きされるかもしれません。</InsectoidAntennae.description>
+
+    <HumanThrumboHorn.label>スランボの角(移植用)</HumanThrumboHorn.label>
+    <HumanThrumboHorn.description>被験者の額に埋め込むことができる遺伝子組み換えによるスランボの角。汚らわしい。</HumanThrumboHorn.description>
+
+    <VenomousFangs.label>毒の牙</VenomousFangs.label>
+    <VenomousFangs.description>このハイブリッドインプラントは、被験者の顎を有毒な牙のセットで置き換えます。戦闘には役立つが、日常生活ではあまり快適ではありません。</VenomousFangs.description>
+</LanguageData>

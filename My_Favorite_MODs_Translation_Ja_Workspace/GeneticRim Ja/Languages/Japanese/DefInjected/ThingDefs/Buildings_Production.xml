@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <GeneticExtractionTable.label>遺伝子抽出作業台</GeneticExtractionTable.label>
+    <GeneticExtractionTable.description>遺伝子の抽出など、さまざまな遺伝子工学の作業を行うことが可能です。</GeneticExtractionTable.description>
+
+    <GenePod.label>遺伝子ポッド</GenePod.label>
+    <GenePod.description>この実験設備では、遺伝物質サンプルを組み合わせて培養することが可能です。</GenePod.description>
+
+    <AdvancedGenePod.label>高度な遺伝子ポッド</AdvancedGenePod.label>
+    <AdvancedGenePod.description>この実験設備では、遺伝物質サンプルを組み合わせて培養することが可能です。成長化合物のバットは、最も難しい実験のいくつかを促進する。</AdvancedGenePod.description>
+
+    <Pulper.label>パルプ製造機</Pulper.label>
+    <Pulper.description>木材や有機資源を基礎有機化合物として使用可能なパルプに変えます。</Pulper.description>
+
+    <TissueGrowingVat.label>生体組織培養タンク</TissueGrowingVat.label>
+    <TissueGrowingVat.description>有機構造の成長を促進し、遺伝子操作されたハイブリッドインプラントの培養を加速させる。</TissueGrowingVat.description>
+</LanguageData>

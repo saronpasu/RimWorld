@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <InstallBearClaws.label>ベアクロー 移植</InstallBearClaws.label>
+    <InstallBearClaws.description>ベアクローを移植します。</InstallBearClaws.description>
+    <InstallBearClaws.jobString>ベアクローを移植中</InstallBearClaws.jobString>
+
+    <InstallOvipositor.label>産卵器官 移植</InstallOvipositor.label>
+    <InstallOvipositor.description>産卵器官を移植します。</InstallOvipositor.description>
+    <InstallOvipositor.jobString>産卵器官を移植中</InstallOvipositor.jobString>
+
+    <InstallMuffaloMuscles.label>マッファロー強化筋肉 移植</InstallMuffaloMuscles.label>
+    <InstallMuffaloMuscles.description>マッファロー強化筋肉を移植します。</InstallMuffaloMuscles.description>
+    <InstallMuffaloMuscles.jobString>マッファロー強化筋肉を移植中</InstallMuffaloMuscles.jobString>
+
+    <InstallBoomalopeNodules.label>ボマロープ結節 移植</InstallBoomalopeNodules.label>
+    <InstallBoomalopeNodules.description>ボマロープ結節を移植します。</InstallBoomalopeNodules.description>
+    <InstallBoomalopeNodules.jobString>ボマロープ結節を移植中</InstallBoomalopeNodules.jobString>
+
+    <InstallWolfMuscularFibers.label>オオカミ筋繊維 移植</InstallWolfMuscularFibers.label>
+    <InstallWolfMuscularFibers.description>オオカミ筋繊維を移植します。</InstallWolfMuscularFibers.description>
+    <InstallWolfMuscularFibers.jobString>オオカミ筋繊維を移植中</InstallWolfMuscularFibers.jobString>
+
+    <InstallInsectoidAntennae.label>昆虫の触覚 移植</InstallInsectoidAntennae.label>
+    <InstallInsectoidAntennae.description>昆虫の触覚を移植します。</InstallInsectoidAntennae.description>
+    <InstallInsectoidAntennae.jobString>昆虫の触覚を移植中</InstallInsectoidAntennae.jobString>
+
+    <InstallHumanThrumboHorn.label>スランボの角 移植</InstallHumanThrumboHorn.label>
+    <InstallHumanThrumboHorn.description>スランボの角を移植します。</InstallHumanThrumboHorn.description>
+    <InstallHumanThrumboHorn.jobString>スランボの角を移植中</InstallHumanThrumboHorn.jobString>
+
+    <InstallVenomousFangs.label>毒の牙 移植</InstallVenomousFangs.label>
+    <InstallVenomousFangs.description>毒の牙を移植します。</InstallVenomousFangs.description>
+    <InstallVenomousFangs.jobString>毒の牙を移植中</InstallVenomousFangs.jobString>
+</LanguageData>

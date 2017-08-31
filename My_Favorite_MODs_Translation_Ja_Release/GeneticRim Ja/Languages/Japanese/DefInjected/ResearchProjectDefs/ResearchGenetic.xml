@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <GeneticEngineering.label>遺伝子工学</GeneticEngineering.label>
+    <GeneticEngineering.description>遺伝子工学の基礎を研究します。</GeneticEngineering.description>
+
+    <InsectoidGenome.label>昆虫のゲノム解析</InsectoidGenome.label>
+    <InsectoidGenome.description>昆虫型のエイリアンから遺伝物質を抽出する方法を研究します。</InsectoidGenome.description>
+
+    <ReptilianGenome.label>爬虫類のゲノム解析</ReptilianGenome.label>
+    <ReptilianGenome.description>爬虫類から遺伝物質を抽出する方法を研究します。</ReptilianGenome.description>
+
+    <HumanoidGeneticEngineering.label>ヒトゲノム計画</HumanoidGeneticEngineering.label>
+    <HumanoidGeneticEngineering.description>ヒューマノイド遺伝子の抽出を可能にし、人間と動物のDNAを混合して動物インプラントを作ることができます。</HumanoidGeneticEngineering.description>
+
+    <AdvancedGeneticEngineering.label>高度な遺伝子工学</AdvancedGeneticEngineering.label>
+    <AdvancedGeneticEngineering.description>高度な遺伝子ポッドのロックを解除し、より高度なクリーチャー遺伝子の混合を可能にします。</AdvancedGeneticEngineering.description>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <BearGenetic.label>クマの遺伝子素体</BearGenetic.label>
+    <BearGenetic.description>クマの死体から抽出された遺伝子素体が入った小瓶。</BearGenetic.description>
+
+    <ChickenGenetic.label>ニワトリの遺伝子素体</ChickenGenetic.label>
+    <ChickenGenetic.description>ニワトリの死体から抽出された遺伝子素体が入った小瓶。</ChickenGenetic.description>
+
+    <BoomalopeGenetic.label>ボマロープの遺伝子素体</BoomalopeGenetic.label>
+    <BoomalopeGenetic.description>ボマロープの死体から抽出された遺伝子素体が入った小瓶。</BoomalopeGenetic.description>
+
+    <MuffaloGenetic.label>マッファローの遺伝子素体</MuffaloGenetic.label>
+    <MuffaloGenetic.description>マッファローの死体から抽出された遺伝子素体が入った小瓶。</MuffaloGenetic.description>
+
+    <WolfGenetic.label>オオカミの遺伝子素体</WolfGenetic.label>
+    <WolfGenetic.description>オオカミの死体から抽出された遺伝子素体が入った小瓶。</WolfGenetic.description>
+
+    <InsectoidGenetic.label>昆虫の遺伝子素体</InsectoidGenetic.label>
+    <InsectoidGenetic.description>昆虫の死体から抽出された遺伝子素体が入った小瓶。</InsectoidGenetic.description>
+
+    <ReptilianGenetic.label>爬虫類の遺伝子素体</ReptilianGenetic.label>
+    <ReptilianGenetic.description>爬虫類の死体から抽出された遺伝子素体が入った小瓶。</ReptilianGenetic.description>
+
+    <HumanoidGenetic.label>ヒトの遺伝子素体</HumanoidGenetic.label>
+    <HumanoidGenetic.description>ヒトの死体から抽出された遺伝子素体が入った小瓶。</HumanoidGenetic.description>
+
+    <ThrumboGenetic.label>スランボの遺伝子素体</ThrumboGenetic.label>
+    <ThrumboGenetic.description>スランボの死体から抽出された遺伝子素体が入った小瓶。</ThrumboGenetic.description>
+
+    <OrganicPulp.label>有機パルプ</OrganicPulp.label>
+    <OrganicPulp.description>この木材パルプは、いくつかの遺伝的プロセスを加速する有機成長化合物として使用することができます。遺伝子ポッドをアップグレードする必要があります。</OrganicPulp.description>
+
+    <ImplantPlasteelWireMesh.label>プラスチールワイヤーメッシュ</ImplantPlasteelWireMesh.label>
+    <ImplantPlasteelWireMesh.description>このプラスチールワイヤーメッシュは、生態組織の成長時に滅菌足場として使用されます。それはいずれかのバットの成長ハイブリッドインプラントのベースとして使用されます。</ImplantPlasteelWireMesh.description>
+</LanguageData>

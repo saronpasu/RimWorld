@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Chickenbear.label>チキンベア</Chickenbear.label>
+    <Chickenbear.description>鶏と熊の混成種。卵を産み、そして鶏よりも少しだけ身を守るために戦うことができます。</Chickenbear.description>
+
+    <Chickenlope.label>チキンロープ</Chickenlope.label>
+    <Chickenlope.description>鶏とボマロープの混成種。彼らは卵を産み、そして死ぬときに爆発します！</Chickenlope.description>
+
+    <Chickenffalo.label>チキンファロー</Chickenffalo.label>
+    <Chickenffalo.description>鶏とマッファローの混成種。卵を産み、ミルクと毛糸をとることができ、荷馬としても使えます。もちろん、いずれも他の動物ほど優秀ではありませんが、この動物のためにあなたの資産を支払う価値は十分にあります。小さなバッグを身に着けている姿はとても愛らしい。</Chickenffalo.description>
+
+    <Chickenwolf.label>チキンウルフ</Chickenwolf.label>
+    <Chickenwolf.description>狼と鶏の混成種。俊敏な動きと、厄介な噛みつきには気をつけて！</Chickenwolf.description>
+</LanguageData>

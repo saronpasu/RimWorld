@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <CraftImplantPlasteelWireMesh.label>プラスチールワイヤーメッシュを作成する</CraftImplantPlasteelWireMesh.label>
+    <CraftImplantPlasteelWireMesh.description>ハイブリッドインプラント用のプラスティールワイヤーメッシュを作成します。</CraftImplantPlasteelWireMesh.description>
+    <CraftImplantPlasteelWireMesh.jobString>プラスチールワイヤーメッシュを作成中</CraftImplantPlasteelWireMesh.jobString>
+
+    <CraftBearClaws.label>ベアクローを作成する</CraftBearClaws.label>
+    <CraftBearClaws.description>ベアクローを作成します。ヒューマノイドに埋め込むヒューマノイドとクマのDNAによる強力な近接攻撃手段です。</CraftBearClaws.description>
+    <CraftBearClaws.jobString>ベアクローを作成中</CraftBearClaws.jobString>
+
+    <CraftOvipositor.label>産卵器官を作成する</CraftOvipositor.label>
+    <CraftOvipositor.description>産卵器官を作成します。ヒューマノイドと鶏のDNAを含むハイブリッドインプラントを作ること...それを良いアイデアだと確信していますか？ 本当に？ 自由に産むことができる人間の卵？ お、おう...</CraftOvipositor.description>
+    <CraftOvipositor.jobString>産卵器官を作成中</CraftOvipositor.jobString>
+
+    <CraftMuffaloMuscles.label>マッファロー強化筋肉を作成する</CraftMuffaloMuscles.label>
+    <CraftMuffaloMuscles.description>マッファロー強化筋肉を作成します。マッファローの筋肉組織を組み込むことで、被験者の筋肉系、強さ、弾力および運搬能力が大幅に増幅されます。</CraftMuffaloMuscles.description>
+    <CraftMuffaloMuscles.jobString>マッファロー強化筋肉を作成中</CraftMuffaloMuscles.jobString>
+
+    <CraftBoomalopeNodules.label>ボマロープ結節を作成する</CraftBoomalopeNodules.label>
+    <CraftBoomalopeNodules.description>ボマロープ結節を作成します。この皮膚結節は人体の胴部に組み込まれると、被験者が死亡した場合、爆発を引き起こします。</CraftBoomalopeNodules.description>
+    <CraftBoomalopeNodules.jobString>ボマロープ結節を作成中</CraftBoomalopeNodules.jobString>
+
+    <CraftWolfMuscularFibers.label>オオカミ筋繊維を作成する</CraftWolfMuscularFibers.label>
+    <CraftWolfMuscularFibers.description>オオカミ筋繊維を作成します。被験者の脚は、体内にヒト/オオカミ筋繊維が組み込まれることで強化されます。これにより筋力と加速力を得ることができます。</CraftWolfMuscularFibers.description>
+    <CraftWolfMuscularFibers.jobString>オオカミ筋繊維を作成中</CraftWolfMuscularFibers.jobString>
+
+    <CraftInsectoidAntennae.label>昆虫の触覚を作成する</CraftInsectoidAntennae.label>
+    <CraftInsectoidAntennae.description>ヒト/昆虫のハイブリッド感覚器官を作成します。これは被験者の頭部に埋め込まれ、被験者が感じている全感覚を完全に塗り替えることが可能です。この感覚的な負荷によりこれまでの経験を上書きされるかもしれません。</CraftInsectoidAntennae.description>
+    <CraftInsectoidAntennae.jobString>昆虫の触覚を作成中</CraftInsectoidAntennae.jobString>
+
+    <CraftHumanThrumboHorn.label>スランボの角(移植用)を作成する</CraftHumanThrumboHorn.label>
+    <CraftHumanThrumboHorn.description>被験者の額に埋め込むことができる遺伝子組み換えによるスランボの角。汚らわしい。</CraftHumanThrumboHorn.description>
+    <CraftHumanThrumboHorn.jobString>スランボの角(移植用)を作成中</CraftHumanThrumboHorn.jobString>
+
+    <CraftVenomousFangs.label>毒の牙を作成する</CraftVenomousFangs.label>
+    <CraftVenomousFangs.description>このハイブリッドインプラントは、被験者の顎を有毒な牙のセットで置き換えます。戦闘には役立つが、日常生活ではあまり快適ではありません。</CraftVenomousFangs.description>
+    <CraftVenomousFangs.jobString>毒の牙を作成中</CraftVenomousFangs.jobString>
+</LanguageData>

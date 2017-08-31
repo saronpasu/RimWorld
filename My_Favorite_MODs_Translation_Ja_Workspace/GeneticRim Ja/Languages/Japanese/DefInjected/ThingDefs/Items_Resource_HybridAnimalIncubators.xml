@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <EmptyIncubator.label>空の培養カプセル</EmptyIncubator.label>
+    <EmptyIncubator.description>この培養カプセルは空です。遺伝子ポッドを使用して異なる遺伝子素体の小瓶でこの培養カプセルを満たしてください。</EmptyIncubator.description>
+
+    <BearBoomalopePre.label>ボマロープ・クマの培養カプセル</BearBoomalopePre.label>
+    <BearBoomalopePre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BearBoomalopePre.description>
+
+    <BearalopeIncubator.label>ボマロープ・クマの培養カプセル</BearalopeIncubator.label>
+    <BearalopeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ボマロープ・クマ」または「クマ・ボマロープ」のいずれかの混成種として誕生します。</BearalopeIncubator.description>
+
+    <BoomabearIncubator.label>ボマロープ・クマの培養カプセル</BoomabearIncubator.label>
+    <BoomabearIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ボマロープ・クマ」または「クマ・ボマロープ」のいずれかの混成種として誕生します。</BoomabearIncubator.description>
+
+    <BearChickenPre.label>ニワトリ・クマの培養カプセル</BearChickenPre.label>
+    <BearChickenPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BearChickenPre.description>
+
+    <ChickenBearIncubator.label>ニワトリ・クマの培養カプセル</ChickenBearIncubator.label>
+    <ChickenBearIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・クマ」または「クマ・ニワトリ」のいずれかの混成種として誕生します。</ChickenBearIncubator.description>
+
+    <BearChickenIncubator.label>ニワトリ・クマの培養カプセル</BearChickenIncubator.label>
+    <BearChickenIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・クマ」または「クマ・ニワトリ」のいずれかの混成種として誕生します。</BearChickenIncubator.description>
+
+    <BearMuffaloPre.label>マッファロー・クマの培養カプセル</BearMuffaloPre.label>
+    <BearMuffaloPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BearMuffaloPre.description>
+
+    <BearMuffaloIncubator.label>マッファロー・クマの培養カプセル</BearMuffaloIncubator.label>
+    <BearMuffaloIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「マッファロー・クマ」または「クマ・マッファロー」のいずれかの混成種として誕生します。</BearMuffaloIncubator.description>
+
+    <MuffaloBearIncubator.label>マッファロー・クマの培養カプセル</MuffaloBearIncubator.label>
+    <MuffaloBearIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「マッファロー・クマ」または「クマ・マッファロー」のいずれかの混成種として誕生します。</MuffaloBearIncubator.description>
+
+    <BearWolfPre.label>オオカミ・クマの培養カプセル</BearWolfPre.label>
+    <BearWolfPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BearWolfPre.description>
+
+    <BearWolfIncubator.label>オオカミ・クマの培養カプセル</BearWolfIncubator.label>
+    <BearWolfIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「オオカミ・クマ」または「クマ・オオカミ」のいずれかの混成種として誕生します。</BearWolfIncubator.description>
+
+    <WolfBearIncubator.label>オオカミ・クマの培養カプセル</WolfBearIncubator.label>
+    <WolfBearIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「オオカミ・クマ」または「クマ・オオカミ」のいずれかの混成種として誕生します。</WolfBearIncubator.description>
+
+    <BoomalopeChickenPre.label>ボマロープ・ニワトリの培養カプセル</BoomalopeChickenPre.label>
+    <BoomalopeChickenPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BoomalopeChickenPre.description>
+
+    <BoomalopeChickenIncubator.label>ボマロープ・ニワトリの培養カプセル</BoomalopeChickenIncubator.label>
+    <BoomalopeChickenIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・ボマロープ」または「ボマロープ・ニワトリ」のいずれかの混成種として誕生します。</BoomalopeChickenIncubator.description>
+
+    <ChickenBoomalopeIncubator.label>ボマロープ・ニワトリの培養カプセル</ChickenBoomalopeIncubator.label>
+    <ChickenBoomalopeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・ボマロープ」または「ボマロープ・ニワトリ」のいずれかの混成種として誕生します。</ChickenBoomalopeIncubator.description>
+
+    <BoomalopeMuffaloPre.label>ボマロープ・マッファローの培養カプセル</BoomalopeMuffaloPre.label>
+    <BoomalopeMuffaloPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BoomalopeMuffaloPre.description>
+
+    <BoomalopeMuffaloIncubator.label>ボマロープ・マッファローの培養カプセル</BoomalopeMuffaloIncubator.label>
+    <BoomalopeMuffaloIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「マッファロー・ボマロープ」または「ボマロープ・マッファロー」のいずれかの混成種として誕生します。</BoomalopeMuffaloIncubator.description>
+
+    <MuffaloBoomalopeIncubator.label>ボマロープ・マッファローの培養カプセル</MuffaloBoomalopeIncubator.label>
+    <MuffaloBoomalopeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「マッファロー・ボマロープ」または「ボマロープ・マッファロー」のいずれかの混成種として誕生します。</MuffaloBoomalopeIncubator.description>
+
+    <BoomalopeWolfPre.label>ボマロープ・オオカミの培養カプセル</BoomalopeWolfPre.label>
+    <BoomalopeWolfPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</BoomalopeWolfPre.description>
+
+    <BoomalopeWolfIncubator.label>ボマロープ・オオカミの培養カプセル</BoomalopeWolfIncubator.label>
+    <BoomalopeWolfIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「オオカミ・ボマロープ」または「ボマロープ・オオカミ」のいずれかの混成種として誕生します。</BoomalopeWolfIncubator.description>
+
+    <WolfBoomalopeIncubator.label>ボマロープ・オオカミの培養カプセル</WolfBoomalopeIncubator.label>
+    <WolfBoomalopeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「オオカミ・ボマロープ」または「ボマロープ・オオカミ」のいずれかの混成種として誕生します。</WolfBoomalopeIncubator.description>
+
+    <ChickenMuffaloPre.label>ニワトリ・マッファローの培養カプセル</ChickenMuffaloPre.label>
+    <ChickenMuffaloPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</ChickenMuffaloPre.description>
+
+    <ChickenMuffaloIncubator.label>ニワトリ・マッファローの培養カプセル</ChickenMuffaloIncubator.label>
+    <ChickenMuffaloIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・マッファロー」または「マッファロー・ニワトリ」のいずれかの混成種として誕生します。</ChickenMuffaloIncubator.description>
+
+    <MuffaloChickenIncubator.label>ニワトリ・マッファローの培養カプセル</MuffaloChickenIncubator.label>
+    <MuffaloChickenIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・マッファロー」または「マッファロー・ニワトリ」のいずれかの混成種として誕生します。</MuffaloChickenIncubator.description>
+
+    <ChickenWolfPre.label>ニワトリ・オオカミの培養カプセル</ChickenWolfPre.label>
+    <ChickenWolfPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</ChickenWolfPre.description>
+
+    <ChickenWolfIncubator.label>ニワトリ・オオカミの培養カプセル</ChickenWolfIncubator.label>
+    <ChickenWolfIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・オオカミ」または「オオカミ・ニワトリ」のいずれかの混成種として誕生します。</ChickenWolfIncubator.description>
+
+    <WolfChickenIncubator.label>ニワトリ・オオカミの培養カプセル</WolfChickenIncubator.label>
+    <WolfChickenIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「ニワトリ・オオカミ」または「オオカミ・ニワトリ」のいずれかの混成種として誕生します。</WolfChickenIncubator.description>
+
+    <MuffaloWolfPre.label>マッファロー・オオカミの培養カプセル</MuffaloWolfPre.label>
+    <MuffaloWolfPre.description>複数の動物の遺伝子素体による混合物で満たされた培養カプセル。</MuffaloWolfPre.description>
+
+    <MuffaloWolfIncubator.label>マッファロー・オオカミの培養カプセル</MuffaloWolfIncubator.label>
+    <MuffaloWolfIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「マッファロー・オオカミ」または「オオカミ・マッファロー」のいずれかの混成種として誕生します。</MuffaloWolfIncubator.description>
+
+    <WolfMuffaloIncubator.label>マッファロー・オオカミの培養カプセル</WolfMuffaloIncubator.label>
+    <WolfMuffaloIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。胎児は「マッファロー・オオカミ」または「オオカミ・マッファロー」のいずれかの混成種として誕生します。</WolfMuffaloIncubator.description>
+
+    <ThrumbearIncubator.label>スランボ・クマの培養カプセル</ThrumbearIncubator.label>
+    <ThrumbearIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumbearIncubator.description>
+
+    <ThrumffaloIncubator.label>スランボ・マッファローの培養カプセル</ThrumffaloIncubator.label>
+    <ThrumffaloIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumffaloIncubator.description>
+
+    <ThrumbalopeIncubator.label>スランボ・ボマロープの培養カプセル</ThrumbalopeIncubator.label>
+    <ThrumbalopeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumbalopeIncubator.description>
+
+    <ThrumbochickenIncubator.label>スランボ・ニワトリの培養カプセル</ThrumbochickenIncubator.label>
+    <ThrumbochickenIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumbochickenIncubator.description>
+
+    <ThrumwolfIncubator.label>スランボ・オオカミの培養カプセル</ThrumwolfIncubator.label>
+    <ThrumwolfIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumwolfIncubator.description>
+
+    <BearscarabIncubator.label>昆虫・クマの培養カプセル</BearscarabIncubator.label>
+    <BearscarabIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</BearscarabIncubator.description>
+
+    <MuffalopedeIncubator.label>昆虫・マッファローの培養カプセル</MuffalopedeIncubator.label>
+    <MuffalopedeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</MuffalopedeIncubator.description>
+
+    <BoombeetleIncubator.label>昆虫・ボマロープの培養カプセル</BoombeetleIncubator.label>
+    <BoombeetleIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</BoombeetleIncubator.description>
+
+    <ChickenspiderIncubator.label>昆虫・ニワトリの培養カプセル</ChickenspiderIncubator.label>
+    <ChickenspiderIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ChickenspiderIncubator.description>
+
+    <WolfscarabIncubator.label>昆虫・オオカミの培養カプセル</WolfscarabIncubator.label>
+    <WolfscarabIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</WolfscarabIncubator.description>
+
+    <ThrumbospiderIncubator.label>昆虫・スランボの培養カプセル</ThrumbospiderIncubator.label>
+    <ThrumbospiderIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumbospiderIncubator.description>
+
+    <BearodileIncubator.label>爬虫類・クマの培養カプセル</BearodileIncubator.label>
+    <BearodileIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</BearodileIncubator.description>
+
+    <BoomsnakeIncubator.label>爬虫類・ボマロープの培養カプセル</BoomsnakeIncubator.label>
+    <BoomsnakeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</BoomsnakeIncubator.description>
+
+    <ChickenlizardIncubator.label>爬虫類・ニワトリの培養カプセル</ChickenlizardIncubator.label>
+    <ChickenlizardIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ChickenlizardIncubator.description>
+
+    <MuffalokomodoIncubator.label>爬虫類・マッファローの培養カプセル</MuffalokomodoIncubator.label>
+    <MuffalokomodoIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</MuffalokomodoIncubator.description>
+
+    <SpidersnakeIncubator.label>爬虫類・昆虫の培養カプセル</SpidersnakeIncubator.label>
+    <SpidersnakeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</SpidersnakeIncubator.description>
+
+    <ThrumbolizardIncubator.label>爬虫類・スランボの培養カプセル</ThrumbolizardIncubator.label>
+    <ThrumbolizardIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</ThrumbolizardIncubator.description>
+
+    <WolfsnakeIncubator.label>爬虫類・オオカミの培養カプセル</WolfsnakeIncubator.label>
+    <WolfsnakeIncubator.description>この培養カプセルは、遺伝子組換え生物が孵化する準備ができるまで0〜50℃の温度に保たれなければなりません。</WolfsnakeIncubator.description>
+</LanguageData>

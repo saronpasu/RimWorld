@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <BaseIncubator.label>空の培養カプセルを製造する</BaseIncubator.label>
+    <BaseIncubator.description>スチールと有機成長化合物を使用して空の培養カプセルを製造します。</BaseIncubator.description>
+    <BaseIncubator.jobString>空の培養カプセルを製造中</BaseIncubator.jobString>
+
+    <ExtractGenesBear.label>クマの遺伝子素体を抽出する</ExtractGenesBear.label>
+    <ExtractGenesBear.description>クマの死体から遺伝子素体を抽出します。</ExtractGenesBear.description>
+    <ExtractGenesBear.jobString>遺伝子素体を抽出中</ExtractGenesBear.jobString>
+
+    <ExtractGenesChicken.label>ニワトリの遺伝子素体を抽出する</ExtractGenesChicken.label>
+    <ExtractGenesChicken.description>ニワトリの死体から遺伝子素体を抽出します。</ExtractGenesChicken.description>
+    <ExtractGenesChicken.jobString>遺伝子素体を抽出中</ExtractGenesChicken.jobString>
+
+    <ExtractGenesBoomalope.label>ボマロープの遺伝子素体を抽出する</ExtractGenesBoomalope.label>
+    <ExtractGenesBoomalope.description>ボマロープの死体から遺伝子素体を抽出します。</ExtractGenesBoomalope.description>
+    <ExtractGenesBoomalope.jobString>遺伝子素体を抽出中</ExtractGenesBoomalope.jobString>
+
+    <ExtractGenesMuffalo.label>マッファローの遺伝子素体を抽出する</ExtractGenesMuffalo.label>
+    <ExtractGenesMuffalo.description>マッファローの死体から遺伝子素体を抽出します。</ExtractGenesMuffalo.description>
+    <ExtractGenesMuffalo.jobString>遺伝子素体を抽出中</ExtractGenesMuffalo.jobString>
+
+    <ExtractGenesWolf.label>オオカミの遺伝子素体を抽出する</ExtractGenesWolf.label>
+    <ExtractGenesWolf.description>オオカミの死体から遺伝子素体を抽出します。</ExtractGenesWolf.description>
+    <ExtractGenesWolf.jobString>遺伝子素体を抽出中</ExtractGenesWolf.jobString>
+
+    <ExtractGenesInsectoid.label>昆虫の遺伝子素体を抽出する</ExtractGenesInsectoid.label>
+    <ExtractGenesInsectoid.description>昆虫の死体から遺伝子素体を抽出します。</ExtractGenesInsectoid.description>
+    <ExtractGenesInsectoid.jobString>遺伝子素体を抽出中</ExtractGenesInsectoid.jobString>
+
+    <ExtractGenesReptilian.label>爬虫類の遺伝子素体を抽出する</ExtractGenesReptilian.label>
+    <ExtractGenesReptilian.description>爬虫類の死体から遺伝子素体を抽出します。</ExtractGenesReptilian.description>
+    <ExtractGenesReptilian.jobString>遺伝子素体を抽出中</ExtractGenesReptilian.jobString>
+
+    <ExtractGenesHuman.label>ヒトの遺伝子素体を抽出する</ExtractGenesHuman.label>
+    <ExtractGenesHuman.description>ヒトの死体から遺伝子素体を抽出します。</ExtractGenesHuman.description>
+    <ExtractGenesHuman.jobString>遺伝子素体を抽出中</ExtractGenesHuman.jobString>
+
+    <ExtractGenesThrumbo.label>スランボの遺伝子素体を抽出する</ExtractGenesThrumbo.label>
+    <ExtractGenesThrumbo.description>スランボの死体から遺伝子素体を抽出します。</ExtractGenesThrumbo.description>
+    <ExtractGenesThrumbo.jobString>遺伝子素体を抽出中</ExtractGenesThrumbo.jobString>
+</LanguageData>

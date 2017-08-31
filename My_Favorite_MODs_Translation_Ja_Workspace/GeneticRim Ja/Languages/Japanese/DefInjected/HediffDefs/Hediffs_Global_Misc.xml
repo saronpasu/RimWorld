@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ToxicDamage.label>有毒物質</ToxicDamage.label>
+    <ToxicDamage.stages.1.label>軽度</ToxicDamage.stages.1.label>
+    <ToxicDamage.stages.2.label>中度</ToxicDamage.stages.2.label>
+    <ToxicDamage.stages.3.label>深刻な</ToxicDamage.stages.3.label>
+    <ToxicDamage.stages.4.label>致命的</ToxicDamage.stages.4.label>
+</LanguageData>

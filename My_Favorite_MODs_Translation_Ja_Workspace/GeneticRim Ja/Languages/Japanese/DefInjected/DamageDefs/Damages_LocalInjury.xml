@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <VeryToxicBite.label>噛む(猛毒)</VeryToxicBite.label>
+    <VeryToxicBite.deathMessage>{0} は猛毒の牙で噛まれて死んだ</VeryToxicBite.deathMessage>
+    <LightToxicBite.label>噛む(強毒)</LightToxicBite.label>
+    <LightToxicBite.deathMessage>{0} は強毒の牙で噛まれて死んだ</LightToxicBite.deathMessage>
+    <ToxicExplosion.label>毒性の爆発</ToxicExplosion.label>
+    <ToxicExplosion.deathMessage>{0} は毒性の爆発で死んだ</ToxicExplosion.deathMessage>
+</LanguageData>

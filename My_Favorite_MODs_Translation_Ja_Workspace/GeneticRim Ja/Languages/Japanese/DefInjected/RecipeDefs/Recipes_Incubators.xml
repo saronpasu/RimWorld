@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <CreateBearBoomalopeIncubator.label>クマ・ボマロープの培養カプセル</CreateBearBoomalopeIncubator.label>
+    <CreateBearBoomalopeIncubator.description>クマとボマロープの遺伝物質で培養カプセルを満たします。</CreateBearBoomalopeIncubator.description>
+    <CreateBearBoomalopeIncubator.jobString>培養カプセルを充填中</CreateBearBoomalopeIncubator.jobString>
+
+    <CreateBearChickenIncubator.label>クマ・ニワトリの培養カプセル</CreateBearChickenIncubator.label>
+    <CreateBearChickenIncubator.description>クマとニワトリの遺伝物質で培養カプセルを満たします。</CreateBearChickenIncubator.description>
+    <CreateBearChickenIncubator.jobString>培養カプセルを充填中</CreateBearChickenIncubator.jobString>
+
+    <CreateBearMuffaloIncubator.label>クマ・マッファローの培養カプセル</CreateBearMuffaloIncubator.label>
+    <CreateBearMuffaloIncubator.description>クマとマッファローの遺伝物質で培養カプセルを満たします。</CreateBearMuffaloIncubator.description>
+    <CreateBearMuffaloIncubator.jobString>培養カプセルを充填中</CreateBearMuffaloIncubator.jobString>
+
+    <CreateBearWolfIncubator.label>クマ・オオカミの培養カプセル</CreateBearWolfIncubator.label>
+    <CreateBearWolfIncubator.description>クマとオオカミの遺伝物質で培養カプセルを満たします。</CreateBearWolfIncubator.description>
+    <CreateBearWolfIncubator.jobString>培養カプセルを充填中</CreateBearWolfIncubator.jobString>
+
+    <CreateBoomalopeChickenIncubator.label>ボマロープ・ニワトリの培養カプセル</CreateBoomalopeChickenIncubator.label>
+    <CreateBoomalopeChickenIncubator.description>ボマロープとニワトリの遺伝物質で培養カプセルを満たします。</CreateBoomalopeChickenIncubator.description>
+    <CreateBoomalopeChickenIncubator.jobString>培養カプセルを充填中</CreateBoomalopeChickenIncubator.jobString>
+
+    <CreateBoomalopeMuffaloIncubator.label>ボマロープ・マッファローの培養カプセル</CreateBoomalopeMuffaloIncubator.label>
+    <CreateBoomalopeMuffaloIncubator.description>ボマロープとマッファローの遺伝物質で培養カプセルを満たします。</CreateBoomalopeMuffaloIncubator.description>
+    <CreateBoomalopeMuffaloIncubator.jobString>培養カプセルを充填中</CreateBoomalopeMuffaloIncubator.jobString>
+
+    <CreateBoomalopeWolfIncubator.label>ボマロープ・オオカミの培養カプセル</CreateBoomalopeWolfIncubator.label>
+    <CreateBoomalopeWolfIncubator.description>ボマロープとオオカミの遺伝物質で培養カプセルを満たします。</CreateBoomalopeWolfIncubator.description>
+    <CreateBoomalopeWolfIncubator.jobString>培養カプセルを充填中</CreateBoomalopeWolfIncubator.jobString>
+
+    <CreateChickenMuffaloIncubator.label>ニワトリ・マッファローの培養カプセル</CreateChickenMuffaloIncubator.label>
+    <CreateChickenMuffaloIncubator.description>ニワトリとマッファローの遺伝物質で培養カプセルを満たします。</CreateChickenMuffaloIncubator.description>
+    <CreateChickenMuffaloIncubator.jobString>培養カプセルを充填中</CreateChickenMuffaloIncubator.jobString>
+
+    <CreateChickenWolfIncubator.label>ニワトリ・オオカミの培養カプセル</CreateChickenWolfIncubator.label>
+    <CreateChickenWolfIncubator.description>ニワトリとオオカミの遺伝物質で培養カプセルを満たします。</CreateChickenWolfIncubator.description>
+    <CreateChickenWolfIncubator.jobString>培養カプセルを充填中</CreateChickenWolfIncubator.jobString>
+
+    <CreateMuffaloWolfIncubator.label>マッファロー・オオカミの培養カプセル</CreateMuffaloWolfIncubator.label>
+    <CreateMuffaloWolfIncubator.description>マッファローとオオカミの遺伝物質で培養カプセルを満たします。</CreateMuffaloWolfIncubator.description>
+    <CreateMuffaloWolfIncubator.jobString>培養カプセルを充填中</CreateMuffaloWolfIncubator.jobString>
+
+    <CreateBearscarabIncubator.label>昆虫・クマの培養カプセル</CreateBearscarabIncubator.label>
+    <CreateBearscarabIncubator.description>昆虫とクマの遺伝物質で培養カプセルを満たします。</CreateBearscarabIncubator.description>
+    <CreateBearscarabIncubator.jobString>培養カプセルを充填中</CreateBearscarabIncubator.jobString>
+
+    <CreateBoomBeetleIncubator.label>昆虫・ボマロープの培養カプセル</CreateBoomBeetleIncubator.label>
+    <CreateBoomBeetleIncubator.description>昆虫とボマロープの遺伝物質で培養カプセルを満たします。</CreateBoomBeetleIncubator.description>
+    <CreateBoomBeetleIncubator.jobString>培養カプセルを充填中</CreateBoomBeetleIncubator.jobString>
+
+    <CreateChickenspiderIncubator.label>昆虫・ニワトリの培養カプセル</CreateChickenspiderIncubator.label>
+    <CreateChickenspiderIncubator.description>昆虫とニワトリの遺伝物質で培養カプセルを満たします。</CreateChickenspiderIncubator.description>
+    <CreateChickenspiderIncubator.jobString>培養カプセルを充填中</CreateChickenspiderIncubator.jobString>
+
+    <CreateMuffalopedeIncubator.label>昆虫・マッファローの培養カプセル</CreateMuffalopedeIncubator.label>
+    <CreateMuffalopedeIncubator.description>昆虫とマッファローの遺伝物質で培養カプセルを満たします。</CreateMuffalopedeIncubator.description>
+    <CreateMuffalopedeIncubator.jobString>培養カプセルを充填中</CreateMuffalopedeIncubator.jobString>
+
+    <CreateWolfscarabIncubator.label>昆虫・オオカミの培養カプセル</CreateWolfscarabIncubator.label>
+    <CreateWolfscarabIncubator.description>昆虫とオオカミの遺伝物質で培養カプセルを満たします。</CreateWolfscarabIncubator.description>
+    <CreateWolfscarabIncubator.jobString>培養カプセルを充填中</CreateWolfscarabIncubator.jobString>
+
+    <CreateThrumbospiderIncubator.label>昆虫・スランボの培養カプセル</CreateThrumbospiderIncubator.label>
+    <CreateThrumbospiderIncubator.description>昆虫とスランボの遺伝物質で培養カプセルを満たします。</CreateThrumbospiderIncubator.description>
+    <CreateThrumbospiderIncubator.jobString>培養カプセルを充填中</CreateThrumbospiderIncubator.jobString>
+
+    <CreateBearodileIncubator.label>爬虫類・クマの培養カプセル</CreateBearodileIncubator.label>
+    <CreateBearodileIncubator.description>爬虫類とクマの遺伝物質で培養カプセルを満たします。</CreateBearodileIncubator.description>
+    <CreateBearodileIncubator.jobString>培養カプセルを充填中</CreateBearodileIncubator.jobString>
+
+    <CreateBoomsnakeIncubator.label>爬虫類・ボマロープの培養カプセル</CreateBoomsnakeIncubator.label>
+    <CreateBoomsnakeIncubator.description>爬虫類とボマロープの遺伝物質で培養カプセルを満たします。</CreateBoomsnakeIncubator.description>
+    <CreateBoomsnakeIncubator.jobString>培養カプセルを充填中</CreateBoomsnakeIncubator.jobString>
+
+    <CreateChickenlizardIncubator.label>爬虫類・ニワトリの培養カプセル</CreateChickenlizardIncubator.label>
+    <CreateChickenlizardIncubator.description>爬虫類とニワトリの遺伝物質で培養カプセルを満たします。</CreateChickenlizardIncubator.description>
+    <CreateChickenlizardIncubator.jobString>培養カプセルを充填中</CreateChickenlizardIncubator.jobString>
+
+    <CreateMuffalokomodoIncubator.label>爬虫類・マッファローの培養カプセル</CreateMuffalokomodoIncubator.label>
+    <CreateMuffalokomodoIncubator.description>爬虫類とマッファローの遺伝物質で培養カプセルを満たします。</CreateMuffalokomodoIncubator.description>
+    <CreateMuffalokomodoIncubator.jobString>培養カプセルを充填中</CreateMuffalokomodoIncubator.jobString>
+
+    <CreateSpidersnakeIncubator.label>爬虫類・昆虫の培養カプセル</CreateSpidersnakeIncubator.label>
+    <CreateSpidersnakeIncubator.description>爬虫類と昆虫の遺伝物質で培養カプセルを満たします。</CreateSpidersnakeIncubator.description>
+    <CreateSpidersnakeIncubator.jobString>培養カプセルを充填中</CreateSpidersnakeIncubator.jobString>
+
+    <CreateThrumbolizardIncubator.label>爬虫類・スランボの培養カプセル</CreateThrumbolizardIncubator.label>
+    <CreateThrumbolizardIncubator.description>爬虫類とスランボの遺伝物質で培養カプセルを満たします。</CreateThrumbolizardIncubator.description>
+    <CreateThrumbolizardIncubator.jobString>培養カプセルを充填中</CreateThrumbolizardIncubator.jobString>
+
+    <CreateWolfsnakeIncubator.label>爬虫類・オオカミの培養カプセル</CreateWolfsnakeIncubator.label>
+    <CreateWolfsnakeIncubator.description>爬虫類とオオカミの遺伝物質で培養カプセルを満たします。</CreateWolfsnakeIncubator.description>
+    <CreateWolfsnakeIncubator.jobString>培養カプセルを充填中</CreateWolfsnakeIncubator.jobString>
+
+    <CreateThrumboWolfIncubator.label>スランボ・オオカミの培養カプセル</CreateThrumboWolfIncubator.label>
+    <CreateThrumboWolfIncubator.description>スランボとオオカミの遺伝物質で培養カプセルを満たします。</CreateThrumboWolfIncubator.description>
+    <CreateThrumboWolfIncubator.jobString>培養カプセルを充填中</CreateThrumboWolfIncubator.jobString>
+
+    <CreateThrumboBearIncubator.label>スランボ・クマの培養カプセル</CreateThrumboBearIncubator.label>
+    <CreateThrumboBearIncubator.description>スランボとクマの遺伝物質で培養カプセルを満たします。</CreateThrumboBearIncubator.description>
+    <CreateThrumboBearIncubator.jobString>培養カプセルを充填中</CreateThrumboBearIncubator.jobString>
+
+    <CreateThrumbochickenIncubator.label>スランボ・ニワトリの培養カプセル</CreateThrumbochickenIncubator.label>
+    <CreateThrumbochickenIncubator.description>スランボとニワトリの遺伝物質で培養カプセルを満たします。</CreateThrumbochickenIncubator.description>
+    <CreateThrumbochickenIncubator.jobString>培養カプセルを充填中</CreateThrumbochickenIncubator.jobString>
+
+    <CreateThrumbalopeIncubator.label>スランボ・ボマロープの培養カプセル</CreateThrumbalopeIncubator.label>
+    <CreateThrumbalopeIncubator.description>スランボとボマロープの遺伝物質で培養カプセルを満たします。</CreateThrumbalopeIncubator.description>
+    <CreateThrumbalopeIncubator.jobString>培養カプセルを充填中</CreateThrumbalopeIncubator.jobString>
+
+    <CreateThrumffaloIncubator.label>スランボ・マッファローの培養カプセル</CreateThrumffaloIncubator.label>
+    <CreateThrumffaloIncubator.description>スランボとマッファローの遺伝物質で培養カプセルを満たします。</CreateThrumffaloIncubator.description>
+    <CreateThrumffaloIncubator.jobString>培養カプセルを充填中</CreateThrumffaloIncubator.jobString>
+</LanguageData>

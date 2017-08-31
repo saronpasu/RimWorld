@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <PulpWood.label>木材から有機パルプを抽出</PulpWood.label>
+    <PulpWood.description>木材から有機パルプを抽出します。</PulpWood.description>
+    <PulpWood.jobString>有機パルプを抽出中</PulpWood.jobString>
+</LanguageData>
