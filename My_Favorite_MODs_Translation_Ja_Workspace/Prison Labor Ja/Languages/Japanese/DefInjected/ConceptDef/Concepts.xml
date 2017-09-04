@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <PrisonLabor_Indroduction.label>刑務作業</PrisonLabor_Indroduction.label>
+    <PrisonLabor_Indroduction.helpText>あなたは囚人に労働を強いることができます。\n\nそうするには、「囚人」タブから「強制労働させる」オプションを選択する必要があります。\n\n囚人は、許可された地域にある命令や作業予定を実行しようとします。囚人が自分の仕事に辿り着くことができるようにしておくべきでしょう。\n\n彼らは、特別なスキルを必要としない作業しかできません。それは、料理を作る、鉱山する、植物を切断する、運搬する、清掃する、または植物を栽培するなどの軽作業に限られます。\n\n囚人は仕事を断ることもあります。彼らが仕事を断る理由はさまざまです。負傷、飢え、疲れ、または十分な動機がないなどの理由が考えられます。\n\nヒント：「作業」タブで作業タイプを割り当てることができます。\n\nヒント：刑務所にストーブを置く場合、生の食べ物に届くようにしてください。\n\nヒント：囚人は、ドアを開いたままにしてドアを通過させることができます。</PrisonLabor_Indroduction.helpText>
+
+    <PrisonLabor_Motivation.label>囚人のモチベーション</PrisonLabor_Motivation.label>
+    <PrisonLabor_Motivation.helpText>あなたの囚人の一人が働きませんでした。\n彼は動機づけられない限り、もう仕事をしません。\n\nモチベーションのステータスは、[欲求]タブで確認できます。\n\n十分な監視員（「優先順位」タブにチェック）があることを確認するか、入植者の一人を割当て、囚人の監視に立つように指示します。\n\n囚人の動機付けが低いことは反乱につながる可能性があります</PrisonLabor_Motivation.helpText>
+
+    <PrisonLabor_Growing.label>囚人による栽培</PrisonLabor_Growing.label>
+    <PrisonLabor_Growing.helpText>囚人は、ジャガイモや綿のような特別な技術を必要としない植物だけを育てることができます。彼らは収穫が命じられた植物を集めることができます。</PrisonLabor_Growing.helpText>
+
+    <PrisonLabor_Management.label>刑務作業の管理方法</PrisonLabor_Management.label>
+    <PrisonLabor_Management.helpText>あなたはいくつかの方法で刑務作業を管理することができます。\n\n「優先順位」タブにアクセスして、囚人に仕事の種類を割り当てることができます。\n\n「制限」タブにアクセスすることで、囚人がいつ仕事をしたり、休息したり、眠ったりするかを制限することができます。\n\nあなたは仕事を「囚人のみ」に制限することができます。エリアをカバーする作業命令については、 「アーキテクト」 → 「ゾーン」パネルから「制限ゾーン」ツールを選択することができます。\n請求書にはオプション "囚人のみ"があります。</PrisonLabor_Management.helpText>
+
+    <PrisonLabor_Timetable.label>囚人のタイムスケジュール管理</PrisonLabor_Timetable.label>
+    <PrisonLabor_Timetable.helpText>あなたは囚人のためのタイムスケジュールを設定することができます。\n\n「仕事」の時間は、彼らが空腹でも疲れているときでさえも働かなくてはなりません。\n\n「遊び」の時間は、彼らが仕事から休み、モチベーションのボーナスを得るでしょう。\n\n「睡眠」の時間は、彼らが刑務所の監房にとどまることを強制するでしょう。\n\n「なんでも」はデフォルト設定です。</PrisonLabor_Timetable.helpText>
+
+</LanguageData>

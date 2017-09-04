@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <PrisonLabor_Laziness.label>モチベーション</PrisonLabor_Laziness.label>
+    <PrisonLabor_Laziness.description>作業中</PrisonLabor_Laziness.description>
+
+    <PrisonLabor_Motivation.label>モチベーション</PrisonLabor_Motivation.label>
+    <PrisonLabor_Motivation.description>モチベーションは、囚人が刑務作業を行うための働く意欲を表します。モチベーションは近くに入植者が立ち、監視することで保つことができます。</PrisonLabor_Motivation.description>
+
+</LanguageData>

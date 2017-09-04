@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <PrisonLabor_PrisonerSupervise.reportString>TargetA を監視中</PrisonLabor_PrisonerSupervise.reportString>
+    <PrisonLabor_DeliverFood_Tweak.reportString>TargetBに TargetAを 給仕中</PrisonLabor_DeliverFood_Tweak.reportString>
+    <PrisonLabor_Mine_Tweak.reportString>TargetA を掘削中</PrisonLabor_Mine_Tweak.reportString>
+    <PrisonLabor_Harvest_Tweak.reportString>TargetA を収穫中</PrisonLabor_Harvest_Tweak.reportString>
+    <PrisonLabor_CutPlant_Tweak.reportString>TargetA を伐採中</PrisonLabor_CutPlant_Tweak.reportString>
+
+</LanguageData>

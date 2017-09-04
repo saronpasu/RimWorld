@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <PrisonLabor_SupervisePrisonLabor.label>囚人を監視する</PrisonLabor_SupervisePrisonLabor.label>
+    <PrisonLabor_SupervisePrisonLabor.verb>を監視</PrisonLabor_SupervisePrisonLabor.verb>
+    <PrisonLabor_SupervisePrisonLabor.gerund>を監視する</PrisonLabor_SupervisePrisonLabor.gerund>
+
+    <PrisonLabor_DeliverFoodToPrisoner_Tweak.label>囚人に食事を運ぶ</PrisonLabor_DeliverFoodToPrisoner_Tweak.label>
+    <PrisonLabor_DeliverFoodToPrisoner_Tweak.verb>に給仕する</PrisonLabor_DeliverFoodToPrisoner_Tweak.verb>
+    <PrisonLabor_DeliverFoodToPrisoner_Tweak.gerund>に給仕する</PrisonLabor_DeliverFoodToPrisoner_Tweak.gerund>
+
+    <PrisonLabor_Mine_Tweak.label>岩を掘る</PrisonLabor_Mine_Tweak.label>
+    <PrisonLabor_Mine_Tweak.verb>を掘る</PrisonLabor_Mine_Tweak.verb>
+    <PrisonLabor_Mine_Tweak.gerund>を採掘する</PrisonLabor_Mine_Tweak.gerund>
+
+    <PrisonLabor_PlantsCut_Tweak.label>切り倒す、収穫する</PrisonLabor_PlantsCut_Tweak.label>
+    <PrisonLabor_PlantsCut_Tweak.verb>を伐採する</PrisonLabor_PlantsCut_Tweak.verb>
+    <PrisonLabor_PlantsCut_Tweak.gerund>を伐採する</PrisonLabor_PlantsCut_Tweak.gerund>
+
+    <PrisonLabor_GrowerHarvest_Tweak.label>収穫</PrisonLabor_GrowerHarvest_Tweak.label>
+    <PrisonLabor_GrowerHarvest_Tweak.verb>を収穫する</PrisonLabor_GrowerHarvest_Tweak.verb>
+    <PrisonLabor_GrowerHarvest_Tweak.gerund>を収穫する</PrisonLabor_GrowerHarvest_Tweak.gerund>
+
+    <PrisonLabor_GrowerSow_Tweak.label>種をまく</PrisonLabor_GrowerSow_Tweak.label>
+    <PrisonLabor_GrowerSow_Tweak.verb>の種をまく</PrisonLabor_GrowerSow_Tweak.verb>
+    <PrisonLabor_GrowerSow_Tweak.gerund>の種まきをする</PrisonLabor_GrowerSow_Tweak.gerund>
+
+    <PrisonLabor_CleanFilth_Tweak.label>掃除</PrisonLabor_CleanFilth_Tweak.label>
+    <PrisonLabor_CleanFilth_Tweak.verb>を掃除する</PrisonLabor_CleanFilth_Tweak.verb>
+    <PrisonLabor_CleanFilth_Tweak.gerund>を掃除する</PrisonLabor_CleanFilth_Tweak.gerund>
+
+</LanguageData>

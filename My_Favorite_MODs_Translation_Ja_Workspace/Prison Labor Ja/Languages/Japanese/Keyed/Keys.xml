@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <PrisonLabor_PrisonerWork>強制労働させる</PrisonLabor_PrisonerWork>
+    <PrisonLabor_LazyPrisonerMessage>あなたの囚人は仕事を放棄しました!</PrisonLabor_LazyPrisonerMessage>
+    <WardenResponseThreshold>典獄に従うしきい値</WardenResponseThreshold>
+    <StoppingWorkThreshold>仕事を放棄するしきい値</StoppingWorkThreshold>
+</LanguageData>
