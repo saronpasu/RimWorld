@@ -8,8 +8,8 @@
     <ExtractGenesBear.description>クマの死体から遺伝子素体を抽出します。</ExtractGenesBear.description>
     <ExtractGenesBear.jobString>遺伝子素体を抽出中</ExtractGenesBear.jobString>
 
-    <ExtractGenesChicken.label>ニワトリの遺伝子素体を抽出する</ExtractGenesChicken.label>
-    <ExtractGenesChicken.description>ニワトリの死体から遺伝子素体を抽出します。</ExtractGenesChicken.description>
+    <ExtractGenesChicken.label>鳥類の遺伝子素体を抽出する</ExtractGenesChicken.label>
+    <ExtractGenesChicken.description>いずれかの鳥類の死体から遺伝子素体を抽出します。</ExtractGenesChicken.description>
     <ExtractGenesChicken.jobString>遺伝子素体を抽出中</ExtractGenesChicken.jobString>
 
     <ExtractGenesBoomalope.label>ボマロープの遺伝子素体を抽出する</ExtractGenesBoomalope.label>
@@ -20,8 +20,8 @@
     <ExtractGenesMuffalo.description>マッファローの死体から遺伝子素体を抽出します。</ExtractGenesMuffalo.description>
     <ExtractGenesMuffalo.jobString>遺伝子素体を抽出中</ExtractGenesMuffalo.jobString>
 
-    <ExtractGenesWolf.label>オオカミの遺伝子素体を抽出する</ExtractGenesWolf.label>
-    <ExtractGenesWolf.description>オオカミの死体から遺伝子素体を抽出します。</ExtractGenesWolf.description>
+    <ExtractGenesWolf.label>イヌ科動物の遺伝子素体を抽出する</ExtractGenesWolf.label>
+    <ExtractGenesWolf.description>オオカミ、ワーグ、犬などの死体から遺伝子素体を抽出します。</ExtractGenesWolf.description>
     <ExtractGenesWolf.jobString>遺伝子素体を抽出中</ExtractGenesWolf.jobString>
 
     <ExtractGenesInsectoid.label>昆虫の遺伝子素体を抽出する</ExtractGenesInsectoid.label>

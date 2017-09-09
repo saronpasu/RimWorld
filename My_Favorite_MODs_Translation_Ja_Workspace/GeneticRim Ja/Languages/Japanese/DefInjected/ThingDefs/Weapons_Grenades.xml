@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Weapon_ThrownSac.label>化学嚢</Weapon_ThrownSac.label>
+    <Weapon_ThrownSac.description>この化学嚢は、刺激すると爆発する不安定な化学物質で満たされています。</Weapon_ThrownSac.description>
+    <rep>
+        <path>Weapon_ThrownSac.verbs[0].label</path>
+        <trans>化学嚢を投げる</trans>
+    </rep>
+</LanguageData>

@@ -4,6 +4,12 @@
   <!-- Various -->
 
   <IncubatorProgress>成長培養プロセスを進行中 ...</IncubatorProgress>
-
+  <ResourceGrowth>副産物の成長度</ResourceGrowth>
+  <FeatherGrowth>羽の成長度</FeatherGrowth>
+  <JellyGrowth>ロイヤルゼリーの量</JellyGrowth>
+  <SacGrowth>化学嚢の成長度</SacGrowth>
+  <SilkGrowth>シルクの成長度</SilkGrowth>
+  <PoisonGrowth>有毒物質の量</PoisonGrowth>
+  <SkinShed>脱皮するまでの間隔</SkinShed>
 
 </LanguageData>

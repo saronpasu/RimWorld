@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <BearffaloWool.label>ベアファロー毛</BearffaloWool.label>
+    <BearffaloWool.description>粗くて強靭な毛。 ベアファローから採れる毛は優れた防熱性と防御性を備えています。</BearffaloWool.description>
+
+    <BoomffaloWool.label>ボムファロー毛</BoomffaloWool.label>
+    <BoomffaloWool.description>奇妙な匂いがついた毛。衣服の材料として最高級の素材ではありませんが、それなりに優れています。また、高い電気絶縁の性能をもちます。</BoomffaloWool.description>
+
+    <MuffalopeWool.label>マッファロープ毛</MuffalopeWool.label>
+    <MuffalopeWool.description>この毛は常に不安定な化学物質を垂れているようです。衣服の材料として最高級の素材ではありませんが、それなりに優れています。また、高い電気絶縁の性能をもちます。</MuffalopeWool.description>
+
+    <ChickenffaloWool.label>チキンファロー毛</ChickenffaloWool.label>
+    <ChickenffaloWool.description>このピュアホワイトの毛はとても繊維が細かく、複雑です。防刃、防弾素材として優れた防御力を発揮します。</ChickenffaloWool.description>
+
+    <MuffalochickenWool.label>マッファローチキン毛</MuffalochickenWool.label>
+    <MuffalochickenWool.description>マッファローチキンの毛は、毛と羽が完全に織り交ぜられており、２つの性質を併せ持っています。打撃に対して高い防御力を発揮します。</MuffalochickenWool.description>
+
+    <MuffalowolfWool.label>マッファローウルフ毛</MuffalowolfWool.label>
+    <MuffalowolfWool.description>このダークグレーの毛はスタイリッシュでとても暖かいです。</MuffalowolfWool.description>
+
+    <WolffaloWool.label>ウォルファロー毛</WolffaloWool.label>
+    <WolffaloWool.description>このダークグレーの毛はスタイリッシュでとても暖かいです。</WolffaloWool.description>
+
+    <ChickenspiderSilk.label>チキンスパイダーシルク</ChickenspiderSilk.label>
+    <ChickenspiderSilk.description>チキンスパイダーから採れる糸で紡がれたシルク。打撃や鋭利な刃物への防御力がわずかに期待できます。しかし、熱に対する防御力はほとんど期待できません。</ChickenspiderSilk.description>
+
+    <SpidersnakeSilk.label>スパイダースネークシルク</SpidersnakeSilk.label>
+    <SpidersnakeSilk.description>スパイダースネークから採れる糸で紡がれたシルク。衣服の素材としてバランスが優れています。</SpidersnakeSilk.description>
+
+    <MuffalopedeChitin.label>マッファローピードのキチン質</MuffalopedeChitin.label>
+    <MuffalopedeChitin.description>昆虫から採れるキチン質は、衣服の素材として使うことができます。硬いキチン質は打撃に対して優れた防御力を発揮します。</MuffalopedeChitin.description>
+
+    <WolfsnakeSkin.label>ウルフスネークの皮</WolfsnakeSkin.label>
+    <WolfsnakeSkin.description>ウルフスネークから剥いた皮。軽く、強く、そして断熱性がある。</WolfsnakeSkin.description>
+
+    <ThrumbearWool.label>スランベア毛</ThrumbearWool.label>
+    <ThrumbearWool.description>スランベアの毛は厚く、強く、暖かいです。 おそらく動物界の最高の毛です。</ThrumbearWool.description>
+
+    <ThrumffaloWool.label>スランファロー毛</ThrumffaloWool.label>
+    <ThrumffaloWool.description>スランファローの毛は、極端な気候に対して最良の防寒性能と防暑性能を提供します。</ThrumffaloWool.description>
+</LanguageData>

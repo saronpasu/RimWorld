@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Bearscarab.label>ベアースカラベ</Bearscarab.label>
-    <Bearscarab.description>熊とメガスカラベの混成種。この巨大なスカラベは高い知性を持ち、猟犬のように訓練を施すことが容易に行えます。</Bearscarab.description>
+    <Bearscarab.description>熊とメガスカラベの混成種。この巨大なスカラベは高い知性を持ち、猟犬のように訓練を施すことが容易に行えます。残念ながら、彼らは生殖能力を備えていません。\n\n特性: 彼らから採れるロイヤルゼリーは、入植者たちのムードを改善するための刺激剤として役立ちます。</Bearscarab.description>
 
     <Boombeetle.label>ボムビートル</Boombeetle.label>
-    <Boombeetle.description>ボマロープとメガスカラベの混成種。この巨大な昆虫は不安定な化学物質を蓄えた爆発しやすい嚢を投げるために、しばしば「ボンバルディア・ビートル」と呼ばれています。これは理論的にはコロニーの防衛的資産として使用することができますが、この昆虫はあまり知的ではなく、危険の兆候を見て逃げる傾向があります。</Boombeetle.description>
+    <Boombeetle.description>ボマロープとメガスカラベの混成種。この巨大な昆虫は不安定な化学物質を蓄えた爆発しやすい嚢を投げるために、しばしば「ボンバルディア・ビートル」と呼ばれています。これは理論的にはコロニーの防衛的資産として使用することができますが、この昆虫はあまり知的ではなく、危険の兆候を見て逃げる傾向があります。残念ながら、彼らは生殖能力を備えていません。\n\n特性: 遠隔攻撃ができる生物です。ボムビートルは定期的に爆発性のある嚢を作り出します。彼らが作り出した嚢は、入植者たちが用いる使い捨ての手榴弾とほぼ同等の性能を備えています。</Boombeetle.description>
 
     <Chickenspider.label>チキンスパイダー</Chickenspider.label>
-    <Chickenspider.description>鶏とメガスパイダーの混成種。</Chickenspider.description>
+    <Chickenspider.description>鶏とメガスパイダーの混成種。この蜘蛛に似た生物は、とても価値のあるシルクを生み出します。卵を産むことができるため、他の昆虫とは社会性が大きく異なります。\n\n特性: シルクが採れます。</Chickenspider.description>
 
     <Muffalopede.label>マッファローピード</Muffalopede.label>
-    <Muffalopede.description>マッファローとスピロピードの混成種。この芋虫のような生物は、インセクトゼリーを生産する数少ない昆虫です。それはまた、数日おきにキチンを産出するので、衣服を作るために使うことができます。</Muffalopede.description>
+    <Muffalopede.description>マッファローとスピロピードの混成種。この芋虫のような生物は、インセクトゼリーを生産する数少ない昆虫です。それはまた、数日おきにキチンを産出するので、衣服を作るために使うことができます。残念ながら、彼らは生殖能力を備えていません。\n\n特性: 荷馬として用いることができます。また、マッファローピードのキチン質とインセクトゼリーが採れます。</Muffalopede.description>
 
     <Thrumbospider.label>スランボスパイダー</Thrumbospider.label>
-    <Thrumbospider.description>スランボとメガスパイダーの混成種。スランボの貪欲な食欲は、メガスパイダーの速い新陳代謝と相まって、この怪物は世話をして維持することがとても困難です。しかし、戦闘ではほとんど無敵です。</Thrumbospider.description>
+    <Thrumbospider.description>スランボとメガスパイダーの混成種。スランボの貪欲な食欲は、メガスパイダーの速い新陳代謝と相まって、この怪物は世話をして維持することがとても困難です。しかし、戦闘ではほとんど無敵です。残念ながら、彼らは生殖能力を備えていません。\n\n特性: もし、適切な訓練と調教を施してある場合、彼らはあなたの敵をことごとく抹殺することでしょう。</Thrumbospider.description>
 
     <Wolfscarab.label>ウルフスカラベ</Wolfscarab.label>
-    <Wolfscarab.description>狼とメガスカラベの混成種。この獰猛な生物は、ほとんどの動物よりも俊敏で、戦闘に特化しています。</Wolfscarab.description>
+    <Wolfscarab.description>狼とメガスカラベの混成種。この獰猛な生物は、ほとんどの動物よりも俊敏で、戦闘に特化しています。残念ながら、彼らは生殖能力を備えていません。\n\n特性: ほとんどの動物よりはるかに素早い。</Wolfscarab.description>
 </LanguageData>

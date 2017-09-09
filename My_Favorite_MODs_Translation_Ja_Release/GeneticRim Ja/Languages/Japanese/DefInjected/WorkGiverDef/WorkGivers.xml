@@ -3,4 +3,8 @@
     <DoBillsGenetics.label>手術を行う</DoBillsGenetics.label>
     <DoBillsGenetics.verb>を手術する</DoBillsGenetics.verb>
     <DoBillsGenetics.gerund>を手術する</DoBillsGenetics.gerund>
+
+    <AnimalResource.label>動物から副産物を採取する</AnimalResource.label>
+    <AnimalResource.verb>を採取する</AnimalResource.verb>
+    <AnimalResource.gerund>を採取する</AnimalResource.gerund>
 </LanguageData>

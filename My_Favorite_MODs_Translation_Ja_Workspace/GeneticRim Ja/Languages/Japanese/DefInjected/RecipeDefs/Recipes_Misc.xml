@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <NeutroamineFromSkin.label>スパイダースネークの皮からニュートロアミンを抽出する</NeutroamineFromSkin.label>
+    <NeutroamineFromSkin.description>スパイダースネークの皮をドラッグラボで粉砕し、処理をすることで微量のニュートロアミンを抽出することができます。</NeutroamineFromSkin.description>
+    <NeutroamineFromSkin.jobString>ニュートロアミンを抽出中</NeutroamineFromSkin.jobString>
+</LanguageData>

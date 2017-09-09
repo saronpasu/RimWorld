@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <FeatherdustJoint.label>フェザーダスト</FeatherdustJoint.label>
+    <FeatherdustJoint.description>ベアチキンの羽を集め、細かい粉末に加工したものを、巻いてタバコのように吸います。これを吸うと穏やかな気分になれます。フェザーダストには常用性があります。</FeatherdustJoint.description>
+    <FeatherdustJoint.ingestible.ingestCommandString>{0}を吸う</FeatherdustJoint.ingestible.ingestCommandString>
+    <FeatherdustJoint.ingestible.ingestReportString>{0}を吸っている</FeatherdustJoint.ingestible.ingestReportString>
+</LanguageData>

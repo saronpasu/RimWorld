@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <NitroMilkTrap.label>IED トラップ</NitroMilkTrap.label>
+    <NitroMilkTrap.description>手製のバッテリーと電極に接続されたマッファロープミルクが充たされたバケツ。引き金に触れると電流が不安定なミルクに流れ、反応を促し、起爆します。即席の引き金なので、敵に逃げる隙を与えてしまうランダムな遅れがあります。</NitroMilkTrap.description>
+</LanguageData>

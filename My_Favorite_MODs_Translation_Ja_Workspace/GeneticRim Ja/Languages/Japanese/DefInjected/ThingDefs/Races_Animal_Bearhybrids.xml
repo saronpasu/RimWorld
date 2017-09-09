@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Bearalope.label>ベアロープ</Bearalope.label>
-    <Bearalope.description>熊とボマロープの混成種。純粋な熊ほど近接戦闘は得意ではありませんが、蓄えられた化学物質は死ぬときに大きな爆発を引き起こします。残念なことに、ベアロープの化学物質は多くの生物に対して極めて毒性が強く有害です。また、彼らの寿命は悲惨なほどに短いです。</Bearalope.description>
+    <Bearalope.description>熊とボマロープの混成種。純粋な熊ほど近接戦闘は得意ではありませんが、蓄えられた化学物質は死ぬときに大きな爆発を引き起こします。残念なことに、ベアロープの化学物質は多くの生物に対して極めて毒性が強く有害です。また、彼らの寿命は悲惨なほどに短いです。\n\n特性: この生き物が死ぬときに、大きな爆発を引き起こします。</Bearalope.description>
 
     <Bearchicken.label>ベアチキン</Bearchicken.label>
-    <Bearchicken.description>熊と鶏の混成種。入植者によって「オウルベア」の愛称で呼ばれることもあります。戦闘では鶏よりもはるかに優れています。</Bearchicken.description>
+    <Bearchicken.description>熊と鶏の混成種。入植者によって「オウルベア」の愛称で呼ばれることもあります。戦闘では鶏よりもはるかに優れています。\n\n特性: 卵を産み、羽が定期的に採れます。この羽はフェザーダストに加工することでタバコのように吸うことができます。</Bearchicken.description>
 
     <Bearffalo.label>ベアファロー</Bearffalo.label>
-    <Bearffalo.description>熊とマッファローの混成種。ミルクと毛糸を生産し、荷馬としても扱うことができます。戦闘ではやや優れてはいますが、マッファローとさほど違いはありません。それに荷馬としてはあまりにも不気味です。</Bearffalo.description>
+    <Bearffalo.description>熊とマッファローの混成種。ミルクと毛糸を生産し、荷馬としても扱うことができます。戦闘ではやや優れてはいますが、マッファローとさほど違いはありません。それに荷馬としてはあまりにも不気味です。\n\n特性: 特別な価値の高いミルクと毛が採れます。また、荷馬としても用いることができます。</Bearffalo.description>
 
     <Bearwolf.label>ベアウルフ</Bearwolf.label>
-    <Bearwolf.description>熊と狼の混成種。熊のように強く、狼のように素早い。迅速な打撃力としては優れていますが、新陳代謝の早い彼らは、たくさんの食物を必要とすることを意味します。</Bearwolf.description>
+    <Bearwolf.description>熊と狼の混成種。熊のように強く、狼のように素早い。迅速な打撃力としては優れていますが、新陳代謝の早い彼らは、たくさんの食物を必要とすることを意味します。\n\n特性: 優れた猟犬。屠殺すると、売れるベアウルフの牙を得ることができる。</Bearwolf.description>
 </LanguageData>

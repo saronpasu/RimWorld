@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <FeatherdustHigh.label>フェザーダストでハイになる</FeatherdustHigh.label>
+    <FeatherdustTolerance.label>フェザーダスト耐性</FeatherdustTolerance.label>
+    <FeatherdustAddiction.label>フェザーダスト中毒</FeatherdustAddiction.label>
+    <FeatherdustWithdrawal.stages.1.label>フェザーダスト禁断症状</FeatherdustWithdrawal.stages.1.label>
+    <FeatherdustWithdrawal.stages.1.description>吸いてぇ.</FeatherdustWithdrawal.stages.1.description>
+</LanguageData>

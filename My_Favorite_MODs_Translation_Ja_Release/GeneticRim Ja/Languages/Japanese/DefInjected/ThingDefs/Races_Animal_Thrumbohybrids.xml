@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Thrumbear.label>スランベア</Thrumbear.label>
-    <Thrumbear.description>この巨大な猛獣は熊と標準的なスランボの遺伝子を掛けあわせた結果です。しなやかで強靭な彼らはとても怒りやすく、スランベアの攻撃はとても恐ろしいものです。</Thrumbear.description>
+    <Thrumbear.description>この巨大な猛獣は熊と標準的なスランボの遺伝子を掛けあわせた結果です。しなやかで強靭な彼らはとても怒りやすく、スランベアの攻撃はとても恐ろしいものです。\n\n特性: 最高級の毛が採れます。</Thrumbear.description>
 
     <Thrumbalope.label>スランバロープ</Thrumbalope.label>
-    <Thrumbalope.description>スランバロープはスランボとボマロープの遺伝子を掛けあわせた誕生した新種のスランボです。彼らの巨大な嚢に蓄えられた不安定な化学物質は信じられない規模の爆発を引き起こします。あまりの爆発に入植者たちの間では「ヌカロープ」とも呼ばれています。</Thrumbalope.description>
+    <Thrumbalope.description>スランバロープはスランボとボマロープの遺伝子を掛けあわせた誕生した新種のスランボです。彼らの巨大な嚢に蓄えられた不安定な化学物質は信じられない規模の爆発を引き起こします。あまりの爆発に入植者たちの間では「ヌカロープ」とも呼ばれています。\n\n特性: 死亡時に広範囲に大爆発を引き起こします。</Thrumbalope.description>
 
     <Thrumbochicken.label>スランボチキン</Thrumbochicken.label>
-    <Thrumbochicken.description>スランボチキンはスランボと鳥類の遺伝子を掛けあわせて誕生した新種のスランボです。あまり貪欲ではありませんが、他の生物を捕食することもある極めて危険な捕食者です。また、信じられないほど巨大な卵を産みます！</Thrumbochicken.description>
+    <Thrumbochicken.description>スランボチキンはスランボと鳥類の遺伝子を掛けあわせて誕生した新種のスランボです。あまり貪欲ではありませんが、他の生物を捕食することもある極めて危険な捕食者です。また、信じられないほど巨大な卵を産みます！\n\n特性: すべての動物の中で最大級の卵が採れます。</Thrumbochicken.description>
 
     <Thrumffalo.label>スランファロー</Thrumffalo.label>
-    <Thrumffalo.description>この巨大な有蹄類は、マッファローとスランボの遺伝子を掛けあわせた結果です。膨大な積み荷を運ぶことができます。リムにはこれ以上の荷馬は存在しません。</Thrumffalo.description>
+    <Thrumffalo.description>この巨大な有蹄類は、マッファローとスランボの遺伝子を掛けあわせた結果です。膨大な積み荷を運ぶことができます。リムにはこれ以上の荷馬は存在しません。 (yet! Science never rests).\n\n特性: 最高級のミルクと毛が採れます。</Thrumffalo.description>
 
     <Thrumwolf.label>スランウルフ</Thrumwolf.label>
-    <Thrumwolf.description>この巨大な捕食者はスランボと狼を遺伝子を掛けあわせた結果です。常に獲物に飢えており、とても俊敏です。飢えたスランウルフによって、その地域全体の生態系が大きく狂わされることがあります。</Thrumwolf.description>
+    <Thrumwolf.description>この巨大な捕食者はスランボと狼を遺伝子を掛けあわせた結果です。常に獲物に飢えており、とても俊敏です。飢えたスランウルフによって、その地域全体の生態系が大きく狂わされることがあります。\n\n特性: 適切な訓練と調教を施すことができれば、侵入者を切り裂く俊敏な捕食者になるだろう。しかし、多くの食べ物を必要とします。</Thrumwolf.description>
 </LanguageData>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Wolfbear.label>ウルフベア</Wolfbear.label>
-    <Wolfbear.description>狼と熊の混成種。標準的なシンリンオオカミにとてもよく似ていますが、よりタフなスタミナを備えています。</Wolfbear.description>
+    <Wolfbear.description>狼と熊の混成種。標準的なシンリンオオカミにとてもよく似ていますが、よりタフなスタミナを備えています。\n\n特性: 猟犬や番犬として優れた動物です。屠殺すると、売ることのできるウルフベアの足を得ることができます。</Wolfbear.description>
 
     <Wolfalope.label>ウォルファロープ</Wolfalope.label>
-    <Wolfalope.description>狼とボマロープの混成種。彼らよりも大きな脅威と遭遇すると爆発することがある、極めて危険な捕食者。</Wolfalope.description>
+    <Wolfalope.description>狼とボマロープの混成種。彼らよりも大きな脅威と遭遇すると爆発することがある、極めて危険な捕食者。この動物の毛皮とボマロープ結節との間では摩擦による静電気が保たれています。この動物が死亡した際に、静電気が解放されボマロープ結節を起爆します。\n\n特性: 危険な電磁波パルス(EMPダメージ)で死亡すると爆発します。</Wolfalope.description>
 
     <Wolfchicken.label>ウルフチキン</Wolfchicken.label>
-    <Wolfchicken.description>狼と鶏の混成種。あなたはこんな話を知っていますか？狼に鶏舎の番犬を任せると、その晩の夕飯にはいくつかのチキンディナーが出ることでしょう。まぁ、お察し下さい。</Wolfchicken.description>
+    <Wolfchicken.description>狼と鶏の混成種。あなたはこんな話を知っていますか？狼に鶏舎の番犬を任せると、その晩の夕飯にはいくつかのチキンディナーが出ることでしょう。まぁ、お察し下さい。\n\n特性: 卵を産みます。未加工でも価値のある羽が定期的に採れます。</Wolfchicken.description>
 
     <Wolffalo.label>ウォルファロー</Wolffalo.label>
-    <Wolffalo.description>狼とマッファローの混成種。荷馬としては信じられないほど優秀です。しかし、毛糸はとても早く刈ることができます。</Wolffalo.description>
+    <Wolffalo.description>狼とマッファローの混成種。荷馬としては信じられないほど優秀です。しかし、毛糸はとても早く刈ることができます。\n\n荷馬として用いることができます。また、とても短い間隔でミルクと毛が採れます。</Wolffalo.description>
 </LanguageData>

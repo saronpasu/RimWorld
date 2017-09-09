@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <WeirdMilk.label>奇妙なミルク</WeirdMilk.label>
+    <WeirdMilk.description>この奇妙なミルクは酸味があり、化学物質の独特な風味があります。</WeirdMilk.description>
+
+    <MuffalopeMilk.label>マッファロープのミルク</MuffalopeMilk.label>
+    <MuffalopeMilk.description>この黄色の濃厚なミルクは、食べ物ではありません。 非常に不安定なので、あなたが適切な知識を持っていれば即興爆薬として使用できるかもしれません。</MuffalopeMilk.description>
+
+    <BearffaloMilk.label>ベアファローのミルク</BearffaloMilk.label>
+    <BearffaloMilk.description>ベアファローから採れるミルク。脂肪がとても多く含まれ、非常に栄養価が高い。</BearffaloMilk.description>
+
+    <ThrumffaloMilk.label>スランファローのミルク</ThrumffaloMilk.label>
+    <ThrumffaloMilk.description>スランファローから採れるミルク。非常に栄養価が高い食料です。また、信じられないほど多くのコレステロールを含みます。しかし、リムでは誰も高コレステロールなものを否定することはないでしょう。</ThrumffaloMilk.description>
+
+    <MuffalochickenMilk.label>マッファローチキンのミルク</MuffalochickenMilk.label>
+    <MuffalochickenMilk.description>この塊のように見えるミルクからは、チキンナゲットのような味のタンパク質が濃縮された厚切れが採れます。嫌なことだが、入植者はこの厚切れを好むようだ。</MuffalochickenMilk.description>
+
+    <ChickenffaloMilk.label>チキンファローのミルク</ChickenffaloMilk.label>
+    <ChickenffaloMilk.description>チキンファローから採れるミルク。水っぽいミルクのようにみえます。おそらく、水のほうがまだましでしょう。</ChickenffaloMilk.description>
+
+    <MuffalobearMilk.label>マッファローベアのミルク</MuffalobearMilk.label>
+    <MuffalobearMilk.description>とても美味しいミルク、それはまさにローストが奏でるオーバートーン。食べるのがとても楽しいですが、栄養価はほとんどありません。</MuffalobearMilk.description>
+
+    <WolffaloMilk.label>ウォルファローのミルク</WolffaloMilk.label>
+    <WolffaloMilk.description>このミルクは灰色の羊毛の束で満たされているようです。苦くて、とても飲めたものではない ...</WolffaloMilk.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Owlbearfeathers.label>オウルベアの羽</Owlbearfeathers.label>
+    <Owlbearfeathers.description>ベアチキンの羽毛を集め、細かい粉末に加工して、燃やして吸うと穏やかな気分になれます。</Owlbearfeathers.description>
+
+    <BearwolfFangs.label>ベアウルフの牙</BearwolfFangs.label>
+    <BearwolfFangs.description>ベアウルフの鋭い牙。この牙は材料としては役に立ちません。しかし、耐久性が高いため、リムワールドではいくつかの原始的な部族がこういった動物の歯や牙などを通貨として使う傾向があります。誰かがこの牙を支払いに使うかもしれませんね。</BearwolfFangs.description>
+
+    <WolfchickenFeathers.label>ウルフチキンの羽</WolfchickenFeathers.label>
+    <WolfchickenFeathers.description>ウルフチキンの羽はカラフルでかわいいです。衣服の材料として役に立ちません。しかし、誰かが装飾品として取引の材料にするかもしれません。</WolfchickenFeathers.description>
+
+    <WolfbearPaws.label>ウルフベアの足</WolfbearPaws.label>
+    <WolfbearPaws.description>切断されたウルフベアの巨大な足。原始的な部族では、この巨大な足は幸運の象徴や、トロフィーとしてみなされます。誰かがこれを取引の材料にするかもしれません。</WolfbearPaws.description>
+
+    <VerySmallTeeth.label>とても小さい歯</VerySmallTeeth.label>
+    <VerySmallTeeth.description>この小さい歯は非常に高い耐久性をもちます。リムワールドの一部の部族は、動物の歯を通貨として使う傾向があるので、若干価値があるかもしれません。</VerySmallTeeth.description>
+
+    <SpidersnakeSkin.label>スパイダーチキンの皮</SpidersnakeSkin.label>
+    <SpidersnakeSkin.description>この皮は、ドラッグラボで粉砕し、処理をすることで微量のニュートロアミンを抽出することができます。</SpidersnakeSkin.description>
+</LanguageData>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Boomabear.label>ボマベア</Boomabear.label>
-    <Boomabear.description>ボマロープと熊の混成種。標準的なボマロープよりも強力で、倒れた際に小さく集中した爆発を引き起こします。狭い空間で爆発した場合、非常に危険です。</Boomabear.description>
+    <Boomabear.description>ボマロープと熊の混成種。標準的なボマロープよりも強力で、倒れた際に小さく集中した爆発を引き起こします。狭い空間で爆発した場合、非常に危険です。\n\n特性: 炎の代わりに爆発ダメージで爆発する唯一のボマロープの混成種。極めて危険！</Boomabear.description>
 
     <Boomachicken.label>ボマチキン</Boomachicken.label>
-    <Boomachicken.description>ボマロープと鶏の混成種。この生物は、通常の卵と特殊な化学物質で満たされた緑色の特殊な卵の２種類の卵を産みます。特殊な卵は通常は産まれず、この生物が死ぬと解放されます。特殊な卵は大気に触れると数秒で爆発します。</Boomachicken.description>
+    <Boomachicken.description>ボマロープと鶏の混成種。この生物は、通常の卵と特殊な化学物質で満たされた緑色の特殊な卵の２種類の卵を産みます。特殊な卵は通常は産まれず、この生物が死ぬと解放されます。特殊な卵は大気に触れると数秒で爆発します。\n\n特性: エッグスプロージョン！！</Boomachicken.description>
 
     <Boomffalo.label>ボムファロー</Boomffalo.label>
-    <Boomffalo.description>ボマロープとマッファローの混成種。商品を輸送するのが少し不安ですが、ミルクと毛糸がとれます。遺伝子工学の観点からみると、この生物を安定化させることはとても困難でした。なぜなら、マッファローのバイオロジーとボマロープの化学嚢は両立しないからです。繊細なバランスを保つために、化学的な冷凍剤を使用しています。</Boomffalo.description>
+    <Boomffalo.description>ボマロープとマッファローの混成種。輸送のための荷馬としては少し不安です。なぜなら、今まで荷馬として用いられたことはなく、ミルクと毛を採るために利用されてきました。遺伝子工学の観点からみると、この生物を安定化させるのは困難でした。それはマッファローの生態はボマロープの化学嚢と両立しないことが理由です。この繊細なバランスを保つために、化学的に合成された冷却剤が用いられています。\n\n特性: 価値の低いミルクと平均的な価値の毛が採れます。死亡時に凍傷を誘発する爆発を引き起こします。</Boomffalo.description>
 
     <Boomwolf.label>ボムウルフ</Boomwolf.label>
-    <Boomwolf.description>ボマロープと狼の混成種。通常のボマロープよりも素早く、そして強力な噛みつきをすることができます。</Boomwolf.description>
+    <Boomwolf.description>ボマロープと狼の混成種。通常のボマロープよりも素早く、そして強力な噛みつきをすることができます。\n\n特性: 死亡時に大きな威力の爆発を引き起こします。この爆発の範囲に巻き込まれた生き物をスタンさせます。</Boomwolf.description>
 </LanguageData>

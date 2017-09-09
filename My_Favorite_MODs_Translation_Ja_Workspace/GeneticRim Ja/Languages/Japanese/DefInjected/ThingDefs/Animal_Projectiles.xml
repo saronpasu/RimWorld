@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    <BaseAnimalProjectile.label>発射体</BaseAnimalProjectile.label>
-    <Proj_ThrownSac.label>射出された発射体</Proj_ThrownSac.label>
+    <BaseAnimalProjectile.label>化学嚢</BaseAnimalProjectile.label>
+    <Proj_ThrownSac.label>射出された化学嚢</Proj_ThrownSac.label>
 </LanguageData>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Muffalobear.label>マッファローベア</Muffalobear.label>
-    <Muffalobear.description>マッファローと熊の混成種。マッファローベアは毛糸を生産しないマッファローのより強い変異体です。</Muffalobear.description>
+    <Muffalobear.description>マッファローと熊の混成種。マッファローベアは毛糸を生産しないマッファローのより強い変異体です。\n\n特性: マッファローベアからは特殊なミルクが採れます。栄養価は低いが、摂取することで軽度の陶酔効果を与えます。また、彼らは従来のマッファローよりも多くの重量を運ぶことのできる荷馬でもあります。</Muffalobear.description>
 
     <Muffalope.label>マッファロープ</Muffalope.label>
-    <Muffalope.description>マッファローとボマロープの混成種。それは最高にクールです、なぜならあなたのキャラバンは常に爆発する危険性があるからです。</Muffalope.description>
+    <Muffalope.description>マッファローとボマロープの混成種。それは最高にクールです、なぜならあなたのキャラバンは常に爆発する危険性があるからです。\n\n特性: この動物から採れるミルクは食用ではありません。しかし、爆発性が高いためIEDトラップの素材として利用できます。また、低品質の毛が採れます。</Muffalope.description>
 
     <Muffalochicken.label>マッファローチキン</Muffalochicken.label>
-    <Muffalochicken.description>マッファローと鶏の混成種。卵を産むとても変わった牛です。</Muffalochicken.description>
+    <Muffalochicken.description>マッファローと鶏の混成種。卵を産むとても変わった牛です。\n\n特性: 高級なミルクと毛が採れます。</Muffalochicken.description>
 
     <Muffalowolf.label>マッファローウルフ</Muffalowolf.label>
-    <Muffalowolf.description>マッファローと狼の混成種。標準的なマッファローよりも俊敏で、捕食者から自分たちの群れを守ることができますが、ミルクを生産する能力を失いました。</Muffalowolf.description>
+    <Muffalowolf.description>マッファローと狼の混成種。標準的なマッファローよりも俊敏で、捕食者から自分たちの群れを守ることができますが、ミルクを生産する能力を失いました。\n\n特性: 荷馬としては高い敏捷性。</Muffalowolf.description>
 </LanguageData>

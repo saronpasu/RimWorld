@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <Bearodile.label>ベアロダイル</Bearodile.label>
-    <Bearodile.description>爬虫類と熊の混成種。この遺伝子合成に使用された爬虫類の遺伝子は、古代の爬虫類の特徴を与えました。その結果、彼らは地球上のペルム紀の爬虫類に似た形状をしています。さらに彼らは毒性のある牙を得ています。</Bearodile.description>
+    <Bearodile.description>爬虫類と熊の混成種。この遺伝子合成に使用された爬虫類の遺伝子は、古代の爬虫類の特徴を与えました。その結果、彼らは地球上のペルム紀の爬虫類に似た形状をしています。さらに彼らは毒性のある牙を得ています。\n\n特性: 高い知能と毒性のある牙を備えています。適切な訓練と調教が施されれば、拠点防衛の頼もしい戦力となることでしょう。</Bearodile.description>
 
     <Boomsnake.label>ボムスネーク</Boomsnake.label>
-    <Boomsnake.description>爬虫類とボマロープの混成種。ボムスネークは、それほど強く機敏な戦闘員ではありません。しかし、彼らは死ぬと毒性のある霧を撒き散らして爆発します。それは肉を溶かすには十分なほどに強力です。</Boomsnake.description>
+    <Boomsnake.description>爬虫類とボマロープの混成種。ボムスネークは、それほど強く機敏な戦闘員ではありません。しかし、彼らは死ぬと毒性のある霧を撒き散らして爆発します。それは肉を溶かすには十分なほどに強力です。\n\n特性: 毒を含んだ爆発は、襲撃者を抹殺するために猛威を振るいます。</Boomsnake.description>
 
     <Chickenlizard.label>チキンリザード</Chickenlizard.label>
-    <Chickenlizard.description>爬虫類と鶏の混成種。この爬虫類の鶏は牙に少量の毒を備えています。それほど強力ではありませんが、鶏の繁殖力を考えればチキンリザードの群れは、はるかに巨大な生物を圧倒するには十分かもしれません。</Chickenlizard.description>
+    <Chickenlizard.description>爬虫類と鶏の混成種。この爬虫類の鶏は牙に少量の毒を備えています。それほど強力ではありませんが、鶏の繁殖力を考えればチキンリザードの群れは、はるかに巨大な生物を圧倒するには十分かもしれません。\n\n特性: 小型で、繁殖力が高く、毒を備えた鶏です。</Chickenlizard.description>
 
     <Muffalokomodo.label>マッファローコモド</Muffalokomodo.label>
-    <Muffalokomodo.description>爬虫類とマッファローの混成種。このしなやかな獣は、通常のマッファローよりも多くの積み荷を運ぶことができます。また、彼らの牙には猛毒を備えています。</Muffalokomodo.description>
+    <Muffalokomodo.description>爬虫類とマッファローの混成種。このしなやかな獣は、通常のマッファローよりも多くの積み荷を運ぶことができます。また、彼らの牙には猛毒を備えています。\n\n特性: 小さなカプセルを充たすのに十分な量の毒を定期的に作り出します。マッファローコモドの唾液は、強力な筋肉麻痺薬として作用します。</Muffalokomodo.description>
 
     <Spidersnake.label>スパイダースネーク</Spidersnake.label>
     <Spidersnake.description>爬虫類と昆虫の混成種。この殻を纏った毒蛇は群れを成すことで危険性を増します。</Spidersnake.description>
 
     <Thrumbolizard.label>スランボリザード</Thrumbolizard.label>
-    <Thrumbolizard.description>爬虫類とスランボの混成種。信じられないほど強力な顎には、致死性の猛毒を備えています。</Thrumbolizard.description>
+    <Thrumbolizard.description>爬虫類とスランボの混成種。信じられないほど強力な顎には、致死性の猛毒を備えています。\n\n特性: 小さなカプセルを充たすのに十分な量の毒を定期的に作り出します。スランボリザードの毒は、100%の致死毒であり、即効性のある解毒剤は存在しません。</Thrumbolizard.description>
 
     <Wolfsnake.label>ウルフスネーク</Wolfsnake.label>
-    <Wolfsnake.description>爬虫類と狼の混成種。このヘビのような捕食者は、稲妻のような俊敏さと、極めて高い毒性を持つ牙で武装しています。</Wolfsnake.description>
+    <Wolfsnake.description>爬虫類と狼の混成種。このヘビのような捕食者は、稲妻のような俊敏さと、極めて高い毒性を持つ牙で武装しています。\n\n俊敏さと彼らが持つ毒は、拠点防衛の頼もしい戦力になるでしょう。彼らは時々、脱皮します。</Wolfsnake.description>
 </LanguageData>
